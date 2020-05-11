@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+
+  <!--STM32通用资料-->
+
+  <project remote="Embedfire-stm32f103-zhinanzhe" revision="master" 
+    groups="stm32f1_common" name="ebf_stm32f1_official_data" 
+    path="野火STM32开发板/STM32F1官方资料"/>
+
+  <project remote="Embedfire-stm32f407-batianhu" revision="master" 
+    groups="stm32f407_common" name="ebf_stm32f407_official_data" 
+    path="野火STM32开发板/STM32F407官方资料"/>
+
+  <project remote="Embedfire-stm32f429-tiaozhanzhe" revision="master" 
+    groups="stm32f429_common" name="ebf_stm32f429_official_data" 
+    path="野火STM32开发板/STM32F429官方资料"/>
+
+
+
+</manifest>

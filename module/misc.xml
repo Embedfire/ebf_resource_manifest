@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+
+  <!--杂类模块-->
+  <project remote="Embedfire-misc" revision="master" groups="w5500" name="ebf_enternet_w5500" path="野火模块产品/以太网/w5500/配套资料"/>
+  <project remote="Embedfire-misc" revision="master" groups="relay" name="ebf_relay_4" path="野火模块产品/继电器/四路继电器/配套资料"/>
+  <project remote="Embedfire-misc" revision="master" groups="vs1053" name="ebf_mp3_vs1053" path="野火模块产品/音频/mp3_vs1053/配套资料"/>
+
+</manifest>

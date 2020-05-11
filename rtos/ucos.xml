@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+
+
+  <!--开源图书-->
+    <!--操作系统-->
+
+  <project remote="Embedfire-ucos" revision="master" groups="ucos,ucos_base" name="ebf_ucos_tutorial" path="野火开源图书/[野火]《uCOS-III 内核实现与应用开发实战》/rst格式文档"/>
+
+  <project remote="Embedfire-ucos" revision="master" groups="ucos,ucos_base" name="ebf_ucos_tutorial_pdf" path="野火开源图书/[野火]《uCOS-III 内核实现与应用开发实战》/pdf文档"/>
+  <project remote="Embedfire-ucos" revision="master" groups="ucos,ucos_base" name="ebf_ucos_data" path="野火开源图书/[野火]《uCOS-III 内核实现与应用开发实战》/参考资料"/>
+      <!--第一部分代码，配套各个开发板-->
+  <project remote="Embedfire-ucos" revision="master" groups="ucos,ucos_base" name="ebf_ucos_tutorial_code_1" path="野火开源图书/[野火]《uCOS-III 内核实现与应用开发实战》/配套代码/第一部分"/>
+
+      <!--第二部分代码，配套各个开发板-->
+  <project remote="Embedfire-ucos" revision="master" groups="ucos,ucos_part2,ucos_stm32f103_mini" name="ebf_ucos_tutorial_code_2_stm32f103_mini" path="野火开源图书/[野火]《uCOS-III 内核实现与应用开发实战》/配套代码/第二部分/F103_MINI"/>
+  <project remote="Embedfire-ucos" revision="master" groups="ucos,ucos_part2,ucos_stm32f103_zhinanzhe" name="ebf_ucos_tutorial_code_2_stm32f103_zhinanzhe" path="野火开源图书/[野火]《uCOS-III 内核实现与应用开发实战》/配套代码/第二部分/F103_指南者"/>
+  <project remote="Embedfire-ucos" revision="master" groups="ucos,ucos_part2,ucos_stm32f103_badao" name="ebf_ucos_tutorial_code_2_stm32f103_badao" path="野火开源图书/[野火]《uCOS-III 内核实现与应用开发实战》/配套代码/第二部分/F103_霸道"/>
+  <project remote="Embedfire-ucos" revision="master" groups="ucos,ucos_part2,ucos_stm32f407_batianhu" name="ebf_ucos_tutorial_code_2_stm32f407_batianhu" path="野火开源图书/[野火]《uCOS-III 内核实现与应用开发实战》/配套代码/第二部分/F407_霸天虎"/>
+  <project remote="Embedfire-ucos" revision="master" groups="ucos,ucos_part2,ucos_stm32f429_tiaozhanzhe" name="ebf_ucos_tutorial_code_2_stm32f429_tiaozhanzhe" path="野火开源图书/[野火]《uCOS-III 内核实现与应用开发实战》/配套代码/第二部分/F429_挑战者"/>
+  <project remote="Embedfire-ucos" revision="master" groups="ucos,ucos_part2,ucos_stm32f767_tiaozhanzhe" name="ebf_ucos_tutorial_code_2_stm32f767_tiaozhanzhe" path="野火开源图书/[野火]《uCOS-III 内核实现与应用开发实战》/配套代码/第二部分/F767_挑战者"/>
+  <project remote="Embedfire-ucos" revision="master" groups="ucos,ucos_part2,ucos_stm32h743_pro" name="ebf_ucos_tutorial_code_2_stm32h743_pro" path="野火开源图书/[野火]《uCOS-III 内核实现与应用开发实战》/配套代码/第二部分/H743_Pro"/>
+  <project remote="Embedfire-ucos" revision="master" groups="ucos,ucos_part2,ucos_stm32h743_pro" name="ebf_ucos_tutorial_code_2_stm32h743_v_pro" path="野火开源图书/[野火]《uCOS-III 内核实现与应用开发实战》/配套代码/第二部分/H743_Pro_V版本芯片"/>
+  <project remote="Embedfire-ucos" revision="master" groups="ucos,ucos_part2,ucos_stm32h743_tiaozhanzhe" name="ebf_ucos_tutorial_code_2_stm32h743_tiaozhanzhe" path="野火开源图书/[野火]《uCOS-III 内核实现与应用开发实战》/配套代码/第二部分/H743_挑战者"/>
+  <project remote="Embedfire-ucos" revision="master" groups="ucos,ucos_part2,ucos_stm32h750_pro" name="ebf_ucos_tutorial_code_2_stm32h750_pro" path="野火开源图书/[野火]《uCOS-III 内核实现与应用开发实战》/配套代码/第二部分/H750_Pro"/>
+  <project remote="Embedfire-ucos" revision="master" groups="ucos,ucos_part2,ucos_stm32h750_pro" name="ebf_ucos_tutorial_code_2_stm32h750_v_pro" path="野火开源图书/[野火]《uCOS-III 内核实现与应用开发实战》/配套代码/第二部分/H750_Pro_V版本芯片"/>
+  <project remote="Embedfire-ucos" revision="master" groups="ucos,ucos_part2,ucos_rt1052" name="ebf_ucos_tutorial_code_2_rt1052" path="野火开源图书/[野火]《uCOS-III 内核实现与应用开发实战》/配套代码/第二部分/RT1052"/>
+
+
+</manifest>

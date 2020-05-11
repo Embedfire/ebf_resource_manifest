@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+
+  <!--开源图书-->
+    <!--操作系统-->
+
+  <project remote="Embedfire-emxgui" revision="master" groups="emxgui,emxgui_base" name="emXGUI_tutorial" path="野火开源图书/[野火]《emXGUI应用开发实战指南》/rst格式文档"/>
+
+  <project remote="Embedfire-emxgui" revision="master" groups="emxgui,emxgui_base" name="emXGUI_API_manal" path="野火开源图书/[野火]《emXGUI应用开发实战指南》/emXGUI_API手册_rst格式"/>
+  <project remote="Embedfire-emxgui" revision="master" groups="emxgui,emxgui_base" name="emXGUI_tutorial_pdf" path="野火开源图书/[野火]《emXGUI应用开发实战指南》/pdf文档"/>
+
+  <project remote="Embedfire-emxgui" revision="master" groups="emxgui,emxgui_base" name="emXGUI_tutorial_code_vs" path="野火开源图书/[野火]《emXGUI应用开发实战指南》/入门代码_vs平台"/>
+  <project remote="Embedfire-emxgui" revision="master" groups="emxgui,emxgui_base" name="emXGUI_demo_vs" path="野火开源图书/[野火]《emXGUI应用开发实战指南》/综合例程_vs平台"/>
+  <project remote="Embedfire-emxgui" revision="master" groups="emxgui,emxgui_base" name="emXGUI_tutorial_code" path="野火开源图书/[野火]《emXGUI应用开发实战指南》/入门代码_嵌入式平台"/>
+
+      <!--综合例程，各个开发板-->
+  <project remote="Embedfire-emxgui" revision="master" groups="emxgui,emxgui_synthesize_code,emxgui_stm32f103_mini" name="emXGUI_demo_stm32f103rc_2.8_3.2" path="野火开源图书/[野火]《emXGUI应用开发实战指南》/综合例程/F103_MINI"/>
+  <project remote="Embedfire-emxgui" revision="master" groups="emxgui,emxgui_synthesize_code,emxgui_stm32f103_zhinanzhe" name="emXGUI_demo_stm32f103ve_2.8_3.2" path="野火开源图书/[野火]《emXGUI应用开发实战指南》/综合例程/F103_指南者_2.8_3.2寸屏"/>
+  <project remote="Embedfire-emxgui" revision="master" groups="emxgui,emxgui_synthesize_code,emxgui_stm32f103_zhinanzhe" name="emXGUI_demo_stm32f103ve_4.3_4.5" path="野火开源图书/[野火]《emXGUI应用开发实战指南》/综合例程/F103_指南者_4.3_4.5寸屏"/>
+  <project remote="Embedfire-emxgui" revision="master" groups="emxgui,emxgui_synthesize_code,emxgui_stm32f103_badao" name="emXGUI_demo_stm32f103_2.8_3.2" path="野火开源图书/[野火]《emXGUI应用开发实战指南》/综合例程/F103_霸道_2.8_3.2寸屏"/>
+  <project remote="Embedfire-emxgui" revision="master" groups="emxgui,emxgui_synthesize_code,emxgui_stm32f103_badao" name="emXGUI_demo_stm32f103_4.3_4.5" path="野火开源图书/[野火]《emXGUI应用开发实战指南》/综合例程/F103_霸道_4.3_4.5寸屏"/>
+  <project remote="Embedfire-emxgui" revision="master" groups="emxgui,emxgui_synthesize_code,emxgui_stm32f407_batianhu" name="emXGUI_demo_stm32f407_3.2_2.8" path="野火开源图书/[野火]《emXGUI应用开发实战指南》/综合例程/F407_霸天虎_2.8_3.2寸屏"/>
+  <project remote="Embedfire-emxgui" revision="master" groups="emxgui,emxgui_synthesize_code,emxgui_stm32f407_batianhu" name="emXGUI_demo_stm32f407_4.3_4.5" path="野火开源图书/[野火]《emXGUI应用开发实战指南》/综合例程/F407_霸天虎_4.3_4.5寸屏"/>
+  <project remote="Embedfire-emxgui" revision="master" groups="emxgui,emxgui_synthesize_code,emxgui_stm32f429_tiaozhanzhe" name="emXGUI_demo_stm32f429" path="野火开源图书/[野火]《emXGUI应用开发实战指南》/综合例程/F429_挑战者"/>
+  <project remote="Embedfire-emxgui" revision="master" groups="emxgui,emxgui_synthesize_code,emxgui_stm32f767_tiaozhanzhe" name="emXGUI_demo_stm32f767_4.3_5_7" path="野火开源图书/[野火]《emXGUI应用开发实战指南》/综合例程/F767_挑战者"/>
+  <project remote="Embedfire-emxgui" revision="master" groups="emxgui,emxgui_synthesize_code,emxgui_stm32h743_pro" name="emXGUI_demo_stm32h743_v" path="野火开源图书/[野火]《emXGUI应用开发实战指南》/综合例程/H743_Pro"/>
+  <project remote="Embedfire-emxgui" revision="master" groups="emxgui,emxgui_synthesize_code,emxgui_stm32h743_tiaozhanzhe" name="emXGUI_demo_stm32h743_tiaozhanzhe" path="野火开源图书/[野火]《emXGUI应用开发实战指南》/综合例程/H743_挑战者"/>
+  <project remote="Embedfire-emxgui" revision="master" groups="emxgui,emxgui_synthesize_code,emxgui_stm32h750_pro" name="emXGUI_demo_stm32h750_v" path="野火开源图书/[野火]《emXGUI应用开发实战指南》/综合例程/H750_Pro"/>
+
+  <project remote="Embedfire-emxgui" revision="master" groups="emxgui,emxgui_synthesize_code,emxgui_rt1052" name="emXGUI_demo_rt1052" path="野火开源图书/[野火]《emXGUI应用开发实战指南》/综合例程/imxrt1052"/>
+
+  <project remote="Embedfire-emxgui" revision="master" groups="emxgui,emxgui_synthesize_code,emxgui_imx6" name="emXGUI_demo_EBF6ULL" path="野火开源图书/[野火]《emXGUI应用开发实战指南》/综合例程/imx6ull"/>
+
+</manifest>

@@ -1,0 +1,44 @@
+{
+  "电机相关": [
+    { 
+      "productName": "步进电机_驱动器_YH-MSD4805 模块",
+      "productLink": "http://products.embedfire.com/zh_CN/latest/module/motor/msd4805.html",
+      "repoGroup": [
+        {
+          "groupName":"基本资料",
+          "group":"msd4805",
+          "descript":"包含原理图、代码、教程等"
+        }
+      ],
+      "cloudLink":[
+        {
+          "linkName":"百度云-野火【步进电机_驱动器_YH-MSD4805】模块",
+          "link":"https://pan.baidu.com/s/1SVUBCfJWjSbmqZ895Fi6uw",
+          "code":"8xm1"
+        }
+      ]
+     },
+
+
+    { 
+      "productName": "继电器_四路",
+      "productLink": "http://products.embedfire.com/zh_CN/latest/module/relay/relay_4.html",
+      "repoGroup": [
+        {
+          "groupName":"基本资料",
+          "group":"relay",
+          "descript":"包含原理图、代码、教程等"
+        }
+      ],
+      "cloudLink":[
+        {
+          "linkName":"百度云-野火【继电器_四路】",
+          "link":"https://pan.baidu.com/s/19xC4BJDvE7gtl8QyDS8jwA",
+          "code":"4d4h"
+        }
+      ]
+     }
+
+
+   ]
+}

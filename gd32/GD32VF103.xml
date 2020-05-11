@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+
+  <!--GD32VF103-->
+
+  <project remote="Embedfire-gd32" revision="master" 
+    groups="gd32vf103"
+    name="ebf_gd32vf103_hardware" 
+    path="野火GD32开发板/GD32VF103/硬件资料"/>
+
+  <project remote="Embedfire-gd32" revision="master" 
+    groups="gd32vf103"
+    name="ebf_gd32vf103_code" 
+    path="野火GD32开发板/GD32VF103/配套代码"/>
+
+
+</manifest>

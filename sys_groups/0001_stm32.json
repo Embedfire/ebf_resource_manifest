@@ -1,0 +1,1470 @@
+{
+  "STM32系列开发板": [
+    { 
+      "productName": "STM32F103_MINI开发板",
+      "productLink": "http://products.embedfire.com/zh_CN/latest/stm32/ebf_stm32f103_mini.html",
+      "repoGroup": [
+        {
+          "groupName":"基本资料（必看）",
+          "group":"stm32f1_common,stm32f103_mini",
+          "descript":"推荐先学习这部分的内容，包含硬件、库开发等"
+        },
+        {
+          "groupName":"freertos系统（进阶学习）",
+          "group":"freertos_base,freertos_stm32f103_mini",
+          "descript":"适用于本开发板的freertos资料"
+        },
+        {
+          "groupName":"liteos系统（进阶学习）",
+          "group":"liteos_base,liteos_stm32f103_mini",
+          "descript":"适用于本开发板的liteos资料"
+        },
+        {
+          "groupName":"rtthread系统（进阶学习）",
+          "group":"rtthread_base,rtthread_stm32f103_mini",
+          "descript":"适用于本开发板的rtthread资料"
+        },
+        {
+          "groupName":"ucos系统（进阶学习）",
+          "group":"ucos_base,ucos_stm32f103_mini",
+          "descript":"适用于本开发板的ucos资料"
+        },
+        {
+          "groupName":"emWin图形界面（进阶学习2）",
+          "group":"emwin_base,emwin_stm32f103_mini",
+          "descript":"emWin图形库教程及代码"
+        },
+        {
+          "groupName":"emXGUI图形界面（进阶学习2）",
+          "group":"emxgui_base,emxgui_stm32f103_mini",
+          "descript":"野火emXGUI图形界面库"
+        },
+        {
+          "groupName":"显示屏（模块资料）",
+          "group":"lcd_8080,oled_spi,oled_i2c",
+          "descript":"8080接口（MCU）的液晶屏、OLED等"
+        },
+        {
+          "groupName":"GPS定位模块（模块资料）",
+          "group":"gps",
+          "descript":"全球定位系统，包含GPS、北斗等"
+        },
+        {
+          "groupName":"电机驱动（模块资料）",
+          "group":"msd4805",
+          "descript":"各种电机驱动器模块"
+        },
+        {
+          "groupName":"GSM通讯",
+          "group":"gsm_serial",
+          "descript":"GSM通讯，电话、短信、联网"
+        },
+        {
+          "groupName":"传感器",
+          "group":"sensor",
+          "descript":"温湿度、姿态、指纹等各类传感器"
+        },
+        {
+          "groupName":"无线模块",
+          "group":"wireless",
+          "descript":"蓝牙、RFID、2.4G、红外等"
+        },
+        {
+          "groupName":"WiFi模块",
+          "group":"wifi_esp",
+          "descript":"适用于本开发板的esp8266模块资料"
+        },
+        {
+          "groupName":"杂类模块",
+          "group":"w5500,relay,vs1053",
+          "descript":"未归类的各种模块"
+        }
+
+      ],
+      "onlineDoc": [
+        {
+          "linkName":"《STM32库开发实战指南——F103_MINI开发板》",
+          "link": "https://ebf-stm32f103-mini-std-tutorial.readthedocs.io"
+        },
+        {
+          "linkName":"《STM32 HAL库开发实战指南——F103_MINI开发板》",
+          "link": "https://ebf-stm32f103-mini-hal-tutorial.readthedocs.io"
+        },
+        {
+          "linkName":"《FreeRTOS 内核实现与应用开发实战—基于STM32》",
+          "link": "https://ebf-freertos-tutorial.readthedocs.io"
+        },
+        {
+          "linkName":"《Rt-thread 内核实现与应用开发实战—基于STM32》",
+          "link": "https://ebf-rtthread-tutorial.readthedocs.io"
+        },
+        {
+          "linkName":"《uCOS-III 内核实现与应用开发实战—基于STM32》",
+          "link": "https://ebf-ucos-tutorial.readthedocs.io"
+        },
+        {
+          "linkName":"《物联网操作系统 LiteOS开发实战指南—基于STM32》",
+          "link": "https://ebf-liteos-tutorial.readthedocs.io"
+        },
+        {
+          "linkName":"《emXGUI应用开发实战指南》",
+          "link": "https://emxgui-tutorial-doc.readthedocs.io"
+        },
+        {
+          "linkName":"《emWin应用开发实战指南—基于STM32》",
+          "link": "https://ebf-emwin-tutorial.readthedocs.io"
+        }
+      ],
+      "onlineViedeo":[
+        {
+          "videoName":"158集-《STM32库开发实战指南——F103_MINI开发板》",
+          "link":"https://space.bilibili.com/356820657/channel/detail?cid=84857"
+        },
+        {
+          "videoName":"42集-《FreeRTOS 内核实现与应用开发实战—基于STM32》",
+          "link":"https://www.bilibili.com/video/av57449565"
+        },
+        {
+          "videoName":"50集-《uCOS-III 内核实现与应用开发实战—基于STM32》",
+          "link":"https://www.bilibili.com/video/av62027241"
+        },
+        {
+          "videoName":"38集-《emWin应用开发实战指南—基于STM32》",
+          "link":"https://www.bilibili.com/video/av94409908"
+        }
+      ],
+      "cloudLink":[
+        {
+          "linkName":"STM32F103_MINI开发板-资料盘",
+          "link":"https://pan.baidu.com/s/1ANDF3Gk2Qk-vZ89o7VRJgQ",
+          "code":"lwld"
+        },
+        {
+          "linkName":"STM32F103_MINI开发板-视频盘",
+          "link":"https://pan.baidu.com/s/1yJwpoPjZwf66-P3oyLMWMQ",
+          "code":"agyw"
+        }
+      ]
+     },
+
+     { 
+      "productName": "STM32F103_指南者开发板",
+      "productLink": "http://products.embedfire.com/zh_CN/latest/stm32/ebf_stm32f103_zhinanzhe.html",
+      "repoGroup": [
+        {
+          "groupName":"基本资料",
+          "group":"stm32f1_common,stm32f103_zhinanzhe",
+          "descript":"推荐先学习这部分的内容，包含硬件、库开发等"
+        },
+        {
+          "groupName":"freertos系统",
+          "group":"freertos_base,freertos_stm32f103_zhinanzhe",
+          "descript":"适用于本开发板的freertos资料"
+        },
+        {
+          "groupName":"liteos系统",
+          "group":"liteos_base,liteos_stm32f103_zhinanzhe",
+          "descript":"适用于本开发板的liteos资料"
+        },
+        {
+          "groupName":"rtthread系统",
+          "group":"rtthread_base,rtthread_stm32f103_zhinanzhe",
+          "descript":"适用于本开发板的rtthread资料"
+        },
+        {
+          "groupName":"ucos系统",
+          "group":"ucos_base,ucos_stm32f103_zhinanzhe",
+          "descript":"适用于本开发板的ucos资料"
+        },
+        {
+          "groupName":"emWin图形界面",
+          "group":"emwin_base,emwin_stm32f103_zhinanzhe",
+          "descript":"emWin图形库教程及代码"
+        },
+        {
+          "groupName":"emXGUI图形界面",
+          "group":"emxgui_base,emxgui_stm32f103_zhinanzhe",
+          "descript":"野火emXGUI图形界面库"
+        },
+        {
+          "groupName":"显示屏",
+          "group":"lcd_8080,oled_spi,oled_i2c",
+          "descript":"8080接口（MCU）的液晶屏、OLED等"
+        },
+        {
+          "groupName":"GPS定位模块",
+          "group":"gps",
+          "descript":"全球定位系统，包含GPS、北斗等"
+        },
+        {
+          "groupName":"摄像头",
+          "group":"camera_ov7725_buffer",
+          "descript":"带buffer的摄像头"
+        },
+        {
+          "groupName":"电机驱动",
+          "group":"msd4805",
+          "descript":"各种电机驱动器模块"
+        },
+        {
+          "groupName":"GSM通讯",
+          "group":"gsm_serial",
+          "descript":"GSM通讯，电话、短信、联网"
+        },
+        {
+          "groupName":"传感器",
+          "group":"sensor",
+          "descript":"温湿度、姿态、指纹等各类传感器"
+        },
+        {
+          "groupName":"无线模块",
+          "group":"wireless",
+          "descript":"蓝牙、RFID、2.4G、红外等"
+        },
+        {
+          "groupName":"WiFi模块",
+          "group":"wifi_esp",
+          "descript":"适用于本开发板的esp8266模块资料"
+        },
+        {
+          "groupName":"杂类模块",
+          "group":"w5500,relay,vs1053",
+          "descript":"未归类的各种模块"
+        }
+
+      ],
+      "onlineDoc": [
+        {
+          "linkName":"《STM32库开发实战指南——F103_指南者开发板》",
+          "link": "https://ebf-stm32f103-zhinanzhe-std-tutorial.readthedocs.io/"
+        },
+        {
+          "linkName":"《STM32 HAL库开发实战指南——F103_指南者开发板》",
+          "link": "https://ebf-stm32f103-zhinanzhe-hal-tutorial.readthedocs.io/"
+        },
+        {
+          "linkName":"《FreeRTOS 内核实现与应用开发实战—基于STM32》",
+          "link": "https://ebf-freertos-tutorial.readthedocs.io"
+        },
+        {
+          "linkName":"《Rt-thread 内核实现与应用开发实战—基于STM32》",
+          "link": "https://ebf-rtthread-tutorial.readthedocs.io"
+        },
+        {
+          "linkName":"《uCOS-III 内核实现与应用开发实战—基于STM32》",
+          "link": "https://ebf-ucos-tutorial.readthedocs.io"
+        },
+        {
+          "linkName":"《物联网操作系统 LiteOS开发实战指南—基于STM32》",
+          "link": "https://ebf-liteos-tutorial.readthedocs.io"
+        },
+        {
+          "linkName":"《emXGUI应用开发实战指南》",
+          "link": "https://emxgui-tutorial-doc.readthedocs.io"
+        },
+        {
+          "linkName":"《emWin应用开发实战指南—基于STM32》",
+          "link": "https://ebf-emwin-tutorial.readthedocs.io"
+        }
+      ],
+      "onlineViedeo":[
+        {
+          "videoName":"158集-《STM32库开发实战指南——F103_霸道/指南者开发板》",
+          "link":"https://space.bilibili.com/356820657/channel/detail?cid=48780"
+        },
+        {
+          "videoName":"42集-《FreeRTOS 内核实现与应用开发实战—基于STM32》",
+          "link":"https://www.bilibili.com/video/av57449565"
+        },
+        {
+          "videoName":"50集-《uCOS-III 内核实现与应用开发实战—基于STM32》",
+          "link":"https://www.bilibili.com/video/av62027241"
+        },
+        {
+          "videoName":"38集-《emWin应用开发实战指南—基于STM32》",
+          "link":"https://www.bilibili.com/video/av94409908"
+        }
+      ],
+      "cloudLink":[
+        {
+          "linkName":"STM32F103指南者-资料盘",
+          "link":"https://pan.baidu.com/s/1NAwUDxoiTRoQ0bb6LaCI7g",
+          "code":"54ib"
+        },
+        {
+          "linkName":"STM32F103指南者-视频盘",
+          "link":"https://pan.baidu.com/s/1hij6XjCiPYoXVLg7-bpxuw",
+          "code":"znsc"
+        }
+      ]
+    },
+
+    { 
+      "productName": "STM32F103_霸道开发板",
+      "productLink": "http://products.embedfire.com/zh_CN/latest/stm32/ebf_stm32f103_badao_v2.html",
+      "repoGroup": [
+        {
+          "groupName":"基本资料",
+          "group":"stm32f1_common,stm32f103_badao",
+          "descript":"推荐先学习这部分的内容，包含硬件、库开发等"
+        },
+        {
+          "groupName":"freertos系统",
+          "group":"freertos_base,freertos_stm32f103_badao",
+          "descript":"适用于本开发板的freertos资料"
+        },
+        {
+          "groupName":"liteos系统",
+          "group":"liteos_base,liteos_stm32f103_badao",
+          "descript":"适用于本开发板的liteos资料"
+        },
+        {
+          "groupName":"rtthread系统",
+          "group":"rtthread_base,rtthread_stm32f103_badao",
+          "descript":"适用于本开发板的rtthread资料"
+        },
+        {
+          "groupName":"ucos系统",
+          "group":"ucos_base,ucos_stm32f103_badao",
+          "descript":"适用于本开发板的ucos资料"
+        },
+        {
+          "groupName":"emWin图形界面",
+          "group":"emwin_base,emwin_stm32f103_badao",
+          "descript":"emWin图形库教程及代码"
+        },
+        {
+          "groupName":"emXGUI图形界面",
+          "group":"emxgui_base,emxgui_stm32f103_badao",
+          "descript":"野火emXGUI图形界面库"
+        },
+        {
+          "groupName":"显示屏",
+          "group":"lcd_8080,oled_spi,oled_i2c",
+          "descript":"8080接口（MCU）的液晶屏、OLED等"
+        },
+        {
+          "groupName":"摄像头",
+          "group":"camera_ov7725_buffer",
+          "descript":"带buffer的摄像头"
+        },
+        {
+          "groupName":"GPS定位模块",
+          "group":"gps",
+          "descript":"全球定位系统，包含GPS、北斗等"
+        },
+        {
+          "groupName":"电机驱动",
+          "group":"msd4805",
+          "descript":"各种电机驱动器模块"
+        },
+        {
+          "groupName":"GSM通讯",
+          "group":"gsm_serial",
+          "descript":"GSM通讯，电话、短信、联网"
+        },
+        {
+          "groupName":"传感器",
+          "group":"sensor",
+          "descript":"温湿度、姿态、指纹等各类传感器"
+        },
+        {
+          "groupName":"无线模块",
+          "group":"wireless",
+          "descript":"蓝牙、RFID、2.4G、红外等"
+        },
+        {
+          "groupName":"WiFi模块",
+          "group":"wifi_esp",
+          "descript":"适用于本开发板的esp8266模块资料"
+        },
+        {
+          "groupName":"杂类模块",
+          "group":"w5500,relay,vs1053",
+          "descript":"未归类的各种模块"
+        }
+
+      ],
+      "onlineDoc": [
+        {
+          "linkName":"《STM32库开发实战指南——F103_霸道开发板》",
+          "link": "https://ebf-stm32f103-badao-std-tutorial.readthedocs.io/"
+        },
+        {
+          "linkName":"《STM32 HAL库开发实战指南——F103_霸道开发板》",
+          "link": "https://ebf-stm32f103-badao-hal-tutorial.readthedocs.io/"
+        },
+        {
+          "linkName":"《FreeRTOS 内核实现与应用开发实战—基于STM32》",
+          "link": "https://ebf-freertos-tutorial.readthedocs.io"
+        },
+        {
+          "linkName":"《Rt-thread 内核实现与应用开发实战—基于STM32》",
+          "link": "https://ebf-rtthread-tutorial.readthedocs.io"
+        },
+        {
+          "linkName":"《uCOS-III 内核实现与应用开发实战—基于STM32》",
+          "link": "https://ebf-ucos-tutorial.readthedocs.io"
+        },
+        {
+          "linkName":"《物联网操作系统 LiteOS开发实战指南—基于STM32》",
+          "link": "https://ebf-liteos-tutorial.readthedocs.io"
+        },
+        {
+          "linkName":"《emXGUI应用开发实战指南》",
+          "link": "https://emxgui-tutorial-doc.readthedocs.io"
+        },
+        {
+          "linkName":"《emWin应用开发实战指南—基于STM32》",
+          "link": "https://ebf-emwin-tutorial.readthedocs.io"
+        }
+      ],
+      "onlineViedeo":[
+        {
+          "videoName":"158集-《STM32库开发实战指南——F103_霸道/指南者开发板》",
+          "link":"https://space.bilibili.com/356820657/channel/detail?cid=48780"
+        },
+        {
+          "videoName":"42集-《FreeRTOS 内核实现与应用开发实战—基于STM32》",
+          "link":"https://www.bilibili.com/video/av57449565"
+        },
+        {
+          "videoName":"50集-《uCOS-III 内核实现与应用开发实战—基于STM32》",
+          "link":"https://www.bilibili.com/video/av62027241"
+        },
+        {
+          "videoName":"38集-《emWin应用开发实战指南—基于STM32》",
+          "link":"https://www.bilibili.com/video/av94409908"
+        },
+        {
+          "videoName":"F103霸道V2开发板出厂测试程序FreeRTOS+emXGUI简单演示",
+          "link":"https://www.bilibili.com/video/BV1tJ41127Tw"
+        }
+      ],
+      "cloudLink":[
+        {
+          "linkName":"STM32F103霸道-资料盘",
+          "link":"https://pan.baidu.com/s/1I-SsBiHMOo1xJIGfQ8d7uA",
+          "code":"5sgx"
+        },
+        {
+          "linkName":"STM32F103霸道 视频网盘经常失效，请移步bilibili在线视频观看",
+          "link":"https://space.bilibili.com/356820657/channel/detail?cid=48780"
+        }
+      ]
+    },
+
+    { 
+      "productName": "STM32F407_霸天虎开发板",
+      "productLink": "http://products.embedfire.com/zh_CN/latest/stm32/ebf_stm32f407_batianhu_v2.html#",
+      "repoGroup": [
+        {
+          "groupName":"基本资料",
+          "group":"stm32f407_common,stm32f407_batianhu",
+          "descript":"推荐先学习这部分的内容，包含硬件、库开发等"
+        },
+        {
+          "groupName":"freertos系统",
+          "group":"freertos_base,freertos_stm32f407_batianhu",
+          "descript":"适用于本开发板的freertos资料"
+        },
+        {
+          "groupName":"liteos系统",
+          "group":"liteos_base,liteos_stm32f407_batianhu",
+          "descript":"适用于本开发板的liteos资料"
+        },
+        {
+          "groupName":"rtthread系统",
+          "group":"rtthread_base,rtthread_stm32f407_batianhu",
+          "descript":"适用于本开发板的rtthread资料"
+        },
+        {
+          "groupName":"ucos系统",
+          "group":"ucos_base,ucos_stm32f407_batianhu",
+          "descript":"适用于本开发板的ucos资料"
+        },
+        {
+          "groupName":"LwIP网络协议栈",
+          "group":"lwip_base,lwip_stm32f407_batianhu",
+          "descript":"嵌入式网络协议栈LwIP教程"
+        },
+        {
+          "groupName":"emWin图形界面",
+          "group":"emwin_base,emwin_stm32f407_batianhu",
+          "descript":"emWin图形库教程及代码"
+        },
+        {
+          "groupName":"emXGUI图形界面",
+          "group":"emxgui_base,emxgui_stm32f407_batianhu",
+          "descript":"野火emXGUI图形界面库"
+        },
+        {
+          "groupName":"显示屏",
+          "group":"lcd_8080,oled_spi,oled_i2c",
+          "descript":"8080接口（MCU）的液晶屏、OLED等"
+        },
+        {
+          "groupName":"摄像头",
+          "group":"camera_ov5640,camera_ov2640",
+          "descript":"不带buffer的摄像头"
+        },
+        {
+          "groupName":"GPS定位模块",
+          "group":"gps",
+          "descript":"全球定位系统，包含GPS、北斗等"
+        },
+        {
+          "groupName":"电机驱动",
+          "group":"msd4805",
+          "descript":"各种电机驱动器模块"
+        },
+        {
+          "groupName":"GSM通讯",
+          "group":"gsm_serial",
+          "descript":"GSM通讯，电话、短信、联网"
+        },
+        {
+          "groupName":"传感器",
+          "group":"sensor",
+          "descript":"温湿度、姿态、指纹等各类传感器"
+        },
+        {
+          "groupName":"无线模块",
+          "group":"wireless",
+          "descript":"蓝牙、RFID、2.4G、红外等"
+        },
+        {
+          "groupName":"WiFi模块",
+          "group":"wifi_esp",
+          "descript":"适用于本开发板的esp8266模块资料"
+        },
+        {
+          "groupName":"杂类模块",
+          "group":"relay",
+          "descript":"未归类的各种模块"
+        }
+
+      ],
+      "onlineDoc": [
+        {
+          "linkName":"《STM32 库开发实战指南——基于野火F407霸天虎开发板》",
+          "link": "https://ebf-stm32f407-batianhu-std-tutorial.readthedocs.io"
+        },
+        {
+          "linkName":"《STM32 HAL库开发实战指南——基于野火F407霸天虎开发板》",
+          "link": "https://ebf-stm32f407-batianhu-hal-tutorial.readthedocs.io"
+        },
+        {
+          "linkName":"《FreeRTOS 内核实现与应用开发实战—基于STM32》",
+          "link": "https://ebf-freertos-tutorial.readthedocs.io"
+        },
+        {
+          "linkName":"《Rt-thread 内核实现与应用开发实战—基于STM32》",
+          "link": "https://ebf-rtthread-tutorial.readthedocs.io"
+        },
+        {
+          "linkName":"《uCOS-III 内核实现与应用开发实战—基于STM32》",
+          "link": "https://ebf-ucos-tutorial.readthedocs.io"
+        },
+        {
+          "linkName":"《物联网操作系统 LiteOS开发实战指南—基于STM32》",
+          "link": "https://ebf-liteos-tutorial.readthedocs.io"
+        },
+        {
+          "linkName":"《emXGUI应用开发实战指南》",
+          "link": "https://emxgui-tutorial-doc.readthedocs.io"
+        },
+        {
+          "linkName":"《emWin应用开发实战指南—基于STM32》",
+          "link": "https://ebf-emwin-tutorial.readthedocs.io"
+        },
+        {
+          "linkName":"《LwIP应用开发实战指南—基于STM32》",
+          "link": "https://ebf-lwip-tutorial.readthedocs.io"
+        }
+      ],
+      "onlineViedeo":[
+        {
+          "videoName":"158集-《STM32库开发实战指南——F407_霸天虎开发板》",
+          "link":"https://space.bilibili.com/356820657/channel/detail?cid=82914"
+        },
+        {
+          "videoName":"42集-《FreeRTOS 内核实现与应用开发实战—基于STM32》",
+          "link":"https://www.bilibili.com/video/av57449565"
+        },
+        {
+          "videoName":"50集-《uCOS-III 内核实现与应用开发实战—基于STM32》",
+          "link":"https://www.bilibili.com/video/av62027241"
+        },
+        {
+          "videoName":"38集-《emWin应用开发实战指南—基于STM32》",
+          "link":"https://www.bilibili.com/video/av94409908"
+        },
+        {
+          "videoName":"62集-《LwIP应用开发实战指南—基于STM32》",
+          "link":"https://www.bilibili.com/video/av59550450"
+        }
+      ],
+      "cloudLink":[
+        {
+          "linkName":"STM32F407霸天虎-资料盘",
+          "link":"https://pan.baidu.com/s/1fArrjLMCygczTHSIzGIFsQ",
+          "code":"3l9k"
+        },
+        {
+          "linkName":"STM32F407霸天虎-视频盘",
+          "link":"https://pan.baidu.com/s/1-Mwt8EFbOGjNfSHVDEWWpw",
+          "code":"uzjx"
+        }
+      ]
+    },
+
+
+    { 
+      "productName": "STM32F429_挑战者开发板",
+      "productLink": "http://products.embedfire.com/zh_CN/latest/stm32/ebf_stm32f429_tiaozhanzhe_v2.html",
+      "repoGroup": [
+        {
+          "groupName":"基本资料",
+          "group":"stm32f429_common,stm32f429_tiaozhanzhe",
+          "descript":"推荐先学习这部分的内容，包含硬件、库开发等"
+        },
+        {
+          "groupName":"freertos系统",
+          "group":"freertos_base,freertos_stm32f429_tiaozhanzhe",
+          "descript":"适用于本开发板的freertos资料"
+        },
+        {
+          "groupName":"liteos系统",
+          "group":"liteos_base,liteos_stm32f429_tiaozhanzhe",
+          "descript":"适用于本开发板的liteos资料"
+        },
+        {
+          "groupName":"rtthread系统",
+          "group":"rtthread_base,rtthread_stm32f429_tiaozhanzhe",
+          "descript":"适用于本开发板的rtthread资料"
+        },
+        {
+          "groupName":"ucos系统",
+          "group":"ucos_base,ucos_stm32f429_tiaozhanzhe",
+          "descript":"适用于本开发板的ucos资料"
+        },
+        {
+          "groupName":"LwIP网络协议栈",
+          "group":"lwip_base,lwip_stm32f429_tiaozhanzhe,wifi_ap_base,wifi_ap_stm32f429_tiaozhanzhe",
+          "descript":"嵌入式网络协议栈LwIP教程，包含以太网、WiFi例程"
+        },
+        {
+          "groupName":"emWin图形界面",
+          "group":"emwin_base,emwin_stm32f429_tiaozhanzhe",
+          "descript":"emWin图形库教程及代码"
+        },
+        {
+          "groupName":"emXGUI图形界面",
+          "group":"emxgui_base,emxgui_stm32f429_tiaozhanzhe",
+          "descript":"野火emXGUI图形界面库"
+        },
+        {
+          "groupName":"显示屏",
+          "group":"lcd_rgb,oled_spi,oled_i2c",
+          "descript":"RGB接口的液晶屏、OLED等"
+        },
+        {
+          "groupName":"摄像头",
+          "group":"camera_ov5640,camera_ov2640,wifi_ap_base,wifi_ap_stm32f767_tiaozhanzhe",
+          "descript":"摄像头,包含网络摄像头的代码"
+        },
+        {
+          "groupName":"GPS定位模块",
+          "group":"gps",
+          "descript":"全球定位系统，包含GPS、北斗等"
+        },
+        {
+          "groupName":"电机驱动",
+          "group":"msd4805",
+          "descript":"各种电机驱动器模块"
+        },
+        {
+          "groupName":"GSM通讯",
+          "group":"gsm_serial",
+          "descript":"GSM通讯，电话、短信、联网"
+        },
+        {
+          "groupName":"传感器",
+          "group":"sensor",
+          "descript":"温湿度、姿态、指纹等各类传感器"
+        },
+        {
+          "groupName":"无线模块",
+          "group":"wireless",
+          "descript":"蓝牙、RFID、2.4G、红外等"
+        },
+        {
+          "groupName":"WiFi模块",
+          "group":"wifi_esp,wifi_ap_base,wifi_ap_stm32f429_tiaozhanzhe",
+          "descript":"适用于本开发板的esp8266、AP6181模块资料"
+        },
+        {
+          "groupName":"杂类模块",
+          "group":"relay",
+          "descript":"未归类的各种模块"
+        }
+
+      ],
+      "onlineDoc": [
+        {
+          "linkName":"《STM32库开发实战指南——基于野火F429挑战者V2开发板》",
+          "link": "https://ebf-stm32f429-tiaozhanzhe-std-tutorial.readthedocs.io"
+        },
+        {
+          "linkName":"《STM32 HAL库开发实战指南——基于野火F429挑战者V2开发板》",
+          "link": "https://ebf-stm32f429-tiaozhanzhe-hal-tutorial.readthedocs.io"
+        },
+        {
+          "linkName":"《FreeRTOS 内核实现与应用开发实战—基于STM32》",
+          "link": "https://ebf-freertos-tutorial.readthedocs.io"
+        },
+        {
+          "linkName":"《Rt-thread 内核实现与应用开发实战—基于STM32》",
+          "link": "https://ebf-rtthread-tutorial.readthedocs.io"
+        },
+        {
+          "linkName":"《uCOS-III 内核实现与应用开发实战—基于STM32》",
+          "link": "https://ebf-ucos-tutorial.readthedocs.io"
+        },
+        {
+          "linkName":"《物联网操作系统 LiteOS开发实战指南—基于STM32》",
+          "link": "https://ebf-liteos-tutorial.readthedocs.io"
+        },
+        {
+          "linkName":"《emXGUI应用开发实战指南》",
+          "link": "https://emxgui-tutorial-doc.readthedocs.io"
+        },
+        {
+          "linkName":"《emWin应用开发实战指南—基于STM32》",
+          "link": "https://ebf-emwin-tutorial.readthedocs.io"
+        },
+        {
+          "linkName":"《LwIP应用开发实战指南—基于STM32》",
+          "link": "https://ebf-lwip-tutorial.readthedocs.io"
+        }
+      ],
+      "onlineViedeo":[
+        {
+          "videoName":"158集-《STM32库开发实战指南——F429_挑战者开发板》",
+          "link":"https://space.bilibili.com/356820657/channel/detail?cid=82915"
+        },
+        {
+          "videoName":"42集-《FreeRTOS 内核实现与应用开发实战—基于STM32》",
+          "link":"https://www.bilibili.com/video/av57449565"
+        },
+        {
+          "videoName":"50集-《uCOS-III 内核实现与应用开发实战—基于STM32》",
+          "link":"https://www.bilibili.com/video/av62027241"
+        },
+        {
+          "videoName":"38集-《emWin应用开发实战指南—基于STM32》",
+          "link":"https://www.bilibili.com/video/av94409908"
+        },
+        {
+          "videoName":"62集-《LwIP应用开发实战指南—基于STM32》",
+          "link":"https://www.bilibili.com/video/av59550450"
+        },
+        {
+          "videoName":" F429挑战者 V2 综合测试程序 FreeRTOS + emXGUI 演示 4.3 5 7 寸电容屏",
+          "link":"https://www.bilibili.com/video/BV1nJ411D7NZ"
+        },
+        {
+          "videoName":" F429挑战者V2开发板 开机Demo 主题背景颜色切换与旋转木马演示",
+          "link":"https://www.bilibili.com/video/BV11J41117NA"
+        }
+      ],
+      "cloudLink":[
+        {
+          "linkName":"STM32F429挑战者-资料盘",
+          "link":"https://pan.baidu.com/s/1EsFLx7TXdf91iqN2q2msAg",
+          "code":"c969"
+        },
+        {
+          "linkName":"STM32F429挑战者-视频盘",
+          "link":"https://pan.baidu.com/s/1trldzC8SJDEI1-OI9HA3Wg",
+          "code":"x01s"
+        }
+      ]
+    },
+
+    { 
+      "productName": "STM32F767_挑战者开发板",
+      "productLink": "http://products.embedfire.com/zh_CN/latest/stm32/ebf_stm32f767_tiaozhanzhe_v2.html",
+      "repoGroup": [
+        {
+          "groupName":"基本资料",
+          "group":"stm32f767_tiaozhanzhe",
+          "descript":"推荐先学习这部分的内容，包含硬件、库开发等"
+        },
+        {
+          "groupName":"freertos系统",
+          "group":"freertos_base,freertos_stm32f767_tiaozhanzhe",
+          "descript":"适用于本开发板的freertos资料"
+        },
+        {
+          "groupName":"liteos系统",
+          "group":"liteos_base,liteos_stm32f767_tiaozhanzhe",
+          "descript":"适用于本开发板的liteos资料"
+        },
+        {
+          "groupName":"rtthread系统",
+          "group":"rtthread_base,rtthread_stm32f767_tiaozhanzhe",
+          "descript":"适用于本开发板的rtthread资料"
+        },
+        {
+          "groupName":"ucos系统",
+          "group":"ucos_base,ucos_stm32f767_tiaozhanzhe",
+          "descript":"适用于本开发板的ucos资料"
+        },
+        {
+          "groupName":"LwIP网络协议栈",
+          "group":"lwip_base,lwip_stm32f767_tiaozhanzhe,wifi_ap_base,wifi_ap_stm32f767_tiaozhanzhe",
+          "descript":"嵌入式网络协议栈LwIP教程，包含以太网、WiFi例程"
+        },
+        {
+          "groupName":"emWin图形界面",
+          "group":"emwin_base,emwin_stm32f767_tiaozhanzhe",
+          "descript":"emWin图形库教程及代码"
+        },
+        {
+          "groupName":"emXGUI图形界面",
+          "group":"emxgui_base,emxgui_stm32f767_tiaozhanzhe",
+          "descript":"野火emXGUI图形界面库"
+        },
+        {
+          "groupName":"显示屏",
+          "group":"lcd_rgb,oled_spi,oled_i2c",
+          "descript":"RGB接口的液晶屏、OLED等"
+        },
+        {
+          "groupName":"摄像头",
+          "group":"camera_ov5640,camera_ov2640,wifi_ap_base,wifi_ap_stm32f767_tiaozhanzhe",
+          "descript":"摄像头,包含网络摄像头的代码"
+        },
+        {
+          "groupName":"GPS定位模块",
+          "group":"gps",
+          "descript":"全球定位系统，包含GPS、北斗等"
+        },
+        {
+          "groupName":"电机驱动",
+          "group":"msd4805",
+          "descript":"各种电机驱动器模块"
+        },
+        {
+          "groupName":"GSM通讯",
+          "group":"gsm_serial",
+          "descript":"GSM通讯，电话、短信、联网"
+        },
+        {
+          "groupName":"传感器",
+          "group":"sensor",
+          "descript":"温湿度、姿态、指纹等各类传感器"
+        },
+        {
+          "groupName":"无线模块",
+          "group":"wireless",
+          "descript":"蓝牙、RFID、2.4G、红外等"
+        },
+        {
+          "groupName":"WiFi模块",
+          "group":"wifi_ap_base,wifi_ap_stm32f767_tiaozhanzhe",
+          "descript":"适用于本开发板的WiFi模块资料"
+        },
+        {
+          "groupName":"杂类模块",
+          "group":"relay",
+          "descript":"未归类的各种模块"
+        }
+
+      ],
+      "onlineDoc": [
+        {
+          "linkName":"《STM32 HAL库开发实战指南——基于野火F767挑战者V2开发板》",
+          "link": "https://ebf-stm32f767-tiaozhanzhe-hal-tutorial.readthedocs.io"
+        },
+        {
+          "linkName":"《FreeRTOS 内核实现与应用开发实战—基于STM32》",
+          "link": "https://ebf-freertos-tutorial.readthedocs.io"
+        },
+        {
+          "linkName":"《Rt-thread 内核实现与应用开发实战—基于STM32》",
+          "link": "https://ebf-rtthread-tutorial.readthedocs.io"
+        },
+        {
+          "linkName":"《uCOS-III 内核实现与应用开发实战—基于STM32》",
+          "link": "https://ebf-ucos-tutorial.readthedocs.io"
+        },
+        {
+          "linkName":"《物联网操作系统 LiteOS开发实战指南—基于STM32》",
+          "link": "https://ebf-liteos-tutorial.readthedocs.io"
+        },
+        {
+          "linkName":"《emXGUI应用开发实战指南》",
+          "link": "https://emxgui-tutorial-doc.readthedocs.io"
+        },
+        {
+          "linkName":"《emWin应用开发实战指南—基于STM32》",
+          "link": "https://ebf-emwin-tutorial.readthedocs.io"
+        },
+        {
+          "linkName":"《LwIP应用开发实战指南—基于STM32》",
+          "link": "https://ebf-lwip-tutorial.readthedocs.io"
+        }
+      ],
+      "onlineViedeo":[
+        {
+          "videoName":"42集-《FreeRTOS 内核实现与应用开发实战—基于STM32》",
+          "link":"https://www.bilibili.com/video/av57449565"
+        },
+        {
+          "videoName":"50集-《uCOS-III 内核实现与应用开发实战—基于STM32》",
+          "link":"https://www.bilibili.com/video/av62027241"
+        },
+        {
+          "videoName":"38集-《emWin应用开发实战指南—基于STM32》",
+          "link":"https://www.bilibili.com/video/av94409908"
+        },
+        {
+          "videoName":"62集-《LwIP应用开发实战指南—基于STM32》",
+          "link":"https://www.bilibili.com/video/av59550450"
+        }
+      ],
+      "cloudLink":[
+        {
+          "linkName":"STM32F767挑战者-资料盘",
+          "link":"https://pan.baidu.com/s/10-ovSnwjFopFT4XxjVEYBA",
+          "code":"bmmn"
+        }
+      ]
+    },
+
+
+    { 
+      "productName": "STM32H743_挑战者开发板",
+      "productLink": "http://products.embedfire.com/zh_CN/latest/stm32/ebf_stm32h743_tiaozhanzhe_v2.html",
+      "repoGroup": [
+        {
+          "groupName":"基本资料",
+          "group":"stm32h743_tiaozhanzhe",
+          "descript":"推荐先学习这部分的内容，包含硬件、库开发等"
+        },
+        {
+          "groupName":"freertos系统",
+          "group":"freertos_base,freertos_stm32h743_tiaozhanzhe",
+          "descript":"适用于本开发板的freertos资料"
+        },
+        {
+          "groupName":"liteos系统",
+          "group":"liteos_base,liteos_stm32h743_tiaozhanzhe",
+          "descript":"适用于本开发板的liteos资料"
+        },
+        {
+          "groupName":"rtthread系统",
+          "group":"rtthread_base,rtthread_stm32h743_tiaozhanzhe",
+          "descript":"适用于本开发板的rtthread资料"
+        },
+        {
+          "groupName":"ucos系统",
+          "group":"ucos_base,ucos_stm32h743_tiaozhanzhe",
+          "descript":"适用于本开发板的ucos资料"
+        },
+        {
+          "groupName":"LwIP网络协议栈",
+          "group":"lwip_base,lwip_stm32h743_tiaozhanzhe,wifi_ap_base,wifi_ap_stm32h743_tiaozhanzhe",
+          "descript":"嵌入式网络协议栈LwIP教程，包含以太网、WiFi例程"
+        },
+        {
+          "groupName":"emWin图形界面",
+          "group":"emwin_base,emwin_stm32h743_tiaozhanzhe",
+          "descript":"emWin图形库教程及代码"
+        },
+        {
+          "groupName":"emXGUI图形界面",
+          "group":"emxgui_base,emxgui_stm32h743_tiaozhanzhe",
+          "descript":"野火emXGUI图形界面库"
+        },
+        {
+          "groupName":"显示屏",
+          "group":"lcd_rgb,oled_spi,oled_i2c",
+          "descript":"RGB接口的液晶屏、OLED等"
+        },
+        {
+          "groupName":"摄像头",
+          "group":"camera_ov5640,camera_ov2640,wifi_ap_base,wifi_ap_stm32h743_tiaozhanzhe",
+          "descript":"摄像头,包含网络摄像头的代码"
+        },
+        {
+          "groupName":"GPS定位模块",
+          "group":"gps",
+          "descript":"全球定位系统，包含GPS、北斗等"
+        },
+        {
+          "groupName":"电机驱动",
+          "group":"msd4805",
+          "descript":"各种电机驱动器模块"
+        },
+        {
+          "groupName":"GSM通讯",
+          "group":"gsm_serial",
+          "descript":"GSM通讯，电话、短信、联网"
+        },
+        {
+          "groupName":"传感器",
+          "group":"sensor",
+          "descript":"温湿度、姿态、指纹等各类传感器"
+        },
+        {
+          "groupName":"无线模块",
+          "group":"wireless",
+          "descript":"蓝牙、RFID、2.4G、红外等"
+        },
+        {
+          "groupName":"WiFi模块",
+          "group":"wifi_ap_base,wifi_ap_stm32h743_tiaozhanzhe",
+          "descript":"适用于本开发板的WiFi模块资料"
+        },
+        {
+          "groupName":"杂类模块",
+          "group":"relay",
+          "descript":"未归类的各种模块"
+        }
+
+      ],
+      "onlineDoc": [
+        {
+          "linkName":"《FreeRTOS 内核实现与应用开发实战—基于STM32》",
+          "link": "https://ebf-freertos-tutorial.readthedocs.io"
+        },
+        {
+          "linkName":"《Rt-thread 内核实现与应用开发实战—基于STM32》",
+          "link": "https://ebf-rtthread-tutorial.readthedocs.io"
+        },
+        {
+          "linkName":"《uCOS-III 内核实现与应用开发实战—基于STM32》",
+          "link": "https://ebf-ucos-tutorial.readthedocs.io"
+        },
+        {
+          "linkName":"《物联网操作系统 LiteOS开发实战指南—基于STM32》",
+          "link": "https://ebf-liteos-tutorial.readthedocs.io"
+        },
+        {
+          "linkName":"《emXGUI应用开发实战指南》",
+          "link": "https://emxgui-tutorial-doc.readthedocs.io"
+        },
+        {
+          "linkName":"《emWin应用开发实战指南—基于STM32》",
+          "link": "https://ebf-emwin-tutorial.readthedocs.io"
+        },
+        {
+          "linkName":"《LwIP应用开发实战指南—基于STM32》",
+          "link": "https://ebf-lwip-tutorial.readthedocs.io"
+        }
+      ],
+      "onlineViedeo":[
+        {
+          "videoName":"42集-《FreeRTOS 内核实现与应用开发实战—基于STM32》",
+          "link":"https://www.bilibili.com/video/av57449565"
+        },
+        {
+          "videoName":"50集-《uCOS-III 内核实现与应用开发实战—基于STM32》",
+          "link":"https://www.bilibili.com/video/av62027241"
+        },
+        {
+          "videoName":"38集-《emWin应用开发实战指南—基于STM32》",
+          "link":"https://www.bilibili.com/video/av94409908"
+        },
+        {
+          "videoName":"62集-《LwIP应用开发实战指南—基于STM32》",
+          "link":"https://www.bilibili.com/video/av59550450"
+        }
+      ],
+      "cloudLink":[
+        {
+          "linkName":"STM32H743挑战者-资料盘",
+          "link":"https://pan.baidu.com/s/1LtE1Jdh7H0pwIChyyqp-Fw",
+          "code":"33z3"
+        }
+      ]
+    },
+
+
+    { 
+      "productName": "STM32H743_Pro开发板",
+      "productLink": "http://products.embedfire.com/zh_CN/latest/stm32/ebf_stm32h743_pro.html",
+      "repoGroup": [
+        {
+          "groupName":"基本资料",
+          "group":"stm32h743_pro",
+          "descript":"推荐先学习这部分的内容，包含硬件、库开发等"
+        },
+        {
+          "groupName":"freertos系统",
+          "group":"freertos_base,freertos_stm32h743_pro",
+          "descript":"适用于本开发板的freertos资料"
+        },
+        {
+          "groupName":"liteos系统",
+          "group":"liteos_base,liteos_stm32h743_pro",
+          "descript":"适用于本开发板的liteos资料"
+        },
+        {
+          "groupName":"rtthread系统",
+          "group":"rtthread_base,rtthread_stm32h743_pro",
+          "descript":"适用于本开发板的rtthread资料"
+        },
+        {
+          "groupName":"ucos系统",
+          "group":"ucos_base,ucos_stm32h743_pro",
+          "descript":"适用于本开发板的ucos资料"
+        },
+        {
+          "groupName":"LwIP网络协议栈",
+          "group":"lwip_base,lwip_stm32h743_pro,wifi_ap_base,wifi_ap_stm32h743_pro",
+          "descript":"嵌入式网络协议栈LwIP教程，包含以太网、WiFi例程"
+        },
+        {
+          "groupName":"emWin图形界面",
+          "group":"emwin_base,emwin_stm32h743_pro",
+          "descript":"emWin图形库教程及代码"
+        },
+        {
+          "groupName":"emXGUI图形界面",
+          "group":"emxgui_base,emxgui_stm32h743_pro",
+          "descript":"野火emXGUI图形界面库"
+        },
+        {
+          "groupName":"显示屏",
+          "group":"lcd_rgb,oled_spi,oled_i2c",
+          "descript":"RGB接口的液晶屏、OLED等"
+        },
+        {
+          "groupName":"摄像头",
+          "group":"camera_ov5640,camera_ov2640,wifi_ap_base,wifi_ap_stm32h743_pro",
+          "descript":"摄像头,包含网络摄像头的代码"
+        },
+        {
+          "groupName":"GPS定位模块",
+          "group":"gps",
+          "descript":"全球定位系统，包含GPS、北斗等"
+        },
+        {
+          "groupName":"电机驱动",
+          "group":"msd4805",
+          "descript":"各种电机驱动器模块"
+        },
+        {
+          "groupName":"GSM通讯",
+          "group":"gsm_serial",
+          "descript":"GSM通讯，电话、短信、联网"
+        },
+        {
+          "groupName":"传感器",
+          "group":"sensor",
+          "descript":"温湿度、姿态、指纹等各类传感器"
+        },
+        {
+          "groupName":"无线模块",
+          "group":"wireless",
+          "descript":"蓝牙、RFID、2.4G、红外等"
+        },
+        {
+          "groupName":"WiFi模块",
+          "group":"wifi_ap_base,wifi_ap_stm32h743_pro",
+          "descript":"适用于本开发板的WiFi模块资料"
+        },
+        {
+          "groupName":"杂类模块",
+          "group":"relay",
+          "descript":"未归类的各种模块"
+        }
+
+      ],
+      "onlineDoc": [
+        {
+          "linkName":"《STM32 HAL库开发实战指南——基于野火H743 Pro开发板》",
+          "link": "https://ebf-stm32h743-pro-v-hal-tutorial.readthedocs.io"
+        },
+        {
+          "linkName":"《FreeRTOS 内核实现与应用开发实战—基于STM32》",
+          "link": "https://ebf-freertos-tutorial.readthedocs.io"
+        },
+        {
+          "linkName":"《Rt-thread 内核实现与应用开发实战—基于STM32》",
+          "link": "https://ebf-rtthread-tutorial.readthedocs.io"
+        },
+        {
+          "linkName":"《uCOS-III 内核实现与应用开发实战—基于STM32》",
+          "link": "https://ebf-ucos-tutorial.readthedocs.io"
+        },
+        {
+          "linkName":"《物联网操作系统 LiteOS开发实战指南—基于STM32》",
+          "link": "https://ebf-liteos-tutorial.readthedocs.io"
+        },
+        {
+          "linkName":"《emXGUI应用开发实战指南》",
+          "link": "https://emxgui-tutorial-doc.readthedocs.io"
+        },
+        {
+          "linkName":"《emWin应用开发实战指南—基于STM32》",
+          "link": "https://ebf-emwin-tutorial.readthedocs.io"
+        },
+        {
+          "linkName":"《LwIP应用开发实战指南—基于STM32》",
+          "link": "https://ebf-lwip-tutorial.readthedocs.io"
+        }
+      ],
+      "onlineViedeo":[
+        {
+          "videoName":"42集-《FreeRTOS 内核实现与应用开发实战—基于STM32》",
+          "link":"https://www.bilibili.com/video/av57449565"
+        },
+        {
+          "videoName":"50集-《uCOS-III 内核实现与应用开发实战—基于STM32》",
+          "link":"https://www.bilibili.com/video/av62027241"
+        },
+        {
+          "videoName":"38集-《emWin应用开发实战指南—基于STM32》",
+          "link":"https://www.bilibili.com/video/av94409908"
+        },
+        {
+          "videoName":"62集-《LwIP应用开发实战指南—基于STM32》",
+          "link":"https://www.bilibili.com/video/av59550450"
+        }
+      ],
+      "cloudLink":[
+        {
+          "linkName":"STM32H743 Pro-资料盘",
+          "link":"https://pan.baidu.com/s/1mhN-QJvPl7l_GWuC_zHnAQ",
+          "code":"5guy"
+        }
+      ]
+    },
+
+
+    { 
+      "productName": "STM32H750_Pro开发板",
+      "productLink": "http://products.embedfire.com/zh_CN/latest/stm32/ebf_stm32h750_pro.html",
+      "repoGroup": [
+        {
+          "groupName":"基本资料",
+          "group":"stm32h750_pro",
+          "descript":"推荐先学习这部分的内容，包含硬件、库开发等"
+        },
+        {
+          "groupName":"freertos系统",
+          "group":"freertos_base,freertos_stm32h750_pro",
+          "descript":"适用于本开发板的freertos资料"
+        },
+        {
+          "groupName":"liteos系统",
+          "group":"liteos_base,liteos_stm32h750_pro",
+          "descript":"适用于本开发板的liteos资料"
+        },
+        {
+          "groupName":"rtthread系统",
+          "group":"rtthread_base,rtthread_stm32h750_pro",
+          "descript":"适用于本开发板的rtthread资料"
+        },
+        {
+          "groupName":"ucos系统",
+          "group":"ucos_base,ucos_stm32h750_pro",
+          "descript":"适用于本开发板的ucos资料"
+        },
+        {
+          "groupName":"LwIP网络协议栈",
+          "group":"lwip_base,lwip_stm32h750_pro,wifi_ap_base,wifi_ap_stm32h750_pro",
+          "descript":"嵌入式网络协议栈LwIP教程，包含以太网、WiFi例程"
+        },
+        {
+          "groupName":"emWin图形界面",
+          "group":"emwin_base,emwin_stm32h750_pro",
+          "descript":"emWin图形库教程及代码"
+        },
+        {
+          "groupName":"emXGUI图形界面",
+          "group":"emxgui_base,emxgui_stm32h750_pro",
+          "descript":"野火emXGUI图形界面库"
+        },
+        {
+          "groupName":"显示屏",
+          "group":"lcd_rgb,oled_spi,oled_i2c",
+          "descript":"RGB接口的液晶屏、OLED等"
+        },
+        {
+          "groupName":"摄像头",
+          "group":"camera_ov5640,camera_ov2640,wifi_ap_base,wifi_ap_stm32h750_pro",
+          "descript":"摄像头,包含网络摄像头的代码"
+        },
+        {
+          "groupName":"GPS定位模块",
+          "group":"gps",
+          "descript":"全球定位系统，包含GPS、北斗等"
+        },
+        {
+          "groupName":"电机驱动",
+          "group":"msd4805",
+          "descript":"各种电机驱动器模块"
+        },
+        {
+          "groupName":"GSM通讯",
+          "group":"gsm_serial",
+          "descript":"GSM通讯，电话、短信、联网"
+        },
+        {
+          "groupName":"传感器",
+          "group":"sensor",
+          "descript":"温湿度、姿态、指纹等各类传感器"
+        },
+        {
+          "groupName":"无线模块",
+          "group":"wireless",
+          "descript":"蓝牙、RFID、2.4G、红外等"
+        },
+        {
+          "groupName":"WiFi模块",
+          "group":"wifi_ap_base,wifi_ap_stm32h750_pro",
+          "descript":"适用于本开发板的WiFi模块资料"
+        },
+        {
+          "groupName":"杂类模块",
+          "group":"relay",
+          "descript":"未归类的各种模块"
+        }
+
+      ],
+      "onlineDoc": [
+        {
+          "linkName":"《STM32 HAL库开发实战指南——基于野火H743 Pro开发板》",
+          "link": "https://ebf-stm32h743-pro-v-hal-tutorial.readthedocs.io"
+        },
+        {
+          "linkName":"《FreeRTOS 内核实现与应用开发实战—基于STM32》",
+          "link": "https://ebf-freertos-tutorial.readthedocs.io"
+        },
+        {
+          "linkName":"《Rt-thread 内核实现与应用开发实战—基于STM32》",
+          "link": "https://ebf-rtthread-tutorial.readthedocs.io"
+        },
+        {
+          "linkName":"《uCOS-III 内核实现与应用开发实战—基于STM32》",
+          "link": "https://ebf-ucos-tutorial.readthedocs.io"
+        },
+        {
+          "linkName":"《物联网操作系统 LiteOS开发实战指南—基于STM32》",
+          "link": "https://ebf-liteos-tutorial.readthedocs.io"
+        },
+        {
+          "linkName":"《emXGUI应用开发实战指南》",
+          "link": "https://emxgui-tutorial-doc.readthedocs.io"
+        },
+        {
+          "linkName":"《emWin应用开发实战指南—基于STM32》",
+          "link": "https://ebf-emwin-tutorial.readthedocs.io"
+        },
+        {
+          "linkName":"《LwIP应用开发实战指南—基于STM32》",
+          "link": "https://ebf-lwip-tutorial.readthedocs.io"
+        }
+      ],
+      "onlineViedeo":[
+        {
+          "videoName":"42集-《FreeRTOS 内核实现与应用开发实战—基于STM32》",
+          "link":"https://www.bilibili.com/video/av57449565"
+        },
+        {
+          "videoName":"50集-《uCOS-III 内核实现与应用开发实战—基于STM32》",
+          "link":"https://www.bilibili.com/video/av62027241"
+        },
+        {
+          "videoName":"38集-《emWin应用开发实战指南—基于STM32》",
+          "link":"https://www.bilibili.com/video/av94409908"
+        },
+        {
+          "videoName":"62集-《LwIP应用开发实战指南—基于STM32》",
+          "link":"https://www.bilibili.com/video/av59550450"
+        },
+        {
+          "videoName":"STM32H750开发板emXGUI综合演示",
+          "link":"https://www.bilibili.com/video/BV1K4411v7As"
+        }
+      ],
+      "cloudLink":[
+        {
+          "linkName":"STM32H750 Pro-资料盘",
+          "link":"https://pan.baidu.com/s/1q5RqKbP5Z6VIeY0SUc9gqw",
+          "code":"ukl3"
+        }
+      ]
+    },
+
+
+    { 
+      "productName": "STM32F103C8T6_核心板",
+      "productLink": "http://products.embedfire.com/zh_CN/latest/stm32/ebf_stm32f103c8t6_core.html",
+      "repoGroup": [
+        {
+          "groupName":"基本资料",
+          "group":"stm32f1_common,stm32f103c8_core",
+          "descript":"本核心板的其它资料请参考 STM23F103_MINI 开发板"
+        }
+      ],
+      "onlineDoc": [
+        {
+          "linkName":"文档教程请参考 STM23F103_MINI 开发板相关内容"
+        }
+      ],
+      "onlineViedeo":[
+        {
+          "videoName":"文档教程请参考 STM23F103_MINI 开发板相关内容"
+        }
+      ],
+      "cloudLink":[
+        {
+          "linkName":"野火STM32F103C8T6核心板-资料盘",
+          "link":"https://pan.baidu.com/s/1eQVG7DVDLI5ke71SaVGJ0w",
+          "code":"mxtb"
+        }
+      ]
+
+     },
+
+     { 
+      "productName": "STM32F103ZET6_核心板",
+      "productLink": "http://products.embedfire.com/zh_CN/latest/stm32/ebf_stm32f103zet6_core.html",
+      "repoGroup": [
+        {
+          "groupName":"基本资料",
+          "group":"stm32f1_common,stm32f103ze_core",
+          "descript":"本核心板的其它资料请参考 STM23F103_霸道 开发板"
+        }
+      ],
+      "onlineDoc": [
+        {
+          "linkName":"文档教程请参考 STM23F103_霸道 开发板相关内容"
+        }
+      ],
+      "onlineViedeo":[
+        {
+          "videoName":"文档教程请参考 STM23F103_霸道 开发板相关内容"
+        }
+      ],
+      "cloudLink":[
+        {
+          "linkName":"野火STM32F103ZET6核心板-资料盘",
+          "link":"https://pan.baidu.com/s/15QPKjiUviFQlsP5vMVMntw",
+          "code":"uoi6"
+        }
+      ]
+
+     }
+
+
+   ]
+}

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+
+  <!--STM32F103 badao-->
+  <project remote="Embedfire-stm32f103-badao" revision="master" 
+  groups="stm32,stm32f103_badao"
+  name="ebf_stm32f103_badao_hardware" 
+  path="野火STM32开发板/F103_霸道/硬件资料"/>
+
+  <project remote="Embedfire-stm32f103-badao" revision="master" 
+  groups="stm32,stm32f103_badao"
+  name="ebf_stm32f103_badao_must_read" 
+  path="野火STM32开发板/F103_霸道/开发板用前必读"/>
+
+  <!-- HAL库 -->
+  <project remote="Embedfire-stm32f103-badao" revision="master" 
+    groups="stm32,stm32f103_badao,stm32f103_badao_hal_tutorial"
+    name="ebf_stm32f103_badao_hal_tutorial_pdf" 
+    path="野火开源图书/[野火]《STM32 HAL库开发实战指南》/F103_霸道/pdf文档"/>
+
+  <project remote="Embedfire-stm32f103-badao" revision="master" 
+    groups="stm32,stm32f103_badao,stm32f103_badao_hal_tutorial"
+    name="ebf_stm32f103_badao_hal_tutorial" 
+    path="野火开源图书/[野火]《STM32 HAL库开发实战指南》/F103_霸道/rst格式文档"/>
+
+  <project remote="Embedfire-stm32f103-badao" revision="master" 
+    groups="stm32,stm32f103_badao,stm32f103_badao_hal_tutorial"
+    name="ebf_stm32f103_badao_hal_code" 
+    path="野火开源图书/[野火]《STM32 HAL库开发实战指南》/F103_霸道/配套代码"/>
+
+  <!-- 标准库 -->
+
+  <project remote="Embedfire-stm32f103-badao" revision="master" 
+    groups="stm32,stm32f103_badao,stm32f103_badao_std_tutorial"
+    name="ebf_stm32f103_badao_std_tutorial_pdf" 
+    path="野火开源图书/[野火]《STM32库开发实战指南》/F103_霸道/pdf文档"/>
+
+  <project remote="Embedfire-stm32f103-badao" revision="master" 
+    groups="stm32,stm32f103_badao,stm32f103_badao_std_tutorial"
+    name="ebf_stm32f103_badao_std_tutorial"
+    path="野火开源图书/[野火]《STM32库开发实战指南》/F103_霸道/rst格式文档"/>
+
+
+  <project remote="Embedfire-stm32f103-badao" revision="master" 
+    groups="stm32,stm32f103_badao,stm32f103_badao_std_tutorial"
+    name="ebf_stm32f103_badao_std_code" 
+    path="野火开源图书/[野火]《STM32库开发实战指南》/F103_霸道/配套代码"/>
+
+  <!-- 核心板 -->
+
+  <project remote="Embedfire-stm32f103-badao" revision="master" 
+    groups="stm32,stm32f103ze_core"
+    name="ebf_stm32f103ze_core_code" 
+    path="野火开源图书/[野火]《STM32库开发实战指南》/F103ZE_核心板/配套代码"/>
+
+  <project remote="Embedfire-stm32f103-badao" revision="master" 
+    groups="stm32,stm32f103ze_core"
+    name="ebf_stm32f103ze_core_hardware" 
+    path="野火STM32开发板/F103ZE_核心板/硬件资料"/>
+
+</manifest>

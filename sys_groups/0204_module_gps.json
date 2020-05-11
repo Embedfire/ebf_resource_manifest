@@ -1,0 +1,44 @@
+{
+  "GPS卫星定位": [
+    { 
+      "productName": "定位_GPS_NEO-6M模块",
+      "productLink": "https://detail.tmall.com/item.htm?spm=a1z10.5-b.w4011-22026361158.26.72a2719c3g8UqU&id=600354485050&rn=6a5fb2c67d472d67ab8cb959d160b092&abbucket=3",
+      "repoGroup": [
+        {
+          "groupName":"基本资料",
+          "group":"gps_neo_6m",
+          "descript":"包含原理图、代码、教程等"
+        }
+      ],
+      "cloudLink":[
+        {
+          "linkName":"百度云-野火【定位_GPS_NEO-6M】",
+          "link":"https://pan.baidu.com/s/1iIgD9ntg38yGckkuKVyz3g",
+          "code":"d9gd"
+        }
+      ]
+     },
+
+
+    { 
+      "productName": "定位_北斗GPS_ATGM332D模块",
+      "productLink": "https://detail.tmall.com/item.htm?spm=a1z10.5-b.w4011-22026361158.26.72a2719c3g8UqU&id=600354485050&rn=6a5fb2c67d472d67ab8cb959d160b092&abbucket=3",
+      "repoGroup": [
+        {
+          "groupName":"基本资料",
+          "group":"gps_atgm332d",
+          "descript":"包含原理图、代码、教程等"
+        }
+      ],
+      "cloudLink":[
+        {
+          "linkName":"百度云-野火【北斗GPS_ATGM332D】",
+          "link":"https://pan.baidu.com/s/1RjQXNDqueALKC4Xx_QALMQ",
+          "code":"olex"
+        }
+      ]
+     }
+
+
+   ]
+}

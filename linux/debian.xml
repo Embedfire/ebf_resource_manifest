@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+
+  <!--debian-->
+
+  <project remote="Embedfire" revision="master" 
+    groups="arm_debian" name="embed_linux_tutorial" 
+    path="linux/tutorial/embed_linux_tutorial/imx6/rst"/>
+
+  <project remote="Embedfire" revision="master" 
+    groups="arm_debian" name="ebf-image-builder" 
+    path="linux/debian/ebf-image-builder"/>
+
+  <project remote="Embedfire" revision="master" 
+    groups="arm_debian" name="ebf_6ull_bootscripts" 
+    path="linux/debian/ebf_6ull_bootscripts"/>
+
+  <project remote="Embedfire" revision="master" 
+    groups="arm_debian" name="ebf-buster-linux" 
+    path="linux/debian/ebf-buster-linux"/>
+
+  <project remote="Embedfire" revision="master" 
+    groups="arm_debian" name="ebf-linux-dtoverlays" 
+    path="linux/debian/ebf-linux-dtoverlays"/>
+
+  <project remote="Embedfire" revision="master" 
+    groups="arm_debian" name="ebf-buster-uboot" 
+    path="linux/debian/ebf-buster-uboot"/>
+
+
+</manifest>

@@ -1,0 +1,44 @@
+{
+  "未分类模块": [
+    { 
+      "productName": "以太网_W5500",
+      "productLink": "http://products.embedfire.com/zh_CN/latest/module/enternet/w5500.html",
+      "repoGroup": [
+        {
+          "groupName":"基本资料",
+          "group":"w5500",
+          "descript":"包含原理图、代码、教程等"
+        }
+      ],
+      "cloudLink":[
+        {
+          "linkName":"百度云-野火【以太网_W5500】模块",
+          "link":"https://pan.baidu.com/s/1gZO1AlHBNCGP_F47klmGIQ",
+          "code":"js0y"
+        }
+      ]
+     },
+
+
+    { 
+      "productName": "MP3_VS1053",
+      "productLink": "http://products.embedfire.com/zh_CN/latest/module/audio/mp3_vs1053.html",
+      "repoGroup": [
+        {
+          "groupName":"基本资料",
+          "group":"vs1053",
+          "descript":"包含原理图、代码、教程等"
+        }
+      ],
+      "cloudLink":[
+        {
+          "linkName":"百度云-野火【MP3_VS1053】模块",
+          "link":"https://pan.baidu.com/s/1_igA3Q93zj_SgsNL9lpyug",
+          "code":"ibs4"
+        }
+      ]
+     }
+
+
+   ]
+}

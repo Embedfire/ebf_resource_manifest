@@ -1,0 +1,78 @@
+{
+  "Linux系列开发板": [
+    { 
+     "productName": "i.MX 6ul开发板",
+     "productLink": "http://products.embedfire.com/zh_CN/latest/linux/ebf_i.mx6ull.html",
+     "repoGroup": [
+       {
+         "groupName":"基本资料",
+         "group":"imx6_base",
+         "descript":"包含基础教程，开发板硬件资料"
+       },
+       {
+         "groupName":"buildroot相关",
+         "group":"imx6_buildroot",
+         "descript":"buildroot开发方式使用的内核，uboot等"
+       },
+       {
+         "groupName":"debian镜像源码",
+         "group":"arm_debian",
+         "descript":"适配于开发板的debian镜像制作工具和源码"
+       },
+       {
+         "groupName":"qt程序相关",
+         "group":"qt_app",
+         "descript":"包含示例qt的源码等内容"
+       }
+     ],
+     "onlineDoc": [
+      {
+        "linkName":"《i.MX Linux开发实战指南》",
+        "link": "https://tutorial.linux.doc.embedfire.com"
+      },
+      {
+        "linkName":"《EBF6ULL 硬件资料》",
+        "link": "https://ebf-6ull-hardware.readthedocs.io"
+      }
+    ],
+    "cloudLink":[
+      {
+        "linkName":"imx6ul Debian镜像百度云链接",
+        "link":"https://pan.baidu.com/s/1pji1U1vvgP8sl_TTZp59qg",
+        "code":"b5wb"
+      },
+      {
+        "linkName":"imx6ul Debian镜像Sourceforge链接",
+        "link":"https://sourceforge.net/projects/ebf-debian-firmware/",
+        "code":"直接下载即可"
+      }
+    ],
+    "onlineViedeo":[
+      {
+        "videoName":"视频教程-《i.MX Linux开发实战指南》",
+        "link":"https://space.bilibili.com/356820657?from=search&seid=6975525952639320153"
+      },
+      {
+        "videoName":"i.MX6ULL Linux开发板接HDMI显示器演示，27寸大屏1080P，稳定运行，得劲！",
+        "link":"https://www.bilibili.com/video/BV1WE411B7sW"
+      },
+      {
+        "videoName":"i.MX6ULL Linux开发板接debain桌面演示",
+        "link":"https://www.bilibili.com/video/BV1pE411B7Jy"
+      },
+      {
+        "videoName":"i.MX6ULL Linux Pro开发板 4.3 5 7 寸电容屏 Qt Demo演示",
+        "link":"https://www.bilibili.com/video/BV1sJ411S7zE"
+      },
+      {
+        "videoName":"i.MX6ULL Linux 开发板液晶排线接法，适用4.3寸 5寸 7寸电容屏",
+        "link":"https://www.bilibili.com/video/BV1KE411e7Jk"
+      }
+
+    ]
+
+   }
+
+
+ ]
+}

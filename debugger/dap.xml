@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+
+  <!--调试器-->
+  <project remote="Embedfire-debugger" revision="master" groups="debugger,dap" name="ebf_dap_doc" path="调试烧录器/dap/参考文档"/>
+
+
+</manifest>

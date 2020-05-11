@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+
+  <!--qt app-->
+
+  <project remote="Embedfire" revision="master" 
+    groups="qt_app" name="ebf_linux_qt_nes" 
+    path="linux/qt_app/ebf_linux_qt_nes"/>
+
+  <project remote="Embedfire" revision="master" 
+    groups="qt_app" name="ebf_linux_qt_demo" 
+    path="linux/qt_app/ebf_linux_qt_demo"/>
+
+
+
+</manifest>

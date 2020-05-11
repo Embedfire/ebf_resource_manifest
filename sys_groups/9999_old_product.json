@@ -1,0 +1,95 @@
+{
+  "旧产品": [
+    { 
+      "productName": "【旧】野火F103初初初初代开发板",
+      "productLink": "http://products.embedfire.com/zh_CN/latest/old_products/ebf_f103_first.html"
+     },
+
+     { 
+      "productName": "【旧】野火F429第一代开发板(至尊版)",
+      "productLink": "http://products.embedfire.com/zh_CN/latest/old_products/ebf_f429_first.html",
+      "cloudLink":[
+        {
+          "linkName":"百度云-【旧】野火F429第一代开发板(至尊版)",
+          "link":"http://pan.baidu.com/s/1jIrwDSU",
+          "code":"无"
+        }
+      ]
+     },
+
+     { 
+      "productName": "【旧】野火ISO-V1开发板资料",
+      "productLink": "http://products.embedfire.com/zh_CN/latest/old_products/ebf_iso_v1.html",
+      "cloudLink":[
+        {
+          "linkName":"百度云-【旧】野火ISO-V1开发板资料",
+          "link":"https://pan.baidu.com/s/1qXFu6x2",
+          "code":"无"
+        }
+      ]
+     },
+
+    { 
+      "productName": "【旧】野火ISO-V2开发板资料",
+      "productLink": "http://products.embedfire.com/zh_CN/latest/old_products/ebf_iso_v2.html",
+      "cloudLink":[
+        {
+          "linkName":"百度云-【旧】野火ISO-V2开发板资料",
+          "link":"http://pan.baidu.com/s/1eSnaQzg",
+          "code":"无"
+        }
+      ]
+     },
+
+     { 
+      "productName": "【旧】野火M3开发板",
+      "productLink": "http://products.embedfire.com/zh_CN/latest/old_products/ebf_m3.html",
+      "cloudLink":[
+        {
+          "linkName":"百度云-【旧】野火M3开发板",
+          "link":"http://pan.baidu.com/s/1i4EiTAP",
+          "code":"无"
+        }
+      ]
+     },
+
+
+     { 
+      "productName": "【旧】野火MINI-V1开发板资料",
+      "productLink": "http://products.embedfire.com/zh_CN/latest/old_products/ebf_mini_v1.html",
+      "cloudLink":[
+        {
+          "linkName":"百度云-【旧】野火M3开发板",
+          "link":"https://pan.baidu.com/s/1jIASryjx279WC8FNQf9T1w",
+          "code":"ozsh"
+        }
+      ]
+     },
+
+     { 
+      "productName": "【旧】野火MINI-V2开发板",
+      "productLink": "http://products.embedfire.com/zh_CN/latest/old_products/ebf_mini_v2.html#",
+      "cloudLink":[
+        {
+          "linkName":"百度云-【旧】野火M3开发板",
+          "link":"http://pan.baidu.com/s/1geTMcCz",
+          "code":"无"
+        }
+      ]
+     },
+
+
+     { 
+      "productName": "【旧】野火Zigbee开发板",
+      "productLink": "http://products.embedfire.com/zh_CN/latest/old_products/ebf_zigbee.html",
+      "cloudLink":[
+        {
+          "linkName":"百度云-【旧】野火Zigbee开发板",
+          "link":"http://pan.baidu.com/s/1jIv10BO",
+          "code":"无"
+        }
+      ]
+     }
+
+   ]
+}

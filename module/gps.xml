@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+
+  <project remote="Embedfire-gps" revision="master" groups="gps,gps_atgm332d" name="ebf_module_gps_beidou_atgm332d" path="野火模块产品/GPS定位/gps-beidou-atgm332d/配套资料"/>
+  <project remote="Embedfire-gps" revision="master" groups="gps,gps_neo_6m" name="ebf_module_gps_neo_6m" path="野火模块产品/GPS定位/gps-neo-6m/配套资料"/>
+
+</manifest>

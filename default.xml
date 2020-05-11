@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+  <default sync-j="2"/>
+
+  <!--各系列产品的remote定义-->
+  <include name="sys_remote/remote_gitee_https.xml" />
+
+
+  <include name="app/app.xml" />
+  
+  <include name="contribute/contribute.xml" />
+
+  <include name="debugger/dap.xml" />
+
+
+  <include name="gd32/GD32VF103.xml" />
+
+  <include name="gui/emwin.xml" />
+  <include name="gui/emxgui.xml" />
+
+  <include name="imxrt/rt1021.xml" />
+  <include name="imxrt/rt1052.xml" />
+
+  <include name="linux/debian.xml" />
+  <include name="linux/imx6.xml" />
+  <include name="linux/qt_app.xml" />
+
+  <include name="module/camera.xml" />
+  <include name="module/display.xml" />
+  <include name="module/gps.xml" />
+  <include name="module/gsm.xml" />
+  <include name="module/misc.xml" />
+  <include name="module/sensor.xml" />
+  <include name="module/wireless.xml" />
+
+  <include name="motor/step_motor.xml" />
+
+  <include name="network/lwip.xml" />
+  <include name="network/wifi_ap.xml" />
+  <include name="network/wifi_esp.xml" />
+
+  <include name="rtos/freertos.xml" />
+  <include name="rtos/liteos.xml" />
+  <include name="rtos/rtthread.xml" />
+  <include name="rtos/ucos.xml" />
+
+  <include name="stm32/common.xml" />
+  <include name="stm32/stm32f103_mini.xml" />
+  <include name="stm32/stm32f103_zhinanzhe.xml" />
+  <include name="stm32/stm32f103_badao.xml" />
+  <include name="stm32/stm32f407_batianhu.xml" />
+  <include name="stm32/stm32f429_tiaozhanzhe.xml" />
+  <include name="stm32/stm32f767_tiaozhanzhe.xml" />
+  <include name="stm32/stm32h743_tiaozhanzhe.xml" />
+  <include name="stm32/stm32h7_pro.xml" />
+
+
+
+</manifest>

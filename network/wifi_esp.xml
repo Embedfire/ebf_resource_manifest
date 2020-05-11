@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+
+
+  <!--ESP系列模块ESP8266等-->
+
+      <!--代码，配套各个开发板-->
+  <project remote="Embedfire-WiFi-esp" revision="master" groups="wifi_esp" name="ebf_wifi_esp8266_doc" path="野火模块产品/WiFi/ESP8266模块/说明文档"/>
+  <project remote="Embedfire-WiFi-esp" revision="master" groups="wifi_esp" name="ebf_wifi_esp8266_data" path="野火模块产品/WiFi/ESP8266模块/参考资料"/>
+  <project remote="Embedfire-WiFi-esp" revision="master" groups="wifi_esp" name="ebf_wifi_esp8266_code" path="野火模块产品/WiFi/ESP8266模块/配套代码"/>
+
+
+</manifest>

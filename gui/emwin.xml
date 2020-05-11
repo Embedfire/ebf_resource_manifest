@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+
+  <!--开源图书-->
+    <!--操作系统-->
+
+  <project remote="Embedfire-emwin" revision="master" groups="emwin,emwin_base" name="ebf_emwin_tutorial" path="野火开源图书/[野火]《emWin应用开发实战指南》/rst格式文档"/>
+
+  <project remote="Embedfire-emwin" revision="master" groups="emwin,emwin_base" name="ebf_emwin_tutorial_pdf" path="野火开源图书/[野火]《emWin应用开发实战指南》/pdf文档"/>
+  <project remote="Embedfire-emwin" revision="master" groups="emwin,emwin_base" name="ebf_emwin_data" path="野火开源图书/[野火]《emWin应用开发实战指南》/参考资料"/>
+
+      <!--配套代码，各个开发板-->
+  <project remote="Embedfire-emwin" revision="master" groups="emwin,emwin_tutorial_code,emwin_stm32f103_mini" name="ebf_emwin_tutorial_code_stm32f103_mini" path="野火开源图书/[野火]《emWin应用开发实战指南》/配套代码/F103_MINI"/>
+  <project remote="Embedfire-emwin" revision="master" groups="emwin,emwin_tutorial_code,emwin_stm32f103_zhinanzhe" name="ebf_emwin_tutorial_code_stm32f103_zhinanzhe" path="野火开源图书/[野火]《emWin应用开发实战指南》/配套代码/F103_指南者"/>
+  <project remote="Embedfire-emwin" revision="master" groups="emwin,emwin_tutorial_code,emwin_stm32f103_badao" name="ebf_emwin_tutorial_code_stm32f103_badao" path="野火开源图书/[野火]《emWin应用开发实战指南》/配套代码/F103_霸道"/>
+  <project remote="Embedfire-emwin" revision="master" groups="emwin,emwin_tutorial_code,emwin_stm32f407_batianhu" name="ebf_emwin_tutorial_code_stm32f407_batianhu" path="野火开源图书/[野火]《emWin应用开发实战指南》/配套代码/F407_霸天虎"/>
+  <project remote="Embedfire-emwin" revision="master" groups="emwin,emwin_tutorial_code,emwin_stm32f429_tiaozhanzhe" name="ebf_emwin_tutorial_code_stm32f429_tiaozhanzhe_v1" path="野火开源图书/[野火]《emWin应用开发实战指南》/配套代码/F429_挑战者_V1"/>
+  <project remote="Embedfire-emwin" revision="master" groups="emwin,emwin_tutorial_code,emwin_stm32f429_tiaozhanzhe" name="ebf_emwin_tutorial_code_stm32f429_tiaozhanzhe_v2" path="野火开源图书/[野火]《emWin应用开发实战指南》/配套代码/F429_挑战者_V2"/>
+  <project remote="Embedfire-emwin" revision="master" groups="emwin,emwin_tutorial_code,emwin_stm32f767_tiaozhanzhe" name="ebf_emwin_tutorial_code_stm32f767_tiaozhanzhe" path="野火开源图书/[野火]《emWin应用开发实战指南》/配套代码/F767_挑战者"/>
+  <project remote="Embedfire-emwin" revision="master" groups="emwin,emwin_tutorial_code,emwin_stm32h743_pro" name="ebf_emwin_tutorial_code_stm32h743_pro" path="野火开源图书/[野火]《emWin应用开发实战指南》/配套代码/H743_Pro"/>
+  <project remote="Embedfire-emwin" revision="master" groups="emwin,emwin_tutorial_code,emwin_stm32h743_tiaozhanzhe" name="ebf_emwin_tutorial_code_stm32h743_tiaozhanzhe" path="野火开源图书/[野火]《emWin应用开发实战指南》/配套代码/H743_挑战者"/>
+  <project remote="Embedfire-emwin" revision="master" groups="emwin,emwin_tutorial_code,emwin_stm32h750_pro" name="ebf_emwin_tutorial_code_stm32h750_pro" path="野火开源图书/[野火]《emWin应用开发实战指南》/配套代码/H750_Pro"/>
+
+      <!--综合例程，各个开发板-->
+  <project remote="Embedfire-emwin" revision="master" groups="emwin,emwin_synthesize_code,emwin_stm32f103_mini" name="ebf_stm32f103_mini_emwin_demo" path="野火开源图书/[野火]《emWin应用开发实战指南》/综合例程/F103_MINI"/>
+  <project remote="Embedfire-emwin" revision="master" groups="emwin,emwin_synthesize_code,emwin_stm32f103_zhinanzhe" name="ebf_stm32f103_zhinanzhe_emwin_demo" path="野火开源图书/[野火]《emWin应用开发实战指南》/综合例程/F103_指南者"/>
+  <project remote="Embedfire-emwin" revision="master" groups="emwin,emwin_synthesize_code,emwin_stm32f103_badao" name="ebf_stm32f103_badao_emwin_demo" path="野火开源图书/[野火]《emWin应用开发实战指南》/综合例程/F103_霸道"/>
+  <project remote="Embedfire-emwin" revision="master" groups="emwin,emwin_synthesize_code,emwin_stm32f407_batianhu" name="ebf_stm32f407_batianhu_emwin_demo" path="野火开源图书/[野火]《emWin应用开发实战指南》/综合例程/F407_霸天虎"/>
+  <project remote="Embedfire-emwin" revision="master_v1" groups="emwin,emwin_synthesize_code,emwin_stm32f429_tiaozhanzhe" name="ebf_stm32f429_tiaozhanzhe_emwin_demo" path="野火开源图书/[野火]《emWin应用开发实战指南》/综合例程/F429_挑战者_V1"/>
+  <project remote="Embedfire-emwin" revision="master_v2" groups="emwin,emwin_synthesize_code,emwin_stm32f429_tiaozhanzhe" name="ebf_stm32f429_tiaozhanzhe_emwin_demo" path="野火开源图书/[野火]《emWin应用开发实战指南》/综合例程/F429_挑战者_V2"/>
+
+</manifest>

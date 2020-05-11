@@ -1,0 +1,17 @@
+{
+   "GD32V-Risc-V开发板": [
+     { 
+      "productName": "GD32VF103开发板",
+      "productLink": "",
+      "repoGroup": [
+        {
+          "groupName":"基本资料",
+          "group":"gd32vf103",
+          "descript":"推荐先学习这部分的内容，包含硬件、库开发等"
+        }
+      ]
+
+    }
+
+  ]
+}

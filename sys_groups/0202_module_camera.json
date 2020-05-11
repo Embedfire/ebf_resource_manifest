@@ -1,0 +1,107 @@
+{
+  "摄像头模块": [
+    { 
+      "productName": "OV5640摄像头,500w像素",
+      "productLink": "https://detail.tmall.com/item.htm?spm=a1z10.5-b.w4011-22026361158.26.72a2719c3g8UqU&id=600354485050&rn=6a5fb2c67d472d67ab8cb959d160b092&abbucket=3",
+      "repoGroup": [
+        {
+          "groupName":"基本资料",
+          "group":"camera_ov5640",
+          "descript":"包含原理图、代码、教程等"
+        }
+      ],
+      "onlineDoc": [
+        {
+          "linkName":"STM32F429_挑战者_标准库《DCMI—OV5640摄像头》",
+          "link": "https://ebf-stm32f429-tiaozhanzhe-std-tutorial.readthedocs.io/zh_CN/latest/book/DCMI_OV5640.html"
+        },
+        {
+          "linkName":"STM32F429_挑战者《QR-Decoder-OV5640二维码识别》",
+          "link":"https://ebf-stm32f429-tiaozhanzhe-std-tutorial.readthedocs.io/zh_CN/latest/book/QR.html"
+        }
+      ],
+      "onlineViedeo":[
+        {
+          "videoName":"视频-参考OV2640-STM32F429_挑战者《DCMI—OV2640摄像头》",
+          "link":"https://www.bilibili.com/video/BV1NW411f7BD?p=65"
+        }
+      ],
+      "cloudLink":[
+        {
+          "linkName":"百度云-野火【摄像头_OV5640】模块",
+          "link":"https://pan.baidu.com/s/1jImGQhTJoz00ndD81U0MVg",
+          "code":"d5fm"
+        }
+      ]
+     },
+
+
+     { 
+      "productName": "OV2640摄像头,200w像素",
+      "productLink": "https://detail.tmall.com/item.htm?spm=a1z10.3-b.w4011-22026356201.204.50a3133du91bhI&id=600555042065&rn=7ffd4d991eb7f9f081f8272241457487&abbucket=3",
+      "repoGroup": [
+        {
+          "groupName":"基本资料",
+          "group":"camera_ov2640",
+          "descript":"包含原理图、代码、教程等"
+        }
+      ],
+      "onlineDoc": [
+        {
+          "linkName":"STM32F429_挑战者_标准库《DCMI—OV2640摄像头》",
+          "link": "https://ebf-stm32f429-tiaozhanzhe-std-tutorial.readthedocs.io/zh_CN/latest/book/DCMI_OV2640.html"
+        }
+      ],
+      "onlineViedeo":[
+        {
+          "videoName":"视频-STM32F429_挑战者《DCMI—OV2640摄像头》",
+          "link":"https://www.bilibili.com/video/BV1NW411f7BD?p=65"
+        }
+      ],
+      "cloudLink":[
+        {
+          "linkName":"百度云-野火【摄像头_OV2640】模块",
+          "link":"https://pan.baidu.com/s/1bDldYC6cfLk9q6yRo58ylw",
+          "code":"73af"
+        }
+      ]
+     },
+
+
+     { 
+      "productName": "OV7725摄像头,30w像素",
+      "productLink": "https://detail.tmall.com/item.htm?spm=a1z10.3-b.w4011-22026356201.204.50a3133du91bhI&id=600555042065&rn=7ffd4d991eb7f9f081f8272241457487&abbucket=3",
+      "repoGroup": [
+        {
+          "groupName":"基本资料",
+          "group":"camera_ov7725_buffer",
+          "descript":"包含原理图、代码、教程等"
+        }
+      ],
+      "onlineDoc": [
+        {
+          "linkName":"STM32F103_霸道_标准库《 OV7725摄像头驱动》",
+          "link": "https://ebf-stm32f103-badao-std-tutorial.readthedocs.io/zh_CN/latest/book/OV7725.html"
+        },
+        {
+          "linkName":"STM32F103_霸道_HAL库《 OV7725摄像头驱动》",
+          "link": "https://ebf-stm32f103-badao-hal-tutorial.readthedocs.io/zh_CN/latest/doc/chapter45/chapter45.html"
+        }
+      ],
+      "onlineViedeo":[
+        {
+          "videoName":"视频-STM32F103_霸道/指南者《OV7725摄像头》",
+          "link":"https://www.bilibili.com/video/BV1ms411M7Cf?p=56"
+        }
+      ],
+      "cloudLink":[
+        {
+          "linkName":"百度云-野火【摄像头_OV7725_带FIFO】模块",
+          "link":"https://pan.baidu.com/s/1qID4q1CzrhQsQsarD77n6Q",
+          "code":"2t40"
+        }
+      ]
+     }
+
+   ]
+}

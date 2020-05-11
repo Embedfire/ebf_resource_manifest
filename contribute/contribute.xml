@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+
+  <project remote="Embedfire" revision="master" groups="contribute" name="ebf_contribute_guide" path="参与野火开源项目/编写在线文档"/>
+
+  <!--本manifest自身的仓库-->
+  <project remote="Embedfire" revision="master_gitee" groups="resource" name="ebf_resource_manifest" path="野火资料清单/manifest"/>
+
+  <project remote="Embedfire" revision="master" groups="resource" name="ebf_products" path="野火资料清单/产品链接文档"/>
+
+
+</manifest>

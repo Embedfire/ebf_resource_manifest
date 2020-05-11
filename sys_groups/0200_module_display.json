@@ -1,0 +1,203 @@
+{
+  "显示屏模块": [
+    { 
+      "productName": "128*64-OLED屏-0.96寸-I2C接口",
+      "productLink": "https://detail.tmall.com/item.htm?spm=a1z10.5-b.w4011-22026361158.27.72da634aDNkPhv&id=600741855664&rn=6c4db4f01a74658c2c11fce0bd8107c9&abbucket=3",
+      "repoGroup": [
+        {
+          "groupName":"配套资料",
+          "group":"oled_i2c_0.96",
+          "descript":"包含数据手册、原理图及代码"
+        }
+      ],
+      "cloudLink":[
+        {
+          "linkName":"百度云-野火【OLED屏_I2C_0.96寸】",
+          "link":"https://pan.baidu.com/s/1U01Aw1RroouCShCvneOwKw",
+          "code":"d1b9"
+        }
+      ]
+     },
+
+
+    { 
+      "productName": "128*64-OLED屏-0.96寸-SPI接口",
+      "productLink": "https://detail.tmall.com/item.htm?spm=a1z10.5-b.w4011-22026361158.40.446f74b8Al666n&id=600120816963&rn=05d613c370b98f78cae20edea6a0b828&abbucket=3",
+      "repoGroup": [
+        {
+          "groupName":"配套资料",
+          "group":"oled_spi_0.96",
+          "descript":"包含数据手册、原理图及代码"
+        }
+      ],
+      "cloudLink":[
+        {
+          "linkName":"百度云-野火【OLED屏_SPI_0.96寸】",
+          "link":"https://pan.baidu.com/s/1jBtfomLLiPD4VLRgQhQ9aw",
+          "code":"098g"
+        }
+      ]
+     },
+
+
+    { 
+      "productName": "320*240-电阻触摸屏-ILI9341-3.2寸-2.8寸-MCU接口",
+      "productLink": "https://detail.tmall.com/item.htm?spm=a1z10.5-b.w4011-22026361158.34.28be74b8lFE6Vm&id=600554318889&rn=82f9e79ce5a3f6b5ede40359e965363f&abbucket=3",
+      "repoGroup": [
+        {
+          "groupName":"配套资料",
+          "group":"lcd_8080_3.2",
+          "descript":"2.8寸屏与3.2寸屏资料兼容，包含数据手册、原理图及代码"
+        }
+      ],
+      "cloudLink":[
+        {
+          "linkName":"百度云-野火【电阻触摸屏ILI9341_3.2_2.8寸】",
+          "link":"https://pan.baidu.com/s/1o5F8F3Ca0qnO_ZeCa9Lf2Q",
+          "code":"pst3"
+        }
+      ]
+     },
+
+
+     { 
+      "productName": "854*480-电容触摸屏-ILI9806G-4.5寸-GT917s-MCU接口",
+      "productLink": "https://detail.tmall.com/item.htm?spm=a1z10.5-b.w4011-22026361158.34.28be74b8lFE6Vm&id=600554318889&rn=82f9e79ce5a3f6b5ede40359e965363f&abbucket=3",
+      "repoGroup": [
+        {
+          "groupName":"配套资料",
+          "group":"lcd_8080_gt917s",
+          "descript":"包含数据手册、原理图及代码"
+        }
+      ],
+      "cloudLink":[
+        {
+          "linkName":"百度云-野火【RGB接口电容触摸屏GT917S_5寸】",
+          "link":"https://pan.baidu.com/s/1swDkCQGLkou7IH-AyDhsxg",
+          "code":"hsie"
+        }
+      ]
+     },
+
+
+    { 
+      "productName": "854*480-电容触摸屏-ILI9806-GT5688-4.5寸MCU接口",
+      "productLink": "https://detail.tmall.com/item.htm?spm=a1z10.5-b.w4011-22026361158.26.3d7e4433VNQoE7&id=600554818312&rn=d0ff62cd5bcd749b1839d5395b629215&abbucket=3",
+      "repoGroup": [
+        {
+          "groupName":"配套资料",
+          "group":"lcd_8080_gt5688",
+          "descript":"包含数据手册、原理图及代码"
+        }
+      ],
+      "cloudLink":[
+        {
+          "linkName":"百度云-野火【电容触摸屏ILI9806_GT5688_4.5寸】",
+          "link":"https://pan.baidu.com/s/1r3kQKVUobN-Af8S77iYucw",
+          "code":"c6cx"
+        }
+      ]
+     },
+
+
+
+     { 
+      "productName": "800*480-电容触摸屏-RA8875-5寸-MCU接口",
+      "productLink": "https://detail.tmall.com/item.htm?spm=a1z10.5-b.w4011-22026361158.34.28be74b8lFE6Vm&id=600554318889&rn=82f9e79ce5a3f6b5ede40359e965363f&abbucket=3",
+      "repoGroup": [
+        {
+          "groupName":"配套资料",
+          "group":"lcd_8080_ra8875_gt917s",
+          "descript":"包含数据手册、原理图及代码"
+        }
+      ],
+      "cloudLink":[
+        {
+          "linkName":"百度云-野火【MCU接口电容触摸屏RA8875_GT9157_5寸】",
+          "link":"https://pan.baidu.com/s/16VTX0Jl0GR91hF10_gC-eQ",
+          "code":"j1sa"
+        }
+      ]
+     },
+
+
+     { 
+      "productName": "800*480-电容触摸屏-GT917S-5寸-RGB接口",
+      "productLink": "https://detail.tmall.com/item.htm?spm=a1z10.5-b.w4011-22026361158.34.28be74b8lFE6Vm&id=600554318889&rn=82f9e79ce5a3f6b5ede40359e965363f&abbucket=3",
+      "repoGroup": [
+        {
+          "groupName":"配套资料",
+          "group":"lcd_rgb_gt917s",
+          "descript":"包含数据手册、原理图及代码"
+        }
+      ],
+      "cloudLink":[
+        {
+          "linkName":"百度云-野火【RGB接口电容触摸屏GT917S_5寸】",
+          "link":"https://pan.baidu.com/s/1swDkCQGLkou7IH-AyDhsxg",
+          "code":"hsie"
+        }
+      ]
+     },
+
+
+     { 
+      "productName": "800*480-电容触摸屏-GT9157-5寸-RGB接口",
+      "productLink": "https://detail.tmall.com/item.htm?spm=a1z10.5-b.w4011-22026361158.44.26f87effhCoq1x&id=600741783695&rn=4c0d748e4e523b9b7ea71ea866375205&abbucket=3",
+      "repoGroup": [
+        {
+          "groupName":"配套资料",
+          "group":"lcd_rgb_gt9157",
+          "descript":"包含数据手册、原理图及代码"
+        }
+      ],
+      "cloudLink":[
+        {
+          "linkName":"百度云-野火【RGB接口电容触摸屏GT9157_5寸】",
+          "link":"https://pan.baidu.com/s/1g4C9bkzrL56WVRqvNyM9mw",
+          "code":"e16d"
+        }
+      ]
+     },
+
+     { 
+      "productName": "800*480-电容触摸屏-GT911-7寸-RGB接口",
+      "productLink": "https://detail.tmall.com/item.htm?spm=a1z10.5-b.w4011-22026361158.53.26f87effhCoq1x&id=602439330473&rn=4c0d748e4e523b9b7ea71ea866375205&abbucket=3",
+      "repoGroup": [
+        {
+          "groupName":"配套资料",
+          "group":"lcd_rgb_gt911",
+          "descript":"包含数据手册、原理图及代码"
+        }
+      ],
+      "cloudLink":[
+        {
+          "linkName":"百度云-野火【RGB接口电容触摸屏GT911_7寸】",
+          "link":"https://pan.baidu.com/s/1YRFHJd4QXmKYv74_KP3Zfw",
+          "code":"o6tr"
+        }
+      ]
+     },
+
+     { 
+      "productName": "480*272-电容触摸屏-GT5688-4.3寸-RGB接口",
+      "productLink": "https://detail.tmall.com/item.htm?spm=a1z10.5-b.w4011-22026361158.34.28be74b8lFE6Vm&id=600554318889&rn=82f9e79ce5a3f6b5ede40359e965363f&abbucket=3",
+      "repoGroup": [
+        {
+          "groupName":"配套资料",
+          "group":"lcd_rgb_gt5688",
+          "descript":"包含数据手册、原理图及代码"
+        }
+      ],
+      "cloudLink":[
+        {
+          "linkName":"百度云-野火【RGB接口电容触摸屏GT5688_4.3寸】",
+          "link":"https://pan.baidu.com/s/1r3kQKVUobN-Af8S77iYucw",
+          "code":"c6cx"
+        }
+      ]
+     }
+
+
+   ]
+}

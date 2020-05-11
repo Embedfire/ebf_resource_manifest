@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+
+  <!--传感器-->
+  <project remote="Embedfire-sensor" revision="master" groups="sensor,sensor_mpu6050" name="ebf_sensor_mpu6050_code_stm32" path="野火模块产品/传感器/姿态_MPU6050/stm32代码"/>
+  <project remote="Embedfire-sensor" revision="master" groups="sensor,sensor_mpu6050" name="ebf_sensor_mpu6050_data" path="野火模块产品/传感器/姿态_MPU6050/参考资料"/>
+  <project remote="Embedfire-sensor" revision="master" groups="sensor,sensor_mpu6050" name="ebf_sensor_mpu6050_doc" path="野火模块产品/传感器/姿态_MPU6050/文档说明"/>
+  <project remote="Embedfire-sensor" revision="master" groups="sensor,sensor_ap3216c" name="ebf_sensor_ap3216c" path="野火模块产品/传感器/光_AP3216C/配套资料"/>
+  <project remote="Embedfire-sensor" revision="master" groups="sensor,sensor_ldr" name="ebf_sensor_ldr" path="野火模块产品/传感器/光敏电阻/配套资料"/>
+  <project remote="Embedfire-sensor" revision="master" groups="sensor,sensor_as608" name="ebf_sensor_as608" path="野火模块产品/传感器/指纹识别_AS608/配套资料"/>
+  <project remote="Embedfire-sensor" revision="master" groups="sensor,sensor_sr501" name="ebf_sensor_hc_sr501" path="野火模块产品/传感器/红外识别_HC-SR501/配套资料"/>
+  <project remote="Embedfire-sensor" revision="master" groups="sensor,sensor_ds18b20" name="ebf_sensor_ds18b20" path="野火模块产品/传感器/温度_DS18B20/配套资料"/>
+  <project remote="Embedfire-sensor" revision="master" groups="sensor,sensor_dht11" name="ebf_sensor_dht11" path="野火模块产品/传感器/温湿度_DHT11/配套资料"/>
+
+</manifest>

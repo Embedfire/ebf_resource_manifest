@@ -1,0 +1,114 @@
+{
+   "i.MX RT系列开发板": [
+     { 
+      "productName": "i.MX RT1021开发板",
+      "productLink": "http://products.embedfire.com/zh_CN/latest/i.mx-rt/ebf_i.mx-rt1021.html",
+      "repoGroup": [
+        {
+          "groupName":"基本资料",
+          "group":"rt1021",
+          "descript":"推荐先学习这部分的内容，包含硬件、库开发等"
+        }
+      ],
+      "cloudLink":[
+        {
+          "linkName":"野火i.MX RT1052开发板-资料盘",
+          "link":" https://pan.baidu.com/s/1QsIHpGJlj2ueBcapNF15Tw",
+          "code":"ax5h"
+        }
+      ]
+
+    },
+
+    {
+      "productName": "i.MX RT1052开发板",
+      "productLink": "http://products.embedfire.com/zh_CN/latest/i.mx-rt/ebf_i.mx-rt1052.html",
+      "repoGroup": [
+        {
+          "groupName":"基本资料",
+          "group":"rt1052",
+          "descript":"推荐先学习这部分的内容，包含硬件、库开发等"
+        },
+        {
+          "groupName":"freertos系统",
+          "group":"freertos_base,freertos_rt1052",
+          "descript":"适用于本开发板的freertos资料"
+        },
+        {
+          "groupName":"rtthread系统",
+          "group":"rtthread_base,rtthread_rt1052",
+          "descript":"适用于本开发板的rtthread资料"
+        },
+        {
+          "groupName":"ucos系统",
+          "group":"ucos_base,ucos_rt1052",
+          "descript":"适用于本开发板的ucos资料"
+        },
+        {
+          "groupName":"LwIP网络协议栈",
+          "group":"lwip_base,lwip_rt1052,wifi_ap_base,wifi_ap_rt1052",
+          "descript":"嵌入式网络协议栈LwIP教程，包含以太网、WiFi例程"
+        },
+        {
+          "groupName":"emXGUI图形界面",
+          "group":"emxgui_base,emxgui_rt1052",
+          "descript":"野火emXGUI图形界面库"
+        },
+        {
+          "groupName":"显示屏",
+          "group":"lcd_rgb,oled_spi,oled_i2c",
+          "descript":"RGB接口的液晶屏、OLED等"
+        },
+        {
+          "groupName":"摄像头",
+          "group":"camera_ov5640_rt1052,camera_ov2640_rt1052,wifi_ap_base,wifi_ap_rt1052",
+          "descript":"摄像头,包含网络摄像头的代码"
+        },
+        {
+          "groupName":"GPS定位模块",
+          "group":"gps",
+          "descript":"全球定位系统，包含GPS、北斗等"
+        },
+        {
+          "groupName":"电机驱动",
+          "group":"msd4805",
+          "descript":"各种电机驱动器模块"
+        },
+        {
+          "groupName":"GSM通讯",
+          "group":"gsm_serial",
+          "descript":"GSM通讯，电话、短信、联网"
+        },
+        {
+          "groupName":"传感器",
+          "group":"sensor",
+          "descript":"温湿度、姿态、指纹等各类传感器"
+        },
+        {
+          "groupName":"无线模块",
+          "group":"wireless",
+          "descript":"蓝牙、RFID、2.4G、红外等"
+        },
+        {
+          "groupName":"WiFi模块",
+          "group":"wifi_ap_base,wifi_ap_rt1052",
+          "descript":"适用于本开发板的WiFi模块资料"
+        },
+        {
+          "groupName":"杂类模块",
+          "group":"relay",
+          "descript":"未归类的各种模块"
+        }
+      ],
+      "cloudLink":[
+        {
+          "linkName":"野火i.MX RT1052开发板-资料盘",
+          "link":"https://pan.baidu.com/s/1UscgNZ_Srj0BosjihvZSxA",
+          "code":"to3d"
+        }
+      ]
+    }
+
+
+  ]
+}

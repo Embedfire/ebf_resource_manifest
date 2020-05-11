@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+
+
+  <!--下载源定义-->
+  <!--github使用git类型的协议，在gui界面不方便直接跳转-->
+
+    <!--我们在github和gitee都包含同名的仓库-->
+    <!--开发活跃的资料，在gitee可能不会时刻保持最新，有时可能会有点滞后-->
+    <!--将manifest xml中project的remote参数替换为此处定义的remote名，即可切换下载源-->
+  
+  <!--本manifest自身的地址-->
+  <remote fetch="git://github.com/Embedfire" name="Embedfire"/>
+
+  <!--debugger -->
+  <remote fetch="git://github.com/Embedfire-debugger" name="Embedfire-debugger"/>
+
+  <!--gd32 -->
+  <remote fetch="git://github.com/Embedfire-gd32" name="Embedfire-gd32"/>
+
+  <!--gui -->
+  <remote fetch="git://github.com/Embedfire-emwin" name="Embedfire-emwin"/>
+  <remote fetch="git://github.com/Embedfire-emxgui" name="Embedfire-emxgui"/>
+
+  <!--imxrt -->
+  <remote fetch="git://github.com/Embedfire-rt1052" name="Embedfire-rt1052"/>
+  <remote fetch="git://github.com/Embedfire-rt1021" name="Embedfire-rt1021"/>
+
+  <!--linux -->
+  <remote fetch="git://github.com/Embedfire-imx6" name="Embedfire-imx6"/>
+
+  <!--module -->
+  <!--camera -->
+  <remote fetch="git://github.com/Embedfire-camera" name="Embedfire-camera"/>
+  <!--display -->
+  <remote fetch="git://github.com/Embedfire-display" name="Embedfire-display"/>
+  <!--gps -->
+  <remote fetch="git://github.com/Embedfire-gps" name="Embedfire-gps"/>
+  <!--gsm -->
+  <remote fetch="git://github.com/Embedfire-gsm" name="Embedfire-gsm"/>
+  <!--misc -->
+  <remote fetch="git://github.com/Embedfire-misc" name="Embedfire-misc"/>
+  <!--sensor -->
+  <remote fetch="git://github.com/Embedfire-sensor" name="Embedfire-sensor"/>
+  <!--wireless -->
+  <remote fetch="git://github.com/Embedfire-wireless" name="Embedfire-wireless"/>
+
+  <!--motor -->
+  <remote fetch="git://github.com/Embedfire-motor" name="Embedfire-motor"/>
+
+  <!--network-->
+  <remote fetch="git://github.com/Embedfire-lwip" name="Embedfire-lwip"/>
+  <remote fetch="git://github.com/Embedfire-WiFi-AP" name="Embedfire-WiFi-AP"/>
+  <remote fetch="git://github.com/Embedfire-WiFi-esp" name="Embedfire-WiFi-esp"/>
+
+  <!--rtos -->
+  <remote fetch="git://github.com/Embedfire-freertos" name="Embedfire-freertos"/>
+  <remote fetch="git://github.com/Embedfire-ucos" name="Embedfire-ucos"/>
+  <remote fetch="git://github.com/Embedfire-rtthread" name="Embedfire-rtthread"/>
+  <remote fetch="git://github.com/Embedfire-liteos" name="Embedfire-liteos"/>
+
+  <!--stm32开发板 -->
+  <remote fetch="git://github.com/Embedfire-stm32f103-mini" name="Embedfire-stm32f103-mini"/>
+  <remote fetch="git://github.com/Embedfire-stm32f103-zhinanzhe" name="Embedfire-stm32f103-zhinanzhe"/>
+  <remote fetch="git://github.com/Embedfire-stm32f103-badao" name="Embedfire-stm32f103-badao"/>
+  <remote fetch="git://github.com/Embedfire-stm32f407-batianhu" name="Embedfire-stm32f407-batianhu"/>
+  <remote fetch="git://github.com/Embedfire-stm32f429-tiaozhanzhe" name="Embedfire-stm32f429-tiaozhanzhe"/>
+  <remote fetch="git://github.com/Embedfire-stm32f767-tiaozhanzhe" name="Embedfire-stm32f767-tiaozhanzhe"/>
+  <remote fetch="git://github.com/Embedfire-stm32h743-tiaozhanzhe" name="Embedfire-stm32h743-tiaozhanzhe"/>
+  <remote fetch="git://github.com/Embedfire-stm32h7-pro" name="Embedfire-stm32h7-pro"/>
+
+
+
+</manifest>

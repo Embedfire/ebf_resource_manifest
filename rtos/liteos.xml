@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+
+
+
+  <!--开源图书-->
+    <!--操作系统-->
+
+  <project remote="Embedfire-liteos" revision="master" groups="liteos,liteos_base" name="ebf_liteos_tutorial" path="野火开源图书/[野火]《物联网操作系统 LiteOS开发实战指南》/rst格式文档"/>
+
+  <project remote="Embedfire-liteos" revision="master" groups="liteos,liteos_base" name="ebf_liteos_tutorial_pdf" path="野火开源图书/[野火]《物联网操作系统 LiteOS开发实战指南》/pdf文档"/>
+  <project remote="Embedfire-liteos" revision="master" groups="liteos,liteos_base" name="ebf_liteos_data" path="野火开源图书/[野火]《物联网操作系统 LiteOS开发实战指南》/参考资料"/>
+
+      <!--配套代码，各个开发板-->
+  <project remote="Embedfire-liteos" revision="master" groups="liteos,liteos_code,liteos_stm32f103_mini" name="ebf_liteos_tutorial_code_stm32f103_mini" path="野火开源图书/[野火]《物联网操作系统 LiteOS开发实战指南》/配套代码/F103_MINI"/>
+  <project remote="Embedfire-liteos" revision="master" groups="liteos,liteos_code,liteos_stm32f103_zhinanzhe" name="ebf_liteos_tutorial_code_stm32f103_zhinanzhe" path="野火开源图书/[野火]《物联网操作系统 LiteOS开发实战指南》/配套代码/F103_指南者"/>
+  <project remote="Embedfire-liteos" revision="master" groups="liteos,liteos_code,liteos_stm32f103_badao" name="ebf_liteos_tutorial_code_stm32f103_badao" path="野火开源图书/[野火]《物联网操作系统 LiteOS开发实战指南》/配套代码/F103_霸道"/>
+  <project remote="Embedfire-liteos" revision="master" groups="liteos,liteos_code,liteos_stm32f407_batianhu" name="ebf_liteos_tutorial_code_stm32f407_batianhu" path="野火开源图书/[野火]《物联网操作系统 LiteOS开发实战指南》/配套代码/F407_霸天虎"/>
+  <project remote="Embedfire-liteos" revision="master" groups="liteos,liteos_code,liteos_stm32f429_tiaozhanzhe" name="ebf_liteos_tutorial_code_stm32f429_tiaozhanzhe" path="野火开源图书/[野火]《物联网操作系统 LiteOS开发实战指南》/配套代码/F429_挑战者"/>
+  <project remote="Embedfire-liteos" revision="master" groups="liteos,liteos_code,liteos_stm32f767_tiaozhanzhe" name="ebf_liteos_tutorial_code_stm32f767_tiaozhanzhe" path="野火开源图书/[野火]《物联网操作系统 LiteOS开发实战指南》/配套代码/F767_挑战者"/>
+  <project remote="Embedfire-liteos" revision="master" groups="liteos,liteos_code,liteos_stm32h743_pro" name="ebf_liteos_tutorial_code_stm32h743_pro_v" path="野火开源图书/[野火]《物联网操作系统 LiteOS开发实战指南》/配套代码/H743_Pro_V版本芯片"/>
+  <project remote="Embedfire-liteos" revision="master" groups="liteos,liteos_code,liteos_stm32h743_tiaozhanzhe" name="ebf_liteos_tutorial_code_stm32h743_tiaozhanzhe" path="野火开源图书/[野火]《物联网操作系统 LiteOS开发实战指南》/配套代码/H743_挑战者"/>
+  <project remote="Embedfire-liteos" revision="master" groups="liteos,liteos_code,liteos_stm32h750_pro" name="ebf_liteos_tutorial_code_stm32h750_pro_v" path="野火开源图书/[野火]《物联网操作系统 LiteOS开发实战指南》/配套代码/H750_Pro_V版本芯片"/>
+
+
+
+
+</manifest>

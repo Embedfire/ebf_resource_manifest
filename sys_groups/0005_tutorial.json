@@ -1,0 +1,440 @@
+{
+  "开源图书及视频": [
+    { 
+     "productName": "《STM32 HAL库开发实战指南》（HAL库）",
+     "productLink": "https://yehuosm.tmall.com/category-1478985236.htm?spm=a1z10.5-b.w4010-22026361156.76.74ab441dlYdQfT&search=y&catName=%C5%E4%CC%D7%CA%E9%BC%AE-%D2%B0%BB%F0%B1%E0%D0%B4#bd",
+     "repoGroup": [
+       {
+         "groupName":"STM32F103_MINI开发板",
+         "group":"stm32f103_mini_hal_tutorial",
+         "descript":"仅书籍和代码，开发板硬件资料请在开发板对应分类下查找"
+       },
+       {
+         "groupName":"STM32F103_指南者开发板",
+         "group":"stm32f103_zhinanzhe_hal_tutorial",
+         "descript":"仅书籍和代码，开发板硬件资料请在开发板对应分类下查找"
+       },
+       {
+         "groupName":"STM32F103_霸道开发板",
+         "group":"stm32f103_badao_hal_tutorial",
+         "descript":"仅书籍和代码，开发板硬件资料请在开发板对应分类下查找"
+       },
+       {
+         "groupName":"STM32F407_霸天虎开发板",
+         "group":"stm32f407_batianhu_hal_tutorial",
+         "descript":"仅书籍和代码，开发板硬件资料请在开发板对应分类下查找"
+       },
+       {
+         "groupName":"STM32F429_挑战者开发板",
+         "group":"stm32f429_tiaozhanzhe_hal_tutorial",
+         "descript":"仅书籍和代码，开发板硬件资料请在开发板对应分类下查找"
+       },
+       {
+         "groupName":"STM32F767_挑战者开发板",
+         "group":"stm32f767_tiaozhanzhe_hal_tutorial",
+         "descript":"仅书籍和代码，开发板硬件资料请在开发板对应分类下查找"
+       },
+       {
+         "groupName":"STM32H743_挑战者开发板",
+         "group":"stm32h743_tiaozhanzhe_hal_tutorial",
+         "descript":"仅书籍和代码，开发板硬件资料请在开发板对应分类下查找"
+       },
+       {
+         "groupName":"STM32H743_Pro开发板",
+         "group":"stm32h743_pro_hal_tutorial",
+         "descript":"仅书籍和代码，开发板硬件资料请在开发板对应分类下查找"
+       },
+       {
+         "groupName":"STM32H750_Pro开发板",
+         "group":"stm32h750_pro_hal_tutorial",
+         "descript":"仅书籍和代码，开发板硬件资料请在开发板对应分类下查找"
+       }
+     ],
+     "onlineDoc": [
+      {
+        "linkName":"《STM32 HAL库开发实战指南——基于STM32F103_MINI开发板》",
+        "link": "https://ebf-stm32f103-mini-hal-tutorial.readthedocs.io"
+      },
+      {
+        "linkName":"《STM32 HAL库开发实战指南——基于STM32F103_霸道开发板》",
+        "link": "https://ebf-stm32f103-badao-hal-tutorial.readthedocs.io"
+      },
+      {
+        "linkName":"《STM32 HAL库开发实战指南——基于STM32F407_霸天虎开发板》",
+        "link": "https://ebf-stm32f407-batianhu-hal-tutorial.readthedocs.io"
+      },
+      {
+        "linkName":"《STM32 HAL库开发实战指南——基于STM32F429_挑战者开发板》",
+        "link": "https://ebf-stm32f429-tiaozhanzhe-hal-tutorial.readthedocs.io"
+      },
+      {
+        "linkName":"《STM32 HAL库开发实战指南——基于STM32F767_挑战者开发板》",
+        "link": "https://ebf-stm32f767-tiaozhanzhe-hal-tutorial.readthedocs.io"
+      }
+    ]
+
+   },
+
+
+    { 
+     "productName": "《STM32库开发实战指南》（标准库）",
+     "productLink": "https://yehuosm.tmall.com/category-1478985236.htm?spm=a1z10.5-b.w4010-22026361156.76.74ab441dlYdQfT&search=y&catName=%C5%E4%CC%D7%CA%E9%BC%AE-%D2%B0%BB%F0%B1%E0%D0%B4#bd",
+     "repoGroup": [
+       {
+         "groupName":"STM32F103_MINI开发板",
+         "group":"stm32f103_mini_std_tutorial",
+         "descript":"仅书籍和代码，开发板硬件资料请在开发板对应分类下查找"
+       },
+       {
+         "groupName":"STM32F103_指南者开发板",
+         "group":"stm32f103_zhinanzhe_std_tutorial",
+         "descript":"仅书籍和代码，开发板硬件资料请在开发板对应分类下查找"
+       },
+       {
+         "groupName":"STM32F103_霸道开发板",
+         "group":"stm32f103_badao_std_tutorial",
+         "descript":"仅书籍和代码，开发板硬件资料请在开发板对应分类下查找"
+       },
+       {
+         "groupName":"STM32F407_霸天虎开发板",
+         "group":"stm32f407_batianhu_std_tutorial",
+         "descript":"仅书籍和代码，开发板硬件资料请在开发板对应分类下查找"
+       },
+       {
+         "groupName":"STM32F429_挑战者开发板",
+         "group":"stm32f429_badao_std_tutorial",
+         "descript":"仅书籍和代码，开发板硬件资料请在开发板对应分类下查找"
+       }
+     ],
+     "onlineDoc": [
+      {
+        "linkName":"《STM32库开发实战指南——基于STM32F103_MINI开发板》",
+        "link": "https://ebf-stm32f103-mini-std-tutorial.readthedocs.io"
+      },
+      {
+        "linkName":"《STM32库开发实战指南——基于STM32F103_指南者开发板》",
+        "link": "https://ebf-stm32f103-zhinanzhe-std-tutorial.readthedocs.io"
+      },
+      {
+        "linkName":"《STM32库开发实战指南——基于STM32F103_霸道开发板》",
+        "link": "https://ebf-stm32f103-badao-std-tutorial.readthedocs.io"
+      }
+    ],
+    "onlineViedeo":[
+      {
+        "videoName":"158集-《STM32库开发实战指南——F103_MINI开发板》",
+        "link":"https://space.bilibili.com/356820657/channel/detail?cid=84857"
+      },
+      {
+        "videoName":"158集-《STM32库开发实战指南——F103_霸道/指南者开发板》",
+        "link":"https://space.bilibili.com/356820657/channel/detail?cid=48780"
+      },
+      {
+        "videoName":"158集-《STM32库开发实战指南——F407_霸天虎开发板》",
+        "link":"https://space.bilibili.com/356820657/channel/detail?cid=82914"
+      },
+      {
+        "videoName":"158集-《STM32库开发实战指南——F429_挑战者开发板》",
+        "link":"https://space.bilibili.com/356820657/channel/detail?cid=82915"
+      }
+    ]
+
+   },
+
+
+
+    { 
+     "productName": "《LwIP应用开发实战指南》",
+     "productLink": "http://products.embedfire.com/zh_CN/latest/tutorial/ebf_freertos_tutorial.html",
+     "repoGroup": [
+       {
+         "groupName":"基本资料",
+         "group":"lwip_base",
+         "descript":"适配不同开发板的共同资料"
+       },
+       {
+         "groupName":"教程配套代码",
+         "group":"lwip_code",
+         "descript":"教程中针对不同开发板的配套代码(以太网)"
+       },
+       {
+         "groupName":"lwip配套wifi代码",
+         "group":"lwip_ap6181",
+         "descript":"适配wifi模块(AP6181)的lwip代码"
+       }
+     ],
+     "onlineDoc": [
+      {
+        "linkName":"《LwIP应用开发实战指南—基于STM32》",
+        "link": "https://ebf-lwip-tutorial.readthedocs.io"
+      },
+      {
+        "linkName":"《LwIP应用开发实战指南—基于RT1052》",
+        "link": "https://ebf-lwip-tutorial-rt1052.readthedocs.io"
+      }
+    ],
+    "onlineViedeo":[
+      {
+        "videoName":"62集-《LwIP应用开发实战指南—基于STM32》",
+        "link":"https://www.bilibili.com/video/av59550450"
+      }
+    ],
+    "cloudLink":[
+      {
+        "linkName":"百度云-[野火]《LwIP应用开发实战指南》",
+        "link":"https://pan.baidu.com/s/1lHQSe5MYtOXcfXNWw6H_Og",
+        "code":"gv3k"
+      }
+    ]
+   },
+
+
+
+    { 
+     "productName": "《FreeRTOS内核实现与应用开发实战》",
+     "productLink": "http://products.embedfire.com/zh_CN/latest/tutorial/ebf_freertos_tutorial.html",
+     "repoGroup": [
+       {
+         "groupName":"基本资料",
+         "group":"freertos_base",
+         "descript":"适配不同开发板的共同资料"
+       },
+       {
+         "groupName":"第二部分代码",
+         "group":"freertos_part2",
+         "descript":"教程中针对不同开发板的第二部分代码"
+       },
+       {
+         "groupName":"系统+外设的代码",
+         "group":"freertos_peripheral",
+         "descript":"适配部分开发板的系统+外设示例"
+       }
+     ],
+     "onlineDoc": [
+      {
+        "linkName":"《FreeRTOS 内核实现与应用开发实战—基于STM32》",
+        "link": "https://ebf-freertos-tutorial.readthedocs.io"
+      }
+    ],
+    "onlineViedeo":[
+      {
+        "videoName":"42集-《FreeRTOS 内核实现与应用开发实战—基于STM32》",
+        "link":"https://www.bilibili.com/video/av57449565"
+      }
+    ],
+    "cloudLink":[
+      {
+        "linkName":"百度云-[野火]《FreeRTOS内核实现与应用开发实战指南》",
+        "link":"https://pan.baidu.com/s/1C7py3OTJV-Bx3Hlv2m4nUA",
+        "code":"jz6h"
+      }
+    ]
+   },
+
+
+    { 
+     "productName": "《Rt-thread 内核实现与应用开发实战》",
+     "productLink": "http://products.embedfire.com/zh_CN/latest/tutorial/ebf_rtthread_tutorial.html",
+     "repoGroup": [
+       {
+         "groupName":"基本资料",
+         "group":"rtthread_base",
+         "descript":"适配不同开发板的共同资料"
+       },
+       {
+         "groupName":"第二部分代码",
+         "group":"rtthread_part2",
+         "descript":"教程中针对不同开发板的第二部分代码"
+       },
+       {
+         "groupName":"系统+外设的代码",
+         "group":"rtthread_peripheral",
+         "descript":"适配部分开发板的系统+外设示例"
+       }
+     ],
+     "onlineDoc": [
+      {
+        "linkName":"《Rt-thread 内核实现与应用开发实战—基于STM32》",
+        "link": "https://ebf-rtthread-tutorial.readthedocs.io"
+      }
+     ],
+     "cloudLink":[
+      {
+        "linkName":"百度云-[野火]《RT-Thread内核实现与应用开发实战指南》",
+        "link":"https://pan.baidu.com/s/1sgoeeDnlWh2tYde8EVhHPw",
+        "code":"6c8p"
+      }
+     ]
+    },
+
+
+    { 
+      "productName": "《uCOS-III内核实现与应用开发实战》",
+      "productLink": "http://products.embedfire.com/zh_CN/latest/tutorial/ebf_ucos_tutorial.html",
+      "repoGroup": [
+        {
+          "groupName":"基本资料",
+          "group":"ucos_base",
+          "descript":"适配不同开发板的共同资料"
+        },
+        {
+          "groupName":"第二部分代码",
+          "group":"ucos_part2",
+          "descript":"教程中针对不同开发板的第二部分代码"
+        }
+      ],
+      "onlineDoc": [
+      {
+        "linkName":"《uCOS-III 内核实现与应用开发实战—基于STM32》",
+        "link": "https://ebf-ucos-tutorial.readthedocs.io"
+      }
+    ],
+    "onlineViedeo":[
+      {
+        "videoName":"50集-《uCOS-III 内核实现与应用开发实战—基于STM32》",
+        "link":"https://www.bilibili.com/video/av62027241"
+      }
+    ],
+    "cloudLink":[
+      {
+        "linkName":"百度云-[野火]《uCOS-III内核实现与应用开发实战指南》",
+        "link":"https://pan.baidu.com/s/1T7TRRLvEYZH2-V3ef-UVDg",
+        "code":"bbty"
+      }
+    ]
+    },
+
+
+
+    { 
+      "productName": "《物联网操作系统 LiteOS开发实战指南》",
+      "productLink": "http://products.embedfire.com/zh_CN/latest/tutorial/ebf_liteos_tutorial.html",
+      "repoGroup": [
+        {
+          "groupName":"基本资料",
+          "group":"liteos_base",
+          "descript":"适配不同开发板的共同资料"
+        },
+        {
+          "groupName":"配套代码",
+          "group":"liteos_code",
+          "descript":"教程中针对不同开发板的代码"
+        }
+      ],
+      "onlineDoc": [
+      {
+        "linkName":"《物联网操作系统 LiteOS开发实战指南—基于STM32》",
+        "link": "https://ebf-liteos-tutorial.readthedocs.io"
+      }
+    ],
+    "cloudLink":[
+      {
+        "linkName":"百度云-[野火]《物联网操作系统 LiteOS开发实战指南》",
+        "link":"https://pan.baidu.com/s/1y1OV59c7kbDL_QCFjk8Rcw",
+        "code":"7ost"
+      }
+    ]
+    },
+
+
+    { 
+      "productName": "《emWin应用开发实战指南》",
+      "productLink": "http://products.embedfire.com/zh_CN/latest/tutorial/ebf_liteos_tutorial.html",
+      "repoGroup": [
+        {
+          "groupName":"基本资料",
+          "group":"emwin_base",
+          "descript":"适配不同开发板的共同资料"
+        },
+        {
+          "groupName":"书籍配套代码",
+          "group":"emwin_tutorial_code",
+          "descript":"教程中针对不同开发板的代码"
+        },
+        {
+          "groupName":"综合例程",
+          "group":"emwin_synthesize_code",
+          "descript":"针对不同开发板的综合例程"
+        }
+      ],
+      "onlineDoc": [
+      {
+        "linkName":"《emWin应用开发实战指南——基于STM32》",
+        "link": "https://ebf-emwin-tutorial.readthedocs.io"
+      }
+    ],
+    "onlineViedeo":[
+      {
+        "videoName":"38集-《emWin应用开发实战指南—基于STM32》",
+        "link":"https://www.bilibili.com/video/av94409908"
+      }
+    ],
+    "cloudLink":[
+      {
+        "linkName":"百度云-[野火]《emWin实战指南》",
+        "link":"https://pan.baidu.com/s/1LqxFdhtfIGm_vT6RQKlvcw",
+        "code":"ac2n"
+      }
+    ]
+    },
+
+
+    { 
+      "productName": "《emXGUI应用开发实战指南》",
+      "productLink": "http://products.embedfire.com/zh_CN/latest/tutorial/ebf_liteos_tutorial.html",
+      "repoGroup": [
+        {
+          "groupName":"基本资料",
+          "group":"emxgui_base",
+          "descript":"适配不同开发板的共同资料(含教程代码)"
+        },
+        {
+          "groupName":"综合例程",
+          "group":"emxgui_synthesize_code",
+          "descript":"针对不同开发板的综合例程"
+        }
+      ],
+      "onlineDoc": [
+      {
+        "linkName":"《emXGUI应用开发实战指南——基于STM32》",
+        "link": "https://emxgui-tutorial-doc.readthedocs.io"
+      },
+      {
+        "linkName":"《emXGUI API 手册》",
+        "link": "https://emxgui-api-manal.readthedocs.io"
+      },
+      {
+        "linkName":"《emXGUI API 手册》",
+        "link": "https://emxgui-api-manal.readthedocs.io"
+      }
+    ],
+    "cloudLink":[
+      {
+        "linkName":"百度云-[野火]《emXGUI实战指南》",
+        "link":"https://pan.baidu.com/s/1YeBNP_x5WCPmOwDjUGH_pg",
+        "code":"u1k9"
+      }
+    ]
+    },
+
+
+    { 
+      "productName": "《i.MX Linux开发实战指南》",
+      "productLink": "https://yehuosm.tmall.com/category-1483664730.htm?spm=a1z10.1-b.w5002-22026361117.3.4dd773f50jirHS&search=y&catName=Linux%BF%AA%B7%A2%B0%E5",
+      "repoGroup": [
+        {
+          "groupName":"基本资料",
+          "group":"imx6_base",
+          "descript":"包含代码和在线文档、硬件原理图"
+    }
+      ],
+      "onlineDoc": [
+      {
+        "linkName":"《i.MX Linux开发实战指南》",
+        "link": "https://tutorial.linux.doc.embedfire.com/zh_CN/latest/"
+      }
+    ]
+    }
+
+ ]
+}

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+
+  <!--AP系列模块ap6181等-->
+
+      <!--代码，配套各个开发板-->
+  <project remote="Embedfire-WiFi-AP" revision="master" groups="lwip,lwip_ap6181,wifi_ap_base" name="wifi-ap6181-data" path="野火模块产品/WiFi/AP6181模块/参考资料"/>
+  <project remote="Embedfire-WiFi-AP" revision="master" groups="lwip,lwip_ap6181,wifi_ap_stm32f429_tiaozhanzhe" name="wifi-ap6181-f429-code" path="野火模块产品/WiFi/AP6181模块/F429_挑战者_v1"/>
+  <project remote="Embedfire-WiFi-AP" revision="master" groups="lwip,lwip_ap6181,wifi_ap_stm32f429_tiaozhanzhe" name="wifi-ap6181-f429v2-code" path="野火模块产品/WiFi/AP6181模块/F429_挑战者_v2"/>
+  <project remote="Embedfire-WiFi-AP" revision="master" groups="lwip,lwip_ap6181,wifi_ap_stm32f767_tiaozhanzhe" name="wifi-ap6181-f767-code" path="野火模块产品/WiFi/AP6181模块/F767_挑战者"/>
+  <project remote="Embedfire-WiFi-AP" revision="master" groups="lwip,lwip_ap6181,wifi_ap_stm32h743_pro" name="wifi-ap6181-h743pro-code" path="野火模块产品/WiFi/AP6181模块/H743_Pro_V版本芯片"/>
+  <project remote="Embedfire-WiFi-AP" revision="master" groups="lwip,lwip_ap6181,wifi_ap_stm32h743_tiaozhanzhe" name="wifi-ap6181-h743-code" path="野火模块产品/WiFi/AP6181模块/H743_挑战者"/>
+  <project remote="Embedfire-WiFi-AP" revision="master" groups="lwip,lwip_ap6181,wifi_ap_stm32h750_pro" name="wifi-ap6181-h750-code" path="野火模块产品/WiFi/AP6181模块/H750_Pro_V版本芯片"/>
+  <project remote="Embedfire-WiFi-AP" revision="master" groups="lwip,lwip_ap6181,wifi_ap_rt1052" name="wifi-ap6181-rt1052-code" path="野火模块产品/WiFi/AP6181模块/RT1052"/>
+
+
+</manifest>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+
+  <!--rt1052 开发板-->
+
+  <project remote="Embedfire-rt1052" revision="master" 
+    groups="rt1052"
+    name="ebf_i.mxrt1052_hardware" 
+    path="野火i.MX_RT开发板/RT1052/硬件资料"/>
+
+  <project remote="Embedfire-rt1052" revision="master" 
+    groups="rt1052"
+    name="ebf_i.mxrt1052_must_read" 
+    path="野火i.MX_RT开发板/RT1052/开发板用前必读"/>
+
+  <project remote="Embedfire-rt1052" revision="master" 
+    groups="rt1052" name="ebf_i.mxrt1052_tutorial" 
+    path="野火开源图书/[野火]《i.MX RT库开发实战指南》/RT1052/rst格式文档"/>
+
+  <project remote="Embedfire-rt1052" revision="master" 
+    groups="rt1052" name="ebf_i.mxrt1052_tutorial_pdf" 
+    path="野火开源图书/[野火]《i.MX RT库开发实战指南》/RT1052/pdf文档"/>
+
+  <project remote="Embedfire-rt1052" revision="master" 
+    groups="rt1052"
+    name="ebf_i.mxrt1052_code" 
+    path="野火开源图书/[野火]《i.MX RT库开发实战指南》/RT1052/配套代码"/>
+
+
+</manifest>

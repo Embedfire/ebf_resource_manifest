@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+
+  <!--rt1021 -->
+
+  <project remote="Embedfire-rt1021" revision="master" 
+    groups="rt1021"
+    name="ebf_i.mxrt1021_hardware" 
+    path="野火i.MX_RT开发板/RT1021/硬件资料"/>
+
+  <project remote="Embedfire-rt1021" revision="master" 
+    groups="rt1021"
+    name="ebf_i.mxrt1021_must_read" 
+    path="野火i.MX_RT开发板/RT1021/开发板用前必读"/>
+
+  <project remote="Embedfire-rt1021" revision="master" 
+    groups="rt1021"
+    name="ebf_i.mxrt1021_code" 
+    path="野火开源图书/[野火]《i.MX RT库开发实战指南》/RT1021/配套代码"/>
+
+</manifest>

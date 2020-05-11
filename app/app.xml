@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+
+  <project remote="Embedfire-old" revision="master" groups="muti_assistant" name="CSharp-Client" path="开源上位机/野火多功能调试助手"/>
+
+
+</manifest>

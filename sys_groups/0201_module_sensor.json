@@ -1,0 +1,142 @@
+{
+  "传感器模块": [
+    { 
+      "productName": "陀螺仪MPU6050",
+      "productLink": "https://detail.tmall.com/item.htm?spm=a1z10.5-b.w4011-22026361158.26.72a2719c3g8UqU&id=600354485050&rn=6a5fb2c67d472d67ab8cb959d160b092&abbucket=3",
+      "repoGroup": [
+        {
+          "groupName":"配套资料",
+          "group":"sensor_mpu6050",
+          "descript":"包含原理图、代码、教程等"
+        }
+      ],
+      "onlineDoc": [
+        {
+          "linkName":"STM32F103_指南者《MPU6050传感器—姿态检测》",
+          "link": "https://ebf-stm32f103-zhinanzhe-std-tutorial.readthedocs.io/zh_CN/latest/book/MPU6050.html"
+        }
+      ],
+      "onlineViedeo":[
+        {
+          "videoName":"视频-STM32F103_指南者《MPU6050传感器—姿态检测》",
+          "link":"https://www.bilibili.com/video/BV1ms411M7Cf?p=50"
+        }
+      ],
+      "cloudLink":[
+        {
+          "linkName":"百度云-野火【姿态传感器_MPU6050】",
+          "link":"https://pan.baidu.com/s/1MHGNCGrwMHZUJ2KZJ4rHVQ",
+          "code":"gsq8"
+        }
+      ]
+     },
+
+
+
+     { 
+      "productName": "三合一光传感器-AP3216C",
+      "productLink": "https://detail.tmall.com/item.htm?spm=a1z10.5-b.w4011-22026361158.26.72a2719c3g8UqU&id=600354485050&rn=6a5fb2c67d472d67ab8cb959d160b092&abbucket=3",
+      "repoGroup": [
+        {
+          "groupName":"配套资料",
+          "group":"sensor_ap3216c",
+          "descript":"包含原理图、代码、教程等"
+        }
+      ]
+     },
+
+     { 
+      "productName": "光敏电阻模块",
+      "productLink": "https://detail.tmall.com/item.htm?spm=a1z10.5-b.w4011-22026361158.46.4d325690gKGBsk&id=600354309281&rn=a0b9c840b7344ef4ce4e09d2c7f71bd0&abbucket=3",
+      "repoGroup": [
+        {
+          "groupName":"配套资料",
+          "group":"sensor_ldr",
+          "descript":"包含原理图、代码、教程等"
+        }
+      ]
+     },
+
+
+     { 
+      "productName": "指纹识别_AS608模块",
+      "productLink": "https://item.taobao.com/item.htm?spm=a1z10.5-c-s.w4002-21618523991.32.5d6a6ae9BuikwB&id=571439840317",
+      "repoGroup": [
+        {
+          "groupName":"配套资料",
+          "group":"sensor_as608",
+          "descript":"包含原理图、代码、教程等"
+        }
+      ],
+      "cloudLink":[
+        {
+          "linkName":"百度云-野火【指纹识别_AS608】模块",
+          "link":"https://pan.baidu.com/s/13HZNaNpIM-BVdQsclbbiGg",
+          "code":"xrr1"
+        }
+      ]
+     },
+
+
+     { 
+      "productName": "红外识别_HCSR501模块",
+      "productLink": "https://item.taobao.com/item.htm?spm=a1z10.5-c-s.w4002-21618523991.32.5d6a6ae9BuikwB&id=571439840317",
+      "repoGroup": [
+        {
+          "groupName":"配套资料",
+          "group":"sensor_as608",
+          "descript":"包含原理图、代码、教程等"
+        }
+      ],
+      "cloudLink":[
+        {
+          "linkName":"百度云-野火【红外识别_HC-SR501】",
+          "link":"https://pan.baidu.com/s/1doOMFoQMBrhiVGAgsWQ4Cw",
+          "code":"4qqs"
+        }
+      ]
+     },
+
+
+     { 
+      "productName": "温度传感器_DS18B20模块",
+      "productLink": "https://detail.tmall.com/item.htm?spm=a1z10.5-b.w4011-22026361158.50.4d325690gKGBsk&id=600741703814&rn=a0b9c840b7344ef4ce4e09d2c7f71bd0&abbucket=3",
+      "repoGroup": [
+        {
+          "groupName":"配套资料",
+          "group":"sensor_ds18b20",
+          "descript":"包含原理图、代码、教程等"
+        }
+      ],
+      "cloudLink":[
+        {
+          "linkName":"百度云-野火【温度传感器_DS18B20】",
+          "link":"https://pan.baidu.com/s/1ZLEWc6jcK7adSl-O4O9I2g",
+          "code":"6bhp"
+        }
+      ]
+     },
+
+
+     { 
+      "productName": "温湿度传感器_DHT11模块",
+      "productLink": "https://detail.tmall.com/item.htm?spm=a1z10.5-b.w4011-22026361158.41.4d325690gKGBsk&id=600120964660&rn=a0b9c840b7344ef4ce4e09d2c7f71bd0&abbucket=3",
+      "repoGroup": [
+        {
+          "groupName":"配套资料",
+          "group":"sensor_dht11",
+          "descript":"包含原理图、代码、教程等"
+        }
+      ],
+      "cloudLink":[
+        {
+          "linkName":"百度云-野火【温湿度传感器_DHT11】",
+          "link":"https://pan.baidu.com/s/1A6ZbuOONkjb6EB7EVRr0ZQ",
+          "code":"4gnf"
+        }
+      ]
+     }
+
+
+   ]
+}
