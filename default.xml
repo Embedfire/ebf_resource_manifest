@@ -4,7 +4,7 @@
   <default sync-j="2"/>
 
   <!--各系列产品的remote定义-->
-  <include name="sys_remote/remote_gitee_https.xml" />
+  <include name="sys_remote/remote_github_https.xml" />
 
 
   <include name="app/app.xml" />
