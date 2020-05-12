@@ -433,6 +433,12 @@
         "linkName":"《i.MX Linux开发实战指南》",
         "link": "https://tutorial.linux.doc.embedfire.com/zh_CN/latest/"
       }
+    ],
+    "onlineViedeo":[
+      {
+        "videoName":"视频教程-《i.MX Linux开发实战指南》",
+        "link":"https://space.bilibili.com/356820657/channel/detail?cid=91871"
+      }
     ]
     }
 
