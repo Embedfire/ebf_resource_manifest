@@ -12,12 +12,14 @@
        {
          "groupName":"buildroot相关",
          "group":"imx6_buildroot",
-         "descript":"buildroot开发方式使用的内核，uboot等，内核源码请在Linux下克隆，Win下会出错"
+         "descript":"buildroot开发方式使用的内核，uboot等，内核源码请在Linux下克隆，Win下会出错",
+         "warning":"Linux内核源码及uboot请在Linux系统下克隆，Windows下检出会出错"
        },
        {
          "groupName":"debian镜像源码",
          "group":"arm_debian",
-         "descript":"适配于开发板的debian镜像制作工具和源码，内核源码请在linux下克隆，win下会出错"
+         "descript":"适配于开发板的debian镜像制作工具和源码，内核源码请在linux下克隆，Win下会出错",
+         "warning":"Linux内核源码及uboot请在Linux系统下克隆，Windows下检出会出错"
        },
        {
          "groupName":"qt程序相关",
