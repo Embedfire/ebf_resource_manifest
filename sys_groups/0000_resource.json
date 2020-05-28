@@ -2,7 +2,7 @@
   "参与野火开源项目": [
     { 
       "productName": "如何参与修改野火在线文档",
-      "productLink": "http://contribute.doc.embedfire.com",
+      "productLink": "https://contribute.doc.embedfire.com",
       "repoGroup": [
         {
           "groupName":"编写在线文档",
@@ -19,15 +19,15 @@
       "onlineDoc": [
         {
           "linkName":"野火产品简介",
-          "link": "http://products.embedfire.com"
+          "link": "https://products.embedfire.com"
         },
         {
           "linkName":"[野火]sphinx文档规范与模版",
-          "link": "http://contribute.doc.embedfire.com"
+          "link": "https://contribute.doc.embedfire.com"
         },
         {
           "linkName":"提交bug、issue到开源项目",
-          "link": "http://contribute.doc.embedfire.com"
+          "link": "https://contribute.doc.embedfire.com"
         }
       ]
     }
