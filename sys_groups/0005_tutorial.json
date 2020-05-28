@@ -102,7 +102,7 @@
        },
        {
          "groupName":"STM32F429_挑战者开发板",
-         "group":"stm32f429_badao_std_tutorial",
+         "group":"stm32f429_tiaozhanzhe_std_tutorial",
          "descript":"仅书籍和代码，开发板硬件资料请在开发板对应分类下查找"
        }
      ],

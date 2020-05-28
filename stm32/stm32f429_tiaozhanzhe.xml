@@ -35,24 +35,24 @@
 
   
   <project remote="Embedfire-stm32f429-tiaozhanzhe" revision="master" 
-    groups="stm32,stm32f429_tiaozhanzhe,stm32f429_badao_std_tutorial"
+    groups="stm32,stm32f429_tiaozhanzhe,stm32f429_tiaozhanzhe_std_tutorial"
     name="ebf_stm32f429_tiaozhanzhe_std_tutorial"
     path="野火开源图书/[野火]《STM32库开发实战指南》/挑战者/F429/rst格式文档"/>
 
 
   <project remote="Embedfire-stm32f429-tiaozhanzhe" revision="master" 
-    groups="stm32,stm32f429_tiaozhanzhe,stm32f429_badao_std_tutorial"
+    groups="stm32,stm32f429_tiaozhanzhe,stm32f429_tiaozhanzhe_std_tutorial"
     name="ebf_stm32f429_tiaozhanzhe_std_tutorial_pdf" 
     path="野火开源图书/[野火]《STM32库开发实战指南》/挑战者/F429/pdf文档"/>
 
 
   <project remote="Embedfire-stm32f429-tiaozhanzhe" revision="master_v1" 
-    groups="stm32,stm32f429_tiaozhanzhe,stm32f429_badao_std_tutorial"
+    groups="stm32,stm32f429_tiaozhanzhe,stm32f429_tiaozhanzhe_std_tutorial"
     name="ebf_stm32f429_tiaozhanzhe_std_code" 
     path="野火开源图书/[野火]《STM32库开发实战指南》/挑战者/F429/配套代码_v1"/>
 
   <project remote="Embedfire-stm32f429-tiaozhanzhe" revision="master_v2" 
-    groups="stm32,stm32f429_tiaozhanzhe,stm32f429_badao_std_tutorial"
+    groups="stm32,stm32f429_tiaozhanzhe,stm32f429_tiaozhanzhe_std_tutorial"
     name="ebf_stm32f429_tiaozhanzhe_std_code" 
     path="野火开源图书/[野火]《STM32库开发实战指南》/挑战者/F429/配套代码_V2"/>
 
