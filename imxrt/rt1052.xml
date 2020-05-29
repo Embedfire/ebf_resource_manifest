@@ -27,5 +27,9 @@
     name="ebf_i.mxrt1052_code" 
     path="野火开源图书/[野火]《i.MX RT库开发实战指南》/RT1052/配套代码"/>
 
+  <project remote="Embedfire-rt1052" revision="master" 
+    groups="rt1052"
+    name="ebf_i.mxrt1052_sdk" 
+    path="野火开源图书/[野火]《i.MX RT库开发实战指南》/RT1052/SDK适配野火开发板"/>
 
 </manifest>
