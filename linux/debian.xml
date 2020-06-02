@@ -5,10 +5,6 @@
   <!--debian-->
 
   <project remote="Embedfire" revision="master" 
-    groups="arm_debian" name="embed_linux_tutorial" 
-    path="linux/tutorial/embed_linux_tutorial/imx6/rst"/>
-
-  <project remote="Embedfire" revision="master" 
     groups="arm_debian" name="ebf-image-builder" 
     path="linux/debian/ebf-image-builder"/>
 
