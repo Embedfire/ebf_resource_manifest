@@ -5,7 +5,7 @@
   <!--imx6开发板-->
 
   <project remote="Embedfire" revision="master" 
-    groups="imx6_base" name="embed_linux_tutorial" 
+    groups="imx6_base,arm_debian" name="embed_linux_tutorial" 
     path="linux/imx6/tutorial"/>
 
   <project remote="Embedfire" revision="master" 
