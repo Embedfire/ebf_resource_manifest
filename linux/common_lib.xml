@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+
+  <!--common lib-->
+
+  <project remote="Embedfire" revision="master" 
+    groups="common_lib" name="nmealib" 
+    path="lib/nmealib"/>
+
+  <project remote="Embedfire" revision="master" 
+    groups="common_lib" name="libmodbus" 
+    path="lib/libmodbus"/>
+
+  <project remote="Embedfire" revision="master" 
+    groups="common_lib" name="ebf-tools-src" 
+    path="lib/ebf-tools-src"/>
+
+</manifest>

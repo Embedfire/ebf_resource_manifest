@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+
+  <!--python lib-->
+
+  <project remote="Embedfire-python-lib" revision="master" 
+    groups="python_lib" name="Adafruit_Python_PlatformDetect" 
+    path="python/lib/Adafruit_Python_PlatformDetect"/>
+
+  <project remote="Embedfire-python-lib" revision="master" 
+    groups="python_lib" name="Adafruit_CircuitPython_SSD1306" 
+    path="python/lib/Adafruit_CircuitPython_SSD1306"/>
+
+  <project remote="Embedfire-python-lib" revision="master" 
+    groups="python_lib" name="Adafruit_Blinka" 
+    path="python/lib/Adafruit_Blinka"/>
+
+
+
+</manifest>
