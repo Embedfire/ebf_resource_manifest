@@ -1,0 +1,17 @@
+{
+  "python相关": [
+    { 
+      "productName": "python相关内容",
+      "productLink": "https://github.com/Embedfire-pythonlib",
+      "repoGroup": [
+        {
+          "groupName":"imx6 python IO控制库",
+          "group":"python_lib",
+          "descript":"用于控制imx6 GPIO I2C SPI等外设的python库"
+        }
+      ]
+
+     }
+
+   ]
+}

@@ -25,7 +25,18 @@
          "groupName":"qt程序相关",
          "group":"qt_app",
          "descript":"包含示例qt的源码等内容"
-       }
+       },
+       {
+          "groupName":"python IO控制库",
+          "group":"python_lib",
+          "descript":"用于控制imx6 GPIO I2C SPI等外设的python库"
+        },
+        {
+          "groupName":"通用库",
+          "group":"common_lib",
+          "descript":"常用第三方库，如modbus，gps解码等"
+        }
+
      ],
      "onlineDoc": [
       {
