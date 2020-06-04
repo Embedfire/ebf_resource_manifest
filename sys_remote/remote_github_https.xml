@@ -70,6 +70,9 @@
   <remote fetch="https://github.com/Embedfire-stm32h743-tiaozhanzhe" name="Embedfire-stm32h743-tiaozhanzhe"/>
   <remote fetch="https://github.com/Embedfire-stm32h7-pro" name="Embedfire-stm32h7-pro"/>
 
+  <!--python lib -->
+  <remote fetch="https://github.com/Embedfire-pythonlib" name="Embedfire-python-lib"/>
+
 
 
 </manifest>
