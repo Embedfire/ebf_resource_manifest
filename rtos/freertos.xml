@@ -8,6 +8,7 @@
     <!--操作系统-->
 
   <project remote="Embedfire-freertos" revision="master" groups="freertos,freertos_base" name="ebf_freertos_tutorial" path="野火开源图书/[野火]《FreeRTOS内核实现与应用开发实战》/rst格式文档"/>
+  <project remote="Embedfire-freertos" revision="master" groups="freertos,freertos_base" name="ebf_freertos_tutorial_rt1052" path="野火开源图书/[野火]《FreeRTOS内核实现与应用开发实战》/rt1052_rst格式文档"/>
 
   <project remote="Embedfire-freertos" revision="master" groups="freertos,freertos_base" name="ebf_freertos_tutorial_pdf" path="野火开源图书/[野火]《FreeRTOS内核实现与应用开发实战》/pdf文档"/>
   <project remote="Embedfire-freertos" revision="master" groups="freertos,freertos_base" name="ebf_freertos_data" path="野火开源图书/[野火]《FreeRTOS内核实现与应用开发实战》/参考资料"/>
