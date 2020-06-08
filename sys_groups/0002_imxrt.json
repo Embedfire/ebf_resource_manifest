@@ -100,6 +100,16 @@
           "descript":"未归类的各种模块"
         }
       ],
+      "onlineDoc": [
+        {
+          "linkName":"《FreeRTOS 内核实现与应用开发实战—基于RT1052》",
+          "link": "https://ebf-freertos-tutorial-rt1052.readthedocs.io"
+        },
+        {
+          "linkName":"《LwIP应用开发实战指南—基于RT1052》",
+          "link": "https://ebf-lwip-tutorial-rt1052.readthedocs.io"
+        }
+      ],
       "cloudLink":[
         {
           "linkName":"野火i.MX RT1052开发板-资料盘",
