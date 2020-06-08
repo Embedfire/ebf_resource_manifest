@@ -6,7 +6,7 @@
 
   <project remote="Embedfire" revision="master" 
     groups="imx6_base,arm_debian" name="embed_linux_tutorial" 
-    path="linux/imx6/tutorial"/>
+    path="linux/imx6/tutorial/rst_doc"/>
 
   <project remote="Embedfire" revision="master" 
     groups="imx6_base" name="ebf_6ull_hardware" 
