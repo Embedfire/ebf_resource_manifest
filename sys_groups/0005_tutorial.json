@@ -56,6 +56,10 @@
         "link": "https://ebf-stm32f103-mini-hal-tutorial.readthedocs.io"
       },
       {
+        "linkName":"《STM32 HAL库开发实战指南——F103_指南者开发板》",
+        "link": "https://ebf-stm32f103-zhinanzhe-hal-tutorial.readthedocs.io/"
+      },
+      {
         "linkName":"《STM32 HAL库开发实战指南——基于STM32F103_霸道开发板》",
         "link": "https://ebf-stm32f103-badao-hal-tutorial.readthedocs.io"
       },
@@ -70,6 +74,18 @@
       {
         "linkName":"《STM32 HAL库开发实战指南——基于STM32F767_挑战者开发板》",
         "link": "https://ebf-stm32f767-tiaozhanzhe-hal-tutorial.readthedocs.io"
+      },
+      {
+        "linkName":"《STM32 HAL库开发实战指南——基于野火H743挑战者V2开发板》",
+        "link": "https://ebf-stm32h743-tiaozhanzhe-hal-tutorial.readthedocs.io"
+      },
+      {
+        "linkName":"《STM32 HAL库开发实战指南——基于野火H743 Pro开发板》",
+        "link": "https://ebf-stm32h743-pro-v-hal-tutorial.readthedocs.io"
+      },
+      {
+        "linkName":"《STM32 HAL库开发实战指南——基于野火H743 Pro开发板》",
+        "link": "https://ebf-stm32h743-pro-v-hal-tutorial.readthedocs.io"
       }
     ]
 
@@ -118,6 +134,14 @@
       {
         "linkName":"《STM32库开发实战指南——基于STM32F103_霸道开发板》",
         "link": "https://ebf-stm32f103-badao-std-tutorial.readthedocs.io"
+      },
+      {
+        "linkName":"《STM32 库开发实战指南——基于野火F407霸天虎开发板》",
+        "link": "https://ebf-stm32f407-batianhu-std-tutorial.readthedocs.io"
+      },
+      {
+        "linkName":"《STM32库开发实战指南——基于野火F429挑战者V2开发板》",
+        "link": "https://ebf-stm32f429-tiaozhanzhe-std-tutorial.readthedocs.io"
       }
     ],
     "onlineViedeo":[
@@ -214,6 +238,10 @@
       {
         "linkName":"《FreeRTOS 内核实现与应用开发实战—基于STM32》",
         "link": "https://ebf-freertos-tutorial.readthedocs.io"
+      },
+      {
+        "linkName":"《FreeRTOS 内核实现与应用开发实战—基于RT1052》",
+        "link": "https://ebf-freertos-tutorial-rt1052.readthedocs.io"
       }
     ],
     "onlineViedeo":[

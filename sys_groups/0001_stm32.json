@@ -1039,6 +1039,10 @@
       ],
       "onlineDoc": [
         {
+          "linkName":"《STM32 HAL库开发实战指南——基于野火H743挑战者V2开发板》",
+          "link": "https://ebf-stm32h743-tiaozhanzhe-hal-tutorial.readthedocs.io"
+        },
+        {
           "linkName":"《FreeRTOS 内核实现与应用开发实战—基于STM32》",
           "link": "https://ebf-freertos-tutorial.readthedocs.io"
         },
