@@ -7,10 +7,11 @@
 
   <project remote="Embedfire-camera" revision="master" groups="camera,camera_ov5640,camera_ov5640_stm32" name="ebf_camera_ov5640_code_stm32" path="野火模块产品/摄像头/OV5640/stm32代码"/>
   <project remote="Embedfire-camera" revision="master" groups="camera,camera_ov5640,camera_ov5640_rt1052" name="ebf_camera_ov5640_code_imxrt" path="野火模块产品/摄像头/ov5640/imxrt代码"/>
-  <project remote="Embedfire-camera" revision="master" groups="camera,camera_ov5640_rt1052,camera_ov5640_stm32" name="ebf_camera_ov5640_doc" path="野火模块产品/摄像头/ov5640/配套资料"/>
+  <project remote="Embedfire-camera" revision="master" groups="camera,camera_ov5640,camera_ov5640_rt1052,camera_ov5640_stm32" name="ebf_camera_ov5640_hardware" path="野火模块产品/摄像头/ov5640/配套资料"/>
   <project remote="Embedfire-camera" revision="master" groups="camera,camera_ov2640,camera_ov2640_stm32" name="ebf_camera_ov2640_code_stm32" path="野火模块产品/摄像头/ov2640/stm32代码"/>
   <project remote="Embedfire-camera" revision="master" groups="camera,camera_ov2640,camera_ov2640_rt1052" name="ebf_camera_ov2640_code_imxrt" path="野火模块产品/摄像头/ov2640/imxrt代码"/>
-  <project remote="Embedfire-camera" revision="master" groups="camera,camera_ov2640_rt1052,camera_ov2640_stm32" name="ebf_camera_ov2640_doc" path="野火模块产品/摄像头/ov2640/配套资料"/>
-  <project remote="Embedfire-camera" revision="master" groups="camera,camera_ov7725_buffer" name="ebf_camera_ov7725" path="野火模块产品/摄像头/ov7725_buffer/配套资料"/>
+  <project remote="Embedfire-camera" revision="master" groups="camera,camera_ov2640,camera_ov2640_rt1052,camera_ov2640_stm32" name="ebf_camera_ov2640_hardware" path="野火模块产品/摄像头/ov2640/配套资料"/>
+  <project remote="Embedfire-camera" revision="master" groups="camera,camera_ov7725_buffer" name="ebf_camera_ov7725" path="野火模块产品/摄像头/ov7725_buffer/配套代码"/>
+  <project remote="Embedfire-camera" revision="master" groups="camera,camera_ov7725_buffer" name="ebf_camera_ov7725_hardware" path="野火模块产品/摄像头/ov7725_buffer/配套资料"/>
 
 </manifest>
