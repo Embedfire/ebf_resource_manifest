@@ -3,9 +3,13 @@
 
 
   <!--无线模块-->
-  <project remote="Embedfire-wireless" revision="master" groups="wireless,bt_hc05" name="ebf_bluetooth_hc05" path="野火模块产品/无线模块/蓝牙hc05/配套资料"/>
-  <project remote="Embedfire-wireless" revision="master" groups="wireless,rfid_rc522" name="ebf_rfid_rc522" path="野火模块产品/无线模块/rfid_rc522/配套资料"/>
-  <project remote="Embedfire-wireless" revision="master" groups="wireless,nrf24l01" name="ebf_nrf24l01" path="野火模块产品/无线模块/nrf24l01/配套资料"/>
-  <project remote="Embedfire-wireless" revision="master" groups="wireless,infrared1838" name="ebf_infrared1838" path="野火模块产品/无线模块/红外遥控_1838/配套资料"/>
+  <project remote="Embedfire-wireless" revision="master" groups="wireless,bt_hc05" name="ebf_bluetooth_hc05" path="野火模块产品/无线模块/蓝牙hc05/配套代码"/>
+  <project remote="Embedfire-wireless" revision="master" groups="wireless,bt_hc05" name="ebf_bluetooth_hc05_hardware" path="野火模块产品/无线模块/蓝牙hc05/配套资料"/>
+  <project remote="Embedfire-wireless" revision="master" groups="wireless,rfid_rc522" name="ebf_rfid_rc522" path="野火模块产品/无线模块/rfid_rc522/配套代码"/>
+  <project remote="Embedfire-wireless" revision="master" groups="wireless,rfid_rc522" name="ebf_rfid_rc522_hardware" path="野火模块产品/无线模块/rfid_rc522/配套资料"/>
+  <project remote="Embedfire-wireless" revision="master" groups="wireless,nrf24l01" name="ebf_nrf24l01" path="野火模块产品/无线模块/nrf24l01/配套代码"/>
+  <project remote="Embedfire-wireless" revision="master" groups="wireless,nrf24l01" name="ebf_nrf24l01_hardware" path="野火模块产品/无线模块/nrf24l01/配套资料"/>
+  <project remote="Embedfire-wireless" revision="master" groups="wireless,infrared1838" name="ebf_infrared1838" path="野火模块产品/无线模块/红外遥控_1838/配套代码"/>
+  <project remote="Embedfire-wireless" revision="master" groups="wireless,infrared1838" name="ebf_infrared1838_hardware" path="野火模块产品/无线模块/红外遥控_1838/配套资料"/>
 
 </manifest>

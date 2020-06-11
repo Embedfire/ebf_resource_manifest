@@ -35,6 +35,26 @@
           "groupName":"通用库",
           "group":"common_lib",
           "descript":"常用第三方库，如modbus，gps解码等"
+        },
+        {
+          "groupName":"GPS定位（模块）",
+          "group":"gps",
+          "descript":"全球定位系统，包含GPS、北斗等"
+        },
+        {
+          "groupName":"4G-通讯（模块）",
+          "group":"gsm_ec20",
+          "descript":"4G-通讯，电话、短信、联网"
+        },
+        {
+          "groupName":"摄像头（模块）",
+          "group":"camera_ov5640,camera_ov2640",
+          "descript":"摄像头"
+        },
+        {
+          "groupName":"显示屏（模块）",
+          "group":"lcd_rgb,oled_spi,oled_i2c",
+          "descript":"RGB接口的液晶屏、OLED等"
         }
 
      ],

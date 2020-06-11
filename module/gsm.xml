@@ -3,10 +3,10 @@
 
 
   <!--gsm-->
-  <project remote="Embedfire-gsm" revision="master" groups="gsm,gsm_serial" name="ebf_gsm_gsm800a_code_stm32" path="野火模块产品/gsm/gsm800a/stm32代码"/>
-  <project remote="Embedfire-gsm" revision="master" groups="gsm,gsm_serial" name="ebf_gsm_gsm800a_doc" path="野火模块产品/gsm/gsm800a/文档说明"/>
-  <project remote="Embedfire-gsm" revision="master" groups="gsm,gsm_serial" name="ebf_gsm_gsm800a_data" path="野火模块产品/gsm/gsm800a/参考资料"/>
+  <project remote="Embedfire-gsm" revision="master" groups="gsm,gsm_800a,gsm_serial" name="ebf_gsm_gsm800a_code_stm32" path="野火模块产品/gsm/gsm800a/stm32代码"/>
+  <project remote="Embedfire-gsm" revision="master" groups="gsm,gsm_800a,gsm_serial" name="ebf_gsm_gsm800a_hardware" path="野火模块产品/gsm/gsm800a/文档说明"/>
+  <project remote="Embedfire-gsm" revision="master" groups="gsm,gsm_800a,gsm_serial" name="ebf_gsm_gsm800a_data" path="野火模块产品/gsm/gsm800a/参考资料"/>
 
-  <project remote="Embedfire" revision="master" groups="gsm,linux" name="ebf_gsm_ec20" path="野火模块产品/gsm/gsm_ec20/配套资料"/>
+  <project remote="Embedfire" revision="master" groups="gsm,gsm_ec20" name="ebf_gsm_ec20" path="野火模块产品/gsm/gsm_ec20/配套资料"/>
 
 </manifest>
