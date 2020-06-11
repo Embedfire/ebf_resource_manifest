@@ -284,6 +284,10 @@
       {
         "linkName":"《Rt-thread 内核实现与应用开发实战—基于STM32》",
         "link": "https://ebf-rtthread-tutorial.readthedocs.io"
+      },
+      {
+        "linkName":"《RT-Thread 内核实现与应用开发实战—基于RT1052》",
+        "link": "https://ebf-rtthread-tutorial-rt1052.readthedocs.io"
       }
      ],
      "cloudLink":[
@@ -315,6 +319,10 @@
       {
         "linkName":"《uCOS-III 内核实现与应用开发实战—基于STM32》",
         "link": "https://ebf-ucos-tutorial.readthedocs.io"
+      },
+      {
+        "linkName":"《uCOS-III 内核实现与应用开发实战—基于RT1052》",
+        "link": "https://ebf-ucos-tutorial-rt1052.readthedocs.io"
       }
     ],
     "onlineViedeo":[
@@ -465,7 +473,38 @@
     "onlineViedeo":[
       {
         "videoName":"视频教程-《i.MX Linux开发实战指南》",
-        "link":"https://space.bilibili.com/356820657/channel/detail?cid=91871"
+        "link":"https://www.bilibili.com/video/BV1JK4y1t7io"
+      }
+    ]
+    },
+
+
+    { 
+      "productName": "《FPGA Verilog开发实战指南》",
+      "productLink": "https://detail.tmall.com/item.htm?spm=a1z10.5-b.w4011-22026361158.56.1a5f4829MGsGCa&id=620690339345&rn=9f646393ef761a378f44453d07596df1&abbucket=18",
+      "repoGroup": [
+        {
+          "groupName":"基本资料",
+          "group":"ep4ce10_tutorial",
+          "descript":"包含代码和在线文档、硬件原理图"
+    }
+      ],
+      "cloudLink":[
+        {
+          "linkName":"EP4CE10开发板【资料盘】-百度云（更新滞后于git仓库）",
+          "link":"https://pan.baidu.com/s/1ILCmt09vW6oIv8KokJjSLg",
+          "code":"gvx2"
+        },
+        {
+          "linkName":"EP4CE10开发板【视频盘】-百度云",
+          "link":"https://pan.baidu.com/s/1TQa9JR74-q6mpsPExg01DA",
+          "code":"2zpv"
+        }
+      ],
+    "onlineViedeo":[
+      {
+        "videoName":"视频教程-《FPGA Verilog开发实战指南》",
+        "link":"https://www.bilibili.com/video/BV17z411i7er"
       }
     ]
     }
