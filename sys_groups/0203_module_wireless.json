@@ -39,6 +39,42 @@
       ]
      },
 
+     { 
+      "productName": "GSM-GSM800A模块",
+      "productLink": "https://detail.tmall.com/item.htm?spm=a1z10.5-b.w4011-22026361158.51.7e49557daqtHaQ&id=600555086030&rn=db7713bde3bc47cac9c60603f520f5c4&abbucket=18",
+      "repoGroup": [
+        {
+          "groupName":"基本资料",
+          "group":"gsm_800a",
+          "descript":"包含原理图、代码、教程等"
+        }
+      ],
+      "cloudLink":[
+        {
+          "linkName":"百度云-野火【GSM-GSM800A】模块",
+          "link":"https://pan.baidu.com/s/17ymsP2zdjJI35bkyQ89kTQ",
+          "code":"3cam"
+        }
+      ]
+     },
+
+     { 
+      "productName": "4G-EC20模块",
+      "productLink": "https://detail.tmall.com/item.htm?spm=a1z10.5-b.w4011-22026361158.67.37d55557JMcbSp&id=610796534502&rn=900694b76a68ee08c997a94d7a225875&abbucket=18",
+      "repoGroup": [
+        {
+          "groupName":"基本资料",
+          "group":"gsm_ec20",
+          "descript":"包含原理图、代码、教程等"
+        }
+      ],
+      "onlineDoc": [
+        {
+          "linkName":"《在Debian使用4G-EC20模块》",
+          "link": "https://tutorial.linux.doc.embedfire.com/zh_CN/latest/linux_basis/ec20_4g_module.html"
+        }
+      ]
+     },
 
      { 
       "productName": "蓝牙-HC05模块",
