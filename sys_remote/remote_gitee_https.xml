@@ -77,5 +77,8 @@
   <!--python lib -->
   <remote fetch="https://gitee.com/Embedfire-pythonlib" name="Embedfire-python-lib"/>
 
+  <!--FPGA -->
+  <remote fetch="https://gitee.com/Embedfire-altera" name="Embedfire-altera"/>
+
 
 </manifest>

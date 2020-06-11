@@ -73,6 +73,8 @@
   <!--python lib -->
   <remote fetch="https://github.com/Embedfire-pythonlib" name="Embedfire-python-lib"/>
 
+  <!--FPGA -->
+  <remote fetch="https://github.com/Embedfire-altera" name="Embedfire-altera"/>
 
 
 </manifest>
