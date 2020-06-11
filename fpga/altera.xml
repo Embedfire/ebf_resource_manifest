@@ -15,12 +15,12 @@
 
   <project remote="Embedfire-altera" revision="master" 
     groups="ep4ce10_pro_base,ep4ce10_mini_base,ep4ce10_tutorial"
-    name="ebf_ep4ce10_pro_tutorial_code" 
+    name="ebf_ep4ce10_data" 
     path="野火FPGA开发板/EP4CE10/参考资料"/>
 
   <project remote="Embedfire-altera" revision="master" 
-    groups="ep4ce10_pro_base,ep4ce10_mini_base,ep4ce10_tutorial"
-    name="ebf_ep4ce10_data" 
+    groups="ep4ce10_pro_base,ep4ce10_tutorial"
+    name="ebf_ep4ce10_pro_tutorial_code" 
     path="野火开源图书/[野火]《FPGA Verilog开发实战指南》/EP4CE10/Pro开发板代码"/>
 
   <project remote="Embedfire-altera" revision="master" 
