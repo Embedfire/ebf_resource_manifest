@@ -102,6 +102,18 @@
       ],
       "onlineDoc": [
         {
+          "linkName":"《i.MX RT库开发实战指南——基于i.MXRT1052》",
+          "link": "https://ebf-imxrt1052-tutorial.readthedocs.io/"
+        },
+        {
+          "linkName":"《RT-Thread 内核实现与应用开发实战—基于RT1052》",
+          "link": "https://ebf-rtthread-tutorial-rt1052.readthedocs.io"
+        },
+        {
+          "linkName":"《uCOS-III 内核实现与应用开发实战—基于RT1052》",
+          "link": "https://ebf-ucos-tutorial-rt1052.readthedocs.io"
+        },
+        {
           "linkName":"《FreeRTOS 内核实现与应用开发实战—基于RT1052》",
           "link": "https://ebf-freertos-tutorial-rt1052.readthedocs.io"
         },
