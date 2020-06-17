@@ -8,6 +8,14 @@
     groups="imx6_base,arm_debian" name="embed_linux_tutorial" 
     path="linux/imx6/tutorial/rst_doc"/>
 
+  <project remote="Embedfire-imx6" revision="master" 
+    groups="imx6_base" name="ebf_6ull_quick_start" 
+    path="linux/imx6/tutorial/quick_start"/>
+
+  <project remote="Embedfire-imx6" revision="master" 
+    groups="imx6_base,arm_debian" name="embed_linux_tutorial_ppt" 
+    path="linux/imx6/tutorial/PPT"/>
+    
   <project remote="Embedfire" revision="master" 
     groups="imx6_base" name="ebf_6ull_hardware" 
     path="linux/imx6/hardware"/>
