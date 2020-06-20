@@ -24,5 +24,9 @@
     groups="arm_debian" name="ebf-buster-uboot" 
     path="linux/debian/ebf-buster-uboot"/>
 
+  <project remote="Embedfire-imx6" revision="master" 
+    groups="linux_tool_src" name="ebf-tools-src" 
+    path="linux/debian/ebf-tools-src"/>
+
 
 </manifest>
