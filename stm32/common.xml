@@ -4,10 +4,22 @@
 
   <!--STM32通用资料-->
 
+
+
+ <!--F1通用资料-->
   <project remote="Embedfire-stm32f103-zhinanzhe" revision="master" 
     groups="stm32f1_common" name="ebf_stm32f1_official_data" 
     path="野火STM32开发板/STM32F1官方资料"/>
 
+
+  <project remote="Embedfire-stm32f103-badao" revision="master" 
+    groups="stm32f1_common"
+    name="ebf_stm32f103_std_tutorial_ppt" 
+    path="野火开源图书/[野火]《STM32库开发实战指南》/PPT"/>
+
+
+
+<!--F4通用资料-->
   <project remote="Embedfire-stm32f407-batianhu" revision="master" 
     groups="stm32f407_common" name="ebf_stm32f407_official_data" 
     path="野火STM32开发板/STM32F407官方资料"/>
@@ -15,6 +27,9 @@
   <project remote="Embedfire-stm32f429-tiaozhanzhe" revision="master" 
     groups="stm32f429_common" name="ebf_stm32f429_official_data" 
     path="野火STM32开发板/STM32F429官方资料"/>
+
+
+
 
 
 
