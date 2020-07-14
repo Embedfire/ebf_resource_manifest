@@ -48,6 +48,12 @@
     name="ebf_stm32f407_batianhu_std_code" 
     path="野火开源图书/[野火]《STM32库开发实战指南》/F407_霸天虎/配套代码"/>
 
+  <project remote="Embedfire-stm32f407-batianhu" revision="master" 
+    groups="stm32,stm32f407_batianhu,stm32f407_batianhu_std_tutorial"
+    name="ebf_stm32f407_std_tutorial_ppt" 
+    path="野火开源图书/[野火]《STM32库开发实战指南》/F407_霸天虎/PPT"/>
+
+
 
 
 </manifest>
