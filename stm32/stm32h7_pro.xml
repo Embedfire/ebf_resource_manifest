@@ -25,6 +25,8 @@
     name="ebf_stm32h743_pro_code_v" 
     path="野火开源图书/[野火]《STM32 HAL库开发实战指南》/H7_Pro/H743/配套代码"/>
 
+
+    
   <!--STM32H750 pro-->
 
   <project remote="Embedfire-stm32h7-pro" revision="master" 
@@ -35,7 +37,12 @@
   <project remote="Embedfire-stm32h7-pro" revision="master" 
     groups="stm32,stm32h750_pro,stm32h750_pro_hal_tutorial"
     name="ebf_stm32h750_pro_code_v" 
-    path="野火开源图书/[野火]《STM32 HAL库开发实战指南》/H7_Pro/H750/配套代码"/>
+    path="野火开源图书/[野火]《STM32 HAL库开发实战指南》/H7_Pro/H750V/配套代码"/>
+
+  <project remote="Embedfire-stm32h7-pro" revision="master" 
+    groups="stm32,stm32h750_pro,stm32h750_pro_hal_tutorial"
+    name="ebf_stm32h750_pro_code_y" 
+    path="野火开源图书/[野火]《STM32 HAL库开发实战指南》/H7_Pro/H750Y/配套代码"/>
 
 
 </manifest>
