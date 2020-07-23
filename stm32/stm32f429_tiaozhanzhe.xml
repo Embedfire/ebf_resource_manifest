@@ -58,7 +58,7 @@
   <project remote="Embedfire-stm32f429-tiaozhanzhe" revision="master_v2" 
     groups="stm32,stm32f429_tiaozhanzhe,stm32f429_tiaozhanzhe_std_tutorial"
     name="ebf_stm32f429_tiaozhanzhe_std_code" 
-    path="野火开源图书/[野火]《STM32库开发实战指南》/挑战者/F429/配套代码_V2"/>
+    path="野火开源图书/[野火]《STM32库开发实战指南》/挑战者/F429/配套代码_v2"/>
 
 
   <project remote="Embedfire-stm32f429-tiaozhanzhe" revision="master" 
