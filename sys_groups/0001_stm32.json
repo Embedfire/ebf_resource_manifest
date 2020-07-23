@@ -799,7 +799,7 @@
       "repoGroup": [
         {
           "groupName":"基本资料",
-          "group":"stm32f767_tiaozhanzhe",
+          "group":"stm32f7_common,stm32f767_tiaozhanzhe",
           "descript":"推荐先学习这部分的内容，包含硬件、库开发等"
         },
         {
@@ -952,7 +952,7 @@
       "repoGroup": [
         {
           "groupName":"基本资料",
-          "group":"stm32h743_tiaozhanzhe",
+          "group":"stm32h7_common,stm32h743_tiaozhanzhe",
           "descript":"推荐先学习这部分的内容，包含硬件、库开发等"
         },
         {
@@ -1105,7 +1105,7 @@
       "repoGroup": [
         {
           "groupName":"基本资料",
-          "group":"stm32h743_pro",
+          "group":"stm32h7_common，stm32h743_pro",
           "descript":"推荐先学习这部分的内容，包含硬件、库开发等"
         },
         {
@@ -1258,7 +1258,7 @@
       "repoGroup": [
         {
           "groupName":"基本资料",
-          "group":"stm32h750_pro",
+          "group":"stm32h7_common，stm32h750_pro",
           "descript":"推荐先学习这部分的内容，包含硬件、库开发等"
         },
         {

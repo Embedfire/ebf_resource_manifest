@@ -3,10 +3,7 @@
 
   <!--STM32F429 tiaozhanzhe-->
 
-  <project remote="Embedfire-stm32f429-tiaozhanzhe" revision="master" 
-    groups="stm32,stm32f429_tiaozhanzhe,stm32f767_tiaozhanzhe,stm32h743_tiaozhanzhe"
-    name="ebf_stm32_tiaozhanzhe_hardware" 
-    path="野火STM32开发板/挑战者/硬件资料"/>
+
 
   <project remote="Embedfire-stm32f429-tiaozhanzhe" revision="master" 
     groups="stm32,stm32f429_tiaozhanzhe"
@@ -26,10 +23,17 @@
     path="野火开源图书/[野火]《STM32 HAL库开发实战指南》/挑战者/F429/rst格式文档"/>
 
 
-  <project remote="Embedfire-stm32f429-tiaozhanzhe" revision="master" 
+  <project remote="Embedfire-stm32f429-tiaozhanzhe" revision="master_v1" 
     groups="stm32,stm32f429_tiaozhanzhe,stm32f429_tiaozhanzhe_hal_tutorial"
     name="ebf_stm32f429_tiaozhanzhe_hal_code" 
-    path="野火开源图书/[野火]《STM32 HAL库开发实战指南》/挑战者/F429/配套代码"/>
+    path="野火开源图书/[野火]《STM32 HAL库开发实战指南》/挑战者/F429/配套代码_v1"/>
+
+    <project remote="Embedfire-stm32f429-tiaozhanzhe" revision="master_v2" 
+    groups="stm32,stm32f429_tiaozhanzhe,stm32f429_tiaozhanzhe_hal_tutorial"
+    name="ebf_stm32f429_tiaozhanzhe_hal_code" 
+    path="野火开源图书/[野火]《STM32 HAL库开发实战指南》/挑战者/F429/配套代码_v2"/>
+
+
 
   <!-- 标准库 -->
 

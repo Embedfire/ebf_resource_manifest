@@ -29,6 +29,33 @@
     path="野火STM32开发板/STM32F429官方资料"/>
 
 
+<!--挑战者硬件资料-->
+  <project remote="Embedfire-stm32f429-tiaozhanzhe" revision="master" 
+    groups="stm32,stm32f429_tiaozhanzhe,stm32f767_tiaozhanzhe,stm32h743_tiaozhanzhe"
+    name="ebf_stm32_tiaozhanzhe_hardware" 
+    path="野火STM32开发板/挑战者/硬件资料"/>
+
+
+
+<!--F7通用资料-->
+  <project remote="Embedfire-stm32f767-tiaozhanzhe" revision="master" 
+    groups="stm32f7_common" name="ebf_stm32f767_official_data" 
+    path="野火STM32开发板/STM32F767官方资料"/>
+
+
+
+<!--H7通用资料-->
+  <project remote="Embedfire-stm32h7-pro" revision="master" 
+    groups="stm32h7_common" name="ebf_stm32h7_official_data" 
+    path="野火STM32开发板/STM32H7官方资料"/>
+
+
+  <!--STM32H pro硬件资料-->
+
+  <project remote="Embedfire-stm32h7-pro" revision="master" 
+    groups="stm32,stm32h743_pro,stm32h750_pro"
+    name="ebf_stm32h7_pro_hardware" 
+    path="野火STM32开发板/H7_Pro/硬件资料"/>
 
 
 
