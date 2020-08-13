@@ -40,7 +40,14 @@
         {
           "groupName":"配套资料",
           "group":"sensor_ap3216c",
-          "descript":"包含原理图、代码、教程等"
+          "descript":"AP3216C模块在V2开发板底板"
+        }
+      ],
+      "cloudLink":[
+        {
+          "linkName":"百度云-野火【三合一光传感器-AP3216C】模块",
+          "link":"https://pan.baidu.com/s/1ADia5yDbA3ilf4FPCotB_g",
+          "code":"xxsm"
         }
       ]
      },
@@ -53,6 +60,13 @@
           "groupName":"配套资料",
           "group":"sensor_ldr",
           "descript":"包含原理图、代码、教程等"
+        }
+      ],
+      "cloudLink":[
+        {
+          "linkName":"百度云-野火【LDR光敏传感器】模块",
+          "link":"https://pan.baidu.com/s/18Qy2KrikOW5_RoprmU6-Dg",
+          "code":"adf3"
         }
       ]
      },
