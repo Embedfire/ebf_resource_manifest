@@ -2,7 +2,7 @@
   "开源上位机": [
     { 
       "productName": "野火多功能调试助手",
-      "productLink": "https://www.firebbs.cn/forum.php?mod=viewthread&tid=11985",
+      "productLink": "https://ebf-products.readthedocs.io/zh_CN/latest/deskapp/ebf_trace_tool.html",
       "repoGroup": [
         {
           "groupName":"基本资料",

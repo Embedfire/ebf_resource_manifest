@@ -13,8 +13,8 @@
       "cloudLink":[
         {
           "linkName":"百度云-野火【WiFi_ESP8266】模块",
-          "link":"https://pan.baidu.com/s/1LigSpm9aV57qzx6z04s-tQ",
-          "code":"jpdg"
+          "link":"https://pan.baidu.com/s/1GvPLxFUMSoxSRH7MXbeO5Q",
+          "code":"z3o8"
         }
       ]
      },
@@ -33,8 +33,8 @@
       "cloudLink":[
         {
           "linkName":"百度云-野火【WiFi_AP6181】模块",
-          "link":"https://pan.baidu.com/s/1Q8C265PaWxWrooJcfFRkzA",
-          "code":"z964"
+          "link":"https://pan.baidu.com/s/18Gxlt8fud3H5btG3cAk4iA",
+          "code":"0t5p"
         }
       ]
      },
@@ -66,6 +66,13 @@
           "groupName":"基本资料",
           "group":"gsm_ec20",
           "descript":"包含原理图、代码、教程等"
+        }
+      ],
+      "cloudLink":[
+        {
+          "linkName":"百度云-野火【4G-EC20】模块",
+          "link":"https://pan.baidu.com/s/1gwayaurltoY2ZwQobI6Iow",
+          "code":"x7cj"
         }
       ],
       "onlineDoc": [
