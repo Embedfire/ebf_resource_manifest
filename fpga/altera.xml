@@ -2,7 +2,7 @@
 <manifest>
 
 
-  <!--rt1052 开发板-->
+  <!--FPGA ep4ce10 开发板-->
 
   <project remote="Embedfire-altera" revision="master" 
     groups="ep4ce10_pro_mini_base"
@@ -11,7 +11,7 @@
 
   <project remote="Embedfire-altera" revision="master" 
     groups="ep4ce10_pro_mini_base,ep4ce10_tutorial" name="ebf_ep4ce10_tutorial_pdf" 
-    path="野火开源图书/[野火]《FPGA Verilog开发实战指南》/EP4CE10/pdf文档"/>
+    path="野火开源图书/[野火]《FPGA Verilog开发实战指南》/EP4CE10/Pro_Mini_pdf文档"/>
 
 
   <project remote="Embedfire-altera" revision="master" 
@@ -22,7 +22,7 @@
   <project remote="Embedfire-altera" revision="master" 
     groups="ep4ce10_pro_mini_base,ep4ce10_tutorial"
     name="ebf_ep4ce10_mini_tutorial_code" 
-    path="野火开源图书/[野火]《FPGA Verilog开发实战指南》/EP4CE10/MINI开发板代码"/>
+    path="野火开源图书/[野火]《FPGA Verilog开发实战指南》/EP4CE10/Mini开发板代码"/>
 
 
   <project remote="Embedfire-altera" revision="master" 
