@@ -5,6 +5,10 @@
   <!--imx6开发板-->
 
   <project remote="Embedfire" revision="master" 
+    groups="imx6_base,arm_debian" name="ebf_6ull_must_read" 
+    path="linux/imx6/ebf_6ull_must_read"/>
+
+  <project remote="Embedfire" revision="master" 
     groups="imx6_base,arm_debian" name="embed_linux_tutorial" 
     path="linux/imx6/tutorial/rst_doc"/>
 
@@ -31,6 +35,8 @@
   <project remote="Embedfire" revision="master" 
     groups="imx6_buildroot" name="ebf_6ull_linux" 
     path="linux/imx6/source/kernel"/>
+
+
 
 
 
