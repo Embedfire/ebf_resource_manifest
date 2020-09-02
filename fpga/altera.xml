@@ -32,9 +32,9 @@
 
 
   <project remote="Embedfire-altera" revision="master" 
-    groups="ep4ce10_pro_mini_base"
-    name="ebf_ep4ce10_ppt " 
-    path="野火FPGA开发板/EP4CE10/视频配套PPT"/>
+    groups="ebf_AD9280_9708"
+    name="ebf_ep4ce10_ppt" 
+    path="野火FPGA开发板/EP4CE10/ebf_AD9280_9708m模块"/>
 
 
 

@@ -6,7 +6,7 @@
      "repoGroup": [
        {
          "groupName":"基本资料",
-         "group":"ep4ce10_pro_mini_base",
+         "group":"ep4ce10_pro_mini_base,ebf_AD9280_9708",
          "descript":"包含基础教程，开发板硬件资料"
        }
      ],
