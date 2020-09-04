@@ -22,7 +22,7 @@
     path="野火开源图书/[野火]《STM32 HAL库开发实战指南》/F103_MINI/pdf文档"/>
 
   <project remote="Embedfire-stm32f103-mini" revision="master" 
-    groups="stm32,stm32f103_mini,stm32f103_mini_hal_tutorial"
+    groups="stm32f103_mini_rst"
     name="ebf_stm32f103_mini_hal_tutorial" 
     path="野火开源图书/[野火]《STM32 HAL库开发实战指南》/F103_MINI/rst格式文档"/>
 
@@ -39,7 +39,7 @@
     path="野火开源图书/[野火]《STM32库开发实战指南》/F103_MINI/配套代码"/>
 
   <project remote="Embedfire-stm32f103-mini" revision="master" 
-    groups="stm32,stm32f103_mini,stm32f103_mini_std_tutorial"
+    groups="stm32f103_mini_rst"
     name="ebf_stm32f103_mini_std_tutorial"
     path="野火开源图书/[野火]《STM32库开发实战指南》/F103_MINI/rst格式文档"/>
 

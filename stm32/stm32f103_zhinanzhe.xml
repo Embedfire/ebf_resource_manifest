@@ -24,7 +24,7 @@
 
   <project remote="Embedfire-stm32f103-zhinanzhe" revision="master" 
     groups="stm32,stm32f103_zhinanzhe,stm32f103_zhinanzhe_hal_tutorial"
-    name="ebf_stm32f103_zhinanzhe_hal_tutorial" 
+    name="ebf_stm32f103_zhinanzhe_hal_tutorial_rst" 
     path="野火开源图书/[野火]《STM32 HAL库开发实战指南》/F103_指南者/rst格式文档"/>
 
   <project remote="Embedfire-stm32f103-zhinanzhe" revision="master" 
@@ -41,7 +41,7 @@
 
   <project remote="Embedfire-stm32f103-zhinanzhe" revision="master" 
     groups="stm32,stm32f103_zhinanzhe,stm32f103_zhinanzhe_std_tutorial"
-    name="ebf_stm32f103_zhinanzhe_std_tutorial"
+    name="ebf_stm32f103_zhinanzhe_std_tutorial_rst"
     path="野火开源图书/[野火]《STM32库开发实战指南》/F103_指南者/rst格式文档"/>
 
   <project remote="Embedfire-stm32f103-zhinanzhe" revision="master" 
