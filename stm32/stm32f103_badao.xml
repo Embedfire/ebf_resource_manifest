@@ -17,34 +17,34 @@
   <project remote="Embedfire-stm32f103-badao" revision="master" 
     groups="stm32,stm32f103_badao,stm32f103_badao_hal_tutorial"
     name="ebf_stm32f103_badao_hal_tutorial_pdf" 
-    path="野火开源图书/[野火]《STM32 HAL库开发实战指南》/F103_霸道/pdf文档"/>
+    path="野火开源图书/[野火]《STM32 HAL库开发实战指南》/F103_霸道/HAL_pdf文档"/>
 
   <project remote="Embedfire-stm32f103-badao" revision="master" 
-    groups="stm32f103_badao_rst"
+    groups="stm32f103_badao_hal_tutorial_rst"
     name="ebf_stm32f103_badao_hal_tutorial" 
-    path="野火开源图书/[野火]《STM32 HAL库开发实战指南》/F103_霸道/rst格式文档"/>
+    path="野火开源图书/[野火]《STM32 HAL库开发实战指南》/F103_霸道/HAL_rst格式文档"/>
 
   <project remote="Embedfire-stm32f103-badao" revision="master" 
     groups="stm32,stm32f103_badao,stm32f103_badao_hal_tutorial"
     name="ebf_stm32f103_badao_hal_code" 
-    path="野火开源图书/[野火]《STM32 HAL库开发实战指南》/F103_霸道/配套代码"/>
+    path="野火开源图书/[野火]《STM32 HAL库开发实战指南》/F103_霸道/HAL_配套代码"/>
 
   <!-- 标准库 -->
 
   <project remote="Embedfire-stm32f103-badao" revision="master" 
     groups="stm32,stm32f103_badao,stm32f103_badao_std_tutorial"
     name="ebf_stm32f103_badao_std_tutorial_pdf" 
-    path="野火开源图书/[野火]《STM32库开发实战指南》/F103_霸道/pdf文档"/>
+    path="野火开源图书/[野火]《STM32库开发实战指南》/F103_霸道/标准库_pdf文档"/>
 
   <project remote="Embedfire-stm32f103-badao" revision="master" 
-    groups="stm32f103_badao_rst"
+    groups="stm32f103_badao_std_tutorial_rst"
     name="ebf_stm32f103_badao_std_tutorial"
-    path="野火开源图书/[野火]《STM32库开发实战指南》/F103_霸道/rst格式文档"/>
+    path="野火开源图书/[野火]《STM32库开发实战指南》/F103_霸道/标准库_rst格式文档"/>
 
   <project remote="Embedfire-stm32f103-badao" revision="master" 
     groups="stm32,stm32f103_badao,stm32f103_badao_std_tutorial"
     name="ebf_stm32f103_badao_std_code" 
-    path="野火开源图书/[野火]《STM32库开发实战指南》/F103_霸道/配套代码"/>
+    path="野火开源图书/[野火]《STM32库开发实战指南》/F103_霸道/标准库_配套代码"/>
 
 
 

@@ -7,17 +7,17 @@
   <project remote="Embedfire-stm32h7-pro" revision="master" 
     groups="stm32,stm32h743_pro,stm32h743_pro_hal_tutorial"
     name="ebf_stm32h743_pro_v_hal_tutorial_pdf" 
-    path="野火开源图书/[野火]《STM32 HAL库开发实战指南》/H7_Pro/H743/pdf文档"/>
+    path="野火开源图书/[野火]《STM32 HAL库开发实战指南》/H7_Pro/H743/HAL_pdf文档"/>
 
   <project remote="Embedfire-stm32h7-pro" revision="master" 
-    groups="stm32,stm32h743_pro,stm32h743_pro_hal_tutorial"
-    name="ebf_stm32h743_pro_v_hal_tutorial_rst" 
-    path="野火开源图书/[野火]《STM32 HAL库开发实战指南》/H7_Pro/H743/rst格式文档"/>
+    groups="stm32h743_pro_hal_tutorial_rst"
+    name="ebf_stm32h743_pro_v_hal_tutorial" 
+    path="野火开源图书/[野火]《STM32 HAL库开发实战指南》/H7_Pro/H743/HAL_rst格式文档"/>
 
   <project remote="Embedfire-stm32h7-pro" revision="master" 
     groups="stm32,stm32h743_pro,stm32h743_pro_hal_tutorial"
     name="ebf_stm32h743_pro_code_v" 
-    path="野火开源图书/[野火]《STM32 HAL库开发实战指南》/H7_Pro/H743/配套代码"/>
+    path="野火开源图书/[野火]《STM32 HAL库开发实战指南》/H7_Pro/H743/HAL_配套代码"/>
 
 
 
@@ -26,17 +26,17 @@
   <project remote="Embedfire-stm32h7-pro" revision="master" 
     groups="stm32,stm32h750_pro,stm32h750_pro_hal_tutorial"
     name="ebf_stm32h750_pro_v_hal_tutorial_pdf" 
-    path="野火开源图书/[野火]《STM32 HAL库开发实战指南》/H7_Pro/H750/pdf文档"/>
+    path="野火开源图书/[野火]《STM32 HAL库开发实战指南》/H7_Pro/H750/HAL_pdf文档"/>
 
   <project remote="Embedfire-stm32h7-pro" revision="master" 
     groups="stm32,stm32h750_pro,stm32h750_pro_hal_tutorial"
     name="ebf_stm32h750_pro_code_v" 
-    path="野火开源图书/[野火]《STM32 HAL库开发实战指南》/H7_Pro/H750V/配套代码"/>
+    path="野火开源图书/[野火]《STM32 HAL库开发实战指南》/H7_Pro/H750V/HAL_配套代码"/>
 
   <project remote="Embedfire-stm32h7-pro" revision="master" 
     groups="stm32,stm32h750_pro,stm32h750_pro_hal_tutorial"
     name="ebf_stm32h750_pro_code_y" 
-    path="野火开源图书/[野火]《STM32 HAL库开发实战指南》/H7_Pro/H750Y/配套代码"/>
+    path="野火开源图书/[野火]《STM32 HAL库开发实战指南》/H7_Pro/H750Y/HAL_配套代码"/>
 
 
 </manifest>
