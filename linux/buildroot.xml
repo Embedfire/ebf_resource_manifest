@@ -6,15 +6,15 @@
 
    <project remote="Embedfire" revision="master" 
     groups="imx6_buildroot" name="ebf_6ull_buildroot" 
-    path="linux/imx6/source/buildroot"/>
+    path="linux/imx6/buildroot/buildroot"/>
 
   <project remote="Embedfire" revision="master" 
     groups="imx6_buildroot" name="ebf_6ull_uboot" 
-    path="linux/imx6/source/uboot"/>
+    path="linux/imx6/buildroot/uboot"/>
 
   <project remote="Embedfire" revision="master" 
     groups="imx6_buildroot" name="ebf_6ull_linux" 
-    path="linux/imx6/source/kernel"/>
+    path="linux/imx6/buildroot/kernel"/>
 
 
 
