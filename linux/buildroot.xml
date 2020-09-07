@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+
+  <!--buildroot-->
+
+   <project remote="Embedfire" revision="master" 
+    groups="imx6_buildroot" name="ebf_6ull_buildroot" 
+    path="linux/imx6/source/buildroot"/>
+
+  <project remote="Embedfire" revision="master" 
+    groups="imx6_buildroot" name="ebf_6ull_uboot" 
+    path="linux/imx6/source/uboot"/>
+
+  <project remote="Embedfire" revision="master" 
+    groups="imx6_buildroot" name="ebf_6ull_linux" 
+    path="linux/imx6/source/kernel"/>
+
+
+
+</manifest>
