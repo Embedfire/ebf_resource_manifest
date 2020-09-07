@@ -4,7 +4,7 @@
 
   <!--imx6开发板-->
 
-  <project remote="Embedfire" revision="master" 
+  <project remote="Embedfire-imx6" revision="master" 
     groups="imx6_base,arm_debian" name="ebf_6ull_must_read" 
     path="linux/imx6/ebf_6ull_must_read"/>
 
