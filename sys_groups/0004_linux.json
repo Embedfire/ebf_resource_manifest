@@ -1,7 +1,7 @@
 {
   "Linux系列开发板": [
     { 
-     "productName": "i.MX 6ul开发板",
+     "productName": "i.MX 6ull开发板",
      "productLink": "http://products.embedfire.com/zh_CN/latest/linux/ebf_i.mx6ull.html",
      "repoGroup": [
        {
