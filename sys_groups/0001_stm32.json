@@ -136,13 +136,13 @@
       "cloudLink":[
         {
           "linkName":"STM32F103_MINI开发板-资料盘",
-          "link":"https://pan.baidu.com/s/1BFnGuY_aPuv9EbtDXAODPA",
-          "code":"ffzj"
+          "link":" https://pan.baidu.com/s/1a8kaLIst5V06caPht2GSiw",
+          "code":"v8pt"
         },
         {
           "linkName":"STM32F103_MINI开发板-视频盘",
-          "link":"https://pan.baidu.com/s/1yJwpoPjZwf66-P3oyLMWMQ",
-          "code":"agyw"
+          "link":"https://pan.baidu.com/s/1w643OR30sjEKTEtvHzPI7A",
+          "code":"ytlt"
         }
       ]
      },
@@ -288,20 +288,20 @@
       "cloudLink":[
         {
           "linkName":"STM32F103指南者-资料盘",
-          "link":" https://pan.baidu.com/s/1SbwiyefvW7zwtWZVF7d85g",
-          "code":"7tnc"
+          "link":"https://pan.baidu.com/s/1fYNZ9o1RLEzH_KdBORSnIg",
+          "code":"om57"
         },
         {
-          "linkName":"STM32F103指南者-视频盘",
-          "link":"https://pan.baidu.com/s/1hij6XjCiPYoXVLg7-bpxuw",
-          "code":"znsc"
+          "linkName":"STM32F103指南者/霸道-视频盘",
+          "link":"https://pan.baidu.com/s/1jlOEfRyRiUXsi3_QoVgVqQ",
+          "code":"3ntv"
         }
       ]
     },
 
     { 
       "productName": "STM32F103_霸道开发板",
-      "productLink": "http://products.embedfire.com/zh_CN/latest/stm32/ebf_stm32f103_badao_v2.html",
+      "productLink": "https://ebf-products.readthedocs.io/zh_CN/latest/stm32/ebf_stm32f103_badao_v1_v2.html",
       "repoGroup": [
         {
           "groupName":"基本资料",
@@ -448,15 +448,16 @@
           "code":"lugv"
         },
         {
-          "linkName":"STM32F103霸道 视频网盘经常失效，请移步bilibili在线视频观看",
-          "link":"https://space.bilibili.com/356820657/channel/detail?cid=48780"
+          "linkName":"STM32F103指南者/霸道-视频盘",
+          "link":"https://pan.baidu.com/s/1jlOEfRyRiUXsi3_QoVgVqQ",
+          "code":"3ntv"
         }
       ]
     },
 
     { 
       "productName": "STM32F407_霸天虎开发板",
-      "productLink": "http://products.embedfire.com/zh_CN/latest/stm32/ebf_stm32f407_batianhu_v2.html#",
+      "productLink": "https://ebf-products.readthedocs.io/zh_CN/latest/stm32/ebf_stm32f407_batianhu_v1_v2.html",
       "repoGroup": [
         {
           "groupName":"基本资料",
@@ -613,8 +614,8 @@
         },
         {
           "linkName":"STM32F407霸天虎-视频盘",
-          "link":"https://pan.baidu.com/s/1I_mjUOUiOYq-HVL8F3q-zw",
-          "code":"1xd1"
+          "link":"https://pan.baidu.com/s/1SY8PEZ-pTk9nY84DUimg9g",
+          "code":"65vp"
         }
       ]
     },
@@ -622,7 +623,7 @@
 
     { 
       "productName": "STM32F429_挑战者开发板",
-      "productLink": "http://products.embedfire.com/zh_CN/latest/stm32/ebf_stm32f429_tiaozhanzhe_v2.html",
+      "productLink": "https://ebf-products.readthedocs.io/zh_CN/latest/stm32/ebf_stm32f429_tiaozhanzhe_v1_v2.html#",
       "repoGroup": [
         {
           "groupName":"基本资料",
@@ -787,8 +788,8 @@
         },
         {
           "linkName":"STM32F429挑战者-视频盘",
-          "link":"https://pan.baidu.com/s/1cG1T-f-ahnkIM4gg4mZJSA",
-          "code":"6gpg "
+          "link":"https://pan.baidu.com/s/1SUS3twoLcMU4TUDqLXCR7Q",
+          "code":"2zp7"
         }
       ]
     },
