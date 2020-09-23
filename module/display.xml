@@ -13,7 +13,9 @@
   <project remote="Embedfire-display" revision="master" groups="display,lcd_8080,lcd_8080_gt917s" name="ebf_lcd_ili9806g_gt917s_4.5" path="野火模块产品/屏幕/LCD_ILI9806G_GT17S_4.5寸/配套资料"/>
   <project remote="Embedfire-display" revision="master" groups="display,lcd_8080,lcd_8080_gt5688" name="ebf_lcd_ili9806g_gt5688" path="野火模块产品/屏幕/LCD_ILI9806_GT5688_4.5寸/配套资料"/>
   <project remote="Embedfire-display" revision="master" groups="display,lcd_8080,lcd_8080_3.2" name="ebf_lcd_ili9341_3.2_2.8" path="野火模块产品/屏幕/LCD_ILI9341_3.2_2.8寸/配套资料"/>
+  <project remote="Embedfire-display" revision="master" groups="display,lcd_8080,lcd_8080_nt35510" name="lcd_nt35510_gt917s_4.3" path="野火模块产品/屏幕/LCD_NT35510_GT917S_4.3/配套资料"/>
   <project remote="Embedfire-display" revision="master" groups="display,oled_spi,oled_spi_0.96" name="ebf_oled_spi_0.96" path="野火模块产品/屏幕/OLED_SPI_0.96寸/配套资料"/>
   <project remote="Embedfire-display" revision="master" groups="display,oled_i2c,oled_i2c_0.96" name="ebf_oled_i2c_0.96" path="野火模块产品/屏幕/OLED_I2C_0.96寸/配套资料"/>
+ 
 
 </manifest>

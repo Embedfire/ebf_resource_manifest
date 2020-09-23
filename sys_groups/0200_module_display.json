@@ -59,27 +59,6 @@
       ]
      },
 
-
-     { 
-      "productName": "854*480-电容触摸屏-ILI9806G-4.5寸-GT917s-MCU接口",
-      "productLink": "https://detail.tmall.com/item.htm?spm=a1z10.5-b.w4011-22026361158.34.28be74b8lFE6Vm&id=600554318889&rn=82f9e79ce5a3f6b5ede40359e965363f&abbucket=3",
-      "repoGroup": [
-        {
-          "groupName":"配套资料",
-          "group":"lcd_8080_gt917s",
-          "descript":"包含数据手册、原理图及代码"
-        }
-      ],
-      "cloudLink":[
-        {
-          "linkName":"百度云-野火【RGB接口电容触摸屏GT917S_5寸】",
-          "link":"https://pan.baidu.com/s/1swDkCQGLkou7IH-AyDhsxg",
-          "code":"hsie"
-        }
-      ]
-     },
-
-
     { 
       "productName": "854*480-电容触摸屏-ILI9806-GT5688-4.5寸MCU接口",
       "productLink": "https://detail.tmall.com/item.htm?spm=a1z10.5-b.w4011-22026361158.26.3d7e4433VNQoE7&id=600554818312&rn=d0ff62cd5bcd749b1839d5395b629215&abbucket=3",
@@ -100,6 +79,24 @@
      },
 
 
+     { 
+      "productName": "800*480-电容触摸屏-_NT35510_GT917S_4.3寸MCU接口",
+      "productLink": "https://detail.tmall.com/item.htm?spm=a1z10.5-b.w4011-22026361158.26.3d7e4433VNQoE7&id=600554818312&rn=d0ff62cd5bcd749b1839d5395b629215&abbucket=3",
+      "repoGroup": [
+        {
+          "groupName":"配套资料",
+          "group":"lcd_8080_nt35510",
+          "descript":"包含数据手册、原理图及代码"
+        }
+      ],
+      "cloudLink":[
+        {
+          "linkName":"百度云-野火【电容触摸屏ILI9806_GT5688_4.5寸】",
+          "link":"https://pan.baidu.com/s/1YW_gNSbdRe9BpQqbFfgQRg",
+          "code":"izx6 "
+        }
+      ]
+     },
 
      { 
       "productName": "800*480-电容触摸屏-RA8875-5寸-MCU接口",
