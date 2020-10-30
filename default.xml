@@ -59,6 +59,8 @@
   <include name="python/python_lib.xml" />
 
   <include name="fpga/altera.xml" />
+  <include name="fpga/xilinx.xml" />
+
 
 
 </manifest>
