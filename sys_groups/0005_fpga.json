@@ -7,7 +7,7 @@
        {
          "groupName":"基本资料",
          "group":"ep4ce10_pro_mini_base,ebf_AD9280_9708,ebf_ep4ce10_ppt",
-         "descript":"包含基础教程，开发板硬件资料"
+         "descript":"包含基础教程，配套代码，开发板硬件资料"
        }
      ],
     "cloudLink":[
@@ -35,7 +35,35 @@
 
     ]
 
-   }
+   },
+   
+   { 
+    "productName": "Xilinx-XC6SLX16_踏浪_开发板",
+    "productLink": "https://detail.tmall.com/item.htm?spm=a1z10.5-b-s.w4011-22026361158.51.144d1205BfYULj&id=630230306499&rn=a48894b2ea346d65117b137778ef54a4&abbucket=1",
+    "repoGroup": [
+      {
+        "groupName":"基本资料",
+        "group":"xc6slx16_base",
+        "descript":"包含基础教程，配套代码，开发板硬件资料"
+      }
+    ],
+   "cloudLink":[
+     {
+       "linkName":"XC6SLX16开发板【资料盘】-百度云",
+       "link":"https://pan.baidu.com/s/1NV6lcZbRn2kAqK4PXDGCUw",
+       "code":"2wun"
+     }
+     
+   ],
+   "onlineViedeo":[
+     {
+       "videoName":"视频教程-《FPGA Verilog开发实战指南》",
+       "link":"https://www.bilibili.com/video/BV17z411i7er"
+     }
+
+   ]
+
+  }
 
  ]
 }

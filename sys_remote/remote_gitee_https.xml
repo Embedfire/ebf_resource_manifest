@@ -80,5 +80,12 @@
   <!--FPGA -->
   <remote fetch="https://gitee.com/Embedfire-altera" name="Embedfire-altera"/>
 
+  <remote fetch="https://gitee.com/embedfire-xilinx" name="Embedfire-xilinx"/>
+
+
+
+
+
+
 
 </manifest>

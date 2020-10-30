@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+
+  <!--FPGA xilinx 开发板-->
+
+  <project remote="Embedfire-xilinx" revision="master" 
+    groups="xc6slx16_base"
+    name="ebf_xc6slx16_hardware" 
+    path="野火FPGA开发板/XC6SLX16/硬件资料"/>
+
+  <project remote="Embedfire-xilinx" revision="master" 
+    groups="xc6slx16_base" name="ebf_xc6slx16_tutorial_pdf" 
+    path="野火开源图书/[野火]《FPGA Verilog开发实战指南》/XC6SLX16/pdf文档"/>
+
+
+  <project remote="Embedfire-xilinx" revision="master" 
+    groups="xc6slx16_base"
+    name="ebf_xc6slx16_pro_tutorial_code" 
+    path="野火开源图书/[野火]《FPGA Verilog开发实战指南》/XC6SLX16/开发板代码"/>
+
+
+
+
+
+
+</manifest>
