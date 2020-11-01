@@ -74,8 +74,16 @@
   <remote fetch="https://gitee.com/Embedfire-stm32h743-tiaozhanzhe" name="Embedfire-stm32h743-tiaozhanzhe"/>
   <remote fetch="https://gitee.com/Embedfire-stm32h7-pro" name="Embedfire-stm32h7-pro"/>
 
-  <!--python lib -->
-  <remote fetch="https://gitee.com/Embedfire-pythonlib" name="Embedfire-python-lib"/>
+
+
+  <!--stm32电机系列 -->
+  <remote fetch="https://gitee.com/embedfire-stm32f103-fuxiao" name="Embedfire-stm32f103-fuxiao"/>
+  <remote fetch="https://gitee.com/embedfire-stm32f407-jiaoyang" name="Embedfire-stm32f407-jiaoyang"/>
+  <remote fetch="https://gitee.com/embedfire-stm32h743-fanxing" name="Embedfire-stm32h743-fanxing"/>
+
+  <remote fetch="https://gitee.com/organizations/Embedfire-motor" name="Embedfire-Embedfire-motor"/>
+  
+
 
   <!--FPGA -->
   <remote fetch="https://gitee.com/Embedfire-altera" name="Embedfire-altera"/>
@@ -83,6 +91,10 @@
   <remote fetch="https://gitee.com/embedfire-xilinx" name="Embedfire-xilinx"/>
 
 
+
+
+  <!--python lib -->
+  <remote fetch="https://gitee.com/Embedfire-pythonlib" name="Embedfire-python-lib"/>
 
 
 

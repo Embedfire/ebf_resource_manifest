@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<manifest>
-
-
-  <project remote="Embedfire-motor" revision="master" groups="motor,msd4805" name="ebf_motor_driver_msd4805" path="野火模块产品/电机/步进电机驱动模块msd4805/配套资料"/>
-
-</manifest>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+
+  <project remote="Embedfire-motor" revision="master" groups="motor,motor_driver" name="ebf_motor_driver_msd4805" 
+  path="野火模块产品/电机/步进电机驱动模块msd4805/配套资料"/>
+
+
+ <project remote="Embedfire-motor" revision="master" groups="motor,l298n_driver" name="ebf_l298n_driver_code" 
+ path="野火模块产品/电机/L298N电机驱动/配套例程"/>
+ <project remote="Embedfire-motor" revision="master" groups="motor,l298n_driver" name="ebf_l298n_driver_hardware" 
+ path="野火模块产品/电机/L298N电机驱动/硬件资料"/>
+ <project remote="Embedfire-motor" revision="master" groups="motor,l298n_driver" name="ebf_l298n_driver_data" 
+ path="野火模块产品/电机/L298N电机驱动/数据手册"/>
+
+
+
+ <project remote="Embedfire-motor" revision="master" groups="motor,brushed_motor_driver" name="ebf_brushed_motor_driver_data" 
+ path="野火模块产品/电机/直流有刷电机驱动板/数据手册"/>
+ <project remote="Embedfire-motor" revision="master" groups="motor,brushed_motor_driver" name="ebf_brushed_motor_driver_hardware" 
+ path="野火模块产品/电机/直流有刷电机驱动板/硬件资料"/>
+
+
+
+ <project remote="Embedfire-motor" revision="master" groups="motor,brushless_motor_driver" name="ebf_brushless_motor_driver_data" 
+ path="野火模块产品/电机/直流无刷电机驱动板/数据手册"/>
+ <project remote="Embedfire-motor" revision="master" groups="motor,brushless_motor_driver" name="ebf_brushless_motor_driver_hardware" 
+ path="野火模块产品/电机/直流无刷电机驱动板/硬件资料"/>
+
+
+
+ <project remote="Embedfire-motor" revision="master" groups="motor,steering_motor" name="ebf_steering_motor_rst" 
+ path="野火模块产品/电机/舵机/rst格式文档"/>
+ <project remote="Embedfire-motor" revision="master" groups="motor,steering_motor" name="ebf_steering_motor_code" 
+ path="野火模块产品/电机/舵机/配套例程"/>
+
+
+
+ <project remote="Embedfire-motor" revision="master" groups="motor_tutorial_code" name="ebf_motor_tutorial_code_stm32f103_mini" 
+ path="野火模块产品/电机/非电机板系列配套例程/F103_MINI"/>
+ <project remote="Embedfire-motor" revision="master" groups="motor_tutorial_code" name="ebf_motor_tutorial_code_stm32f103_zhinanzhe" 
+ path="野火模块产品/电机/非电机板系列配套例程/F103_指南者"/>
+ <project remote="Embedfire-motor" revision="master" groups="motor_tutorial_code" name="ebf_motor_tutorial_code_stm32f103_badao" 
+ path="野火模块产品/电机/非电机板系列配套例程/F103_霸道"/>
+ <project remote="Embedfire-motor" revision="master" groups="motor_tutorial_code" name="ebf_motor_code_stm32f407_batianhu" 
+ path="野火模块产品/电机/非电机板系列配套例程/F407_霸天虎"/>
+ <project remote="Embedfire-motor" revision="master" groups="motor_tutorial_code" name="ebf_motor_tutorial_code_stm32f429_tiaozhanzhe" 
+ path="野火模块产品/电机/非电机板系列配套例程/F429_挑战者"/>
+ <project remote="Embedfire-motor" revision="master" groups="motor_tutorial_code" name="ebf_motor_tutorial_code_stm32f767_tiaozhanzhe" 
+ path="野火模块产品/电机/非电机板系列配套例程/F767_挑战者"/>
+ <project remote="Embedfire-motor" revision="master" groups="motor_tutorial_code" name="ebf_motor_tutorial_code_stm32h743_tiaozhanzhe" 
+ path="野火模块产品/电机/非电机板系列配套例程/H743II_挑战者"/>
+ <project remote="Embedfire-motor" revision="master" groups="motor_tutorial_code" name="ebf_motor_tutorial_code_stm32h750_pro" 
+ path="野火模块产品/电机/非电机板系列配套例程/H750_RPO"/>
+ <project remote="Embedfire-motor" revision="master" groups="motor_tutorial_code" name="ebf_motor_tutorial_code_stm32h743_pro" 
+ path="野火模块产品/电机/非电机板系列配套例程/H743_PRO"/>
+
+
+
+
+</manifest>

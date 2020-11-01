@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+  <!--STM32F407 骄阳-->
+
+  <project remote="Embedfire-stm32f407-jiaoyang" revision="master" 
+    groups="stm32f407-jiaoyang"
+    name="ebf_stm32f407_jiaoyang_hal_tutorial_pdf" 
+    path="野火开源图书/[野火]《STM32 HAL库开发实战指南》/F407_拂晓/HAL_pdf文档"/>
+
+   <project remote="Embedfire-stm32f407-jiaoyang" revision="master" 
+    groups="stm32f407-jiaoyang"
+    name="ebf_stm32f407_jiaoyang_hal_code" 
+    path="野火开源图书/[野火]《STM32 HAL库开发实战指南》/F407_拂晓/HAL_配套代码"/>
+
+
+
+  <project remote="Embedfire-stm32f407-jiaoyang" revision="master" 
+    groups="stm32f407-jiaoyang"
+    name="ebf_motor_tutorial_stm32f407_pdf" 
+    path="野火开源图书/[野火]《电机应用开发实战指南—基于STM32》/F407_拂晓/电机_pdf文档"/>
+
+
+  <project remote="Embedfire-stm32f407-jiaoyang" revision="master" 
+    groups="stm32f407-jiaoyang"
+    name="ebf_motor_tutorial_code_stm32f407_jiaoyang" 
+    path="野火开源图书/[野火]《电机应用开发实战指南—基于STM32》/F407_拂晓/电机_配套代码"/>
+
+
+  <project remote="Embedfire-stm32f407-jiaoyang" revision="master" 
+    groups="stm32f407-jiaoyang"
+    name="ebf_stm32f407_jiaoyang_hardware" 
+    path="野火STM32电机系列开发板/F407_拂晓/硬件资料"/>
+    
+
+
+</manifest>
