@@ -26,6 +26,7 @@
   <include name="linux/imx6.xml" />
   <include name="linux/qt_app.xml" />
   <include name="linux/common_lib.xml" />
+  <include name="python/python_lib.xml" />
 
   <include name="module/camera.xml" />
   <include name="module/display.xml" />
@@ -35,7 +36,6 @@
   <include name="module/sensor.xml" />
   <include name="module/wireless.xml" />
 
-  <include name="motor/step_motor.xml" />
 
   <include name="network/lwip.xml" />
   <include name="network/wifi_ap.xml" />
@@ -56,7 +56,10 @@
   <include name="stm32/stm32h743_tiaozhanzhe.xml" />
   <include name="stm32/stm32h7_pro.xml" />
 
-  <include name="python/python_lib.xml" />
+ <include name="stm32_motor/motor.xml" />
+ <include name="stm32_motor/stm32f103_fuxiao.xml" />
+ <include name="stm32_motor/stm32f407_jiaoyang.xml" />
+ <include name="stm32_motor/stm32h743_fanxing.xml" />
 
   <include name="fpga/altera.xml" />
   <include name="fpga/xilinx.xml" />
