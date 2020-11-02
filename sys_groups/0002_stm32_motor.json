@@ -7,7 +7,7 @@
         "repoGroup": [
           {
             "groupName":"基本资料（必看）",
-            "group":"stm32f1_common,stm32f103-fuxiao",
+            "group":"stm32f1_common,stm32f103-fuxiao,motor_tutorial_pdf",
             "descript":"推荐先学习这部分的内容，包含硬件、库开发等"
           },
           {
@@ -110,7 +110,7 @@
         "repoGroup": [
           {
             "groupName":"基本资料（必看）",
-            "group":"stm32f407_common,stm32f407-jiaoyang",
+            "group":"stm32f407_common,stm32f407-jiaoyang,motor_tutorial_pdf",
             "descript":"推荐先学习这部分的内容，包含硬件、库开发等"
           },
           {
@@ -212,7 +212,7 @@
         "repoGroup": [
           {
             "groupName":"基本资料（必看）",
-            "group":"stm32h7_common,stm32h743-fanxing",
+            "group":"stm32h7_common,stm32h743-fanxing,motor_tutorial_pdf",
             "descript":"推荐先学习这部分的内容，包含硬件、库开发等"
           },
           {
@@ -356,7 +356,7 @@
   
 
        { 
-        "productName": "非电机系列开发板配套例程",
+        "productName": "普通系列开发板电机例程",
         "productLink": "http://products.embedfire.com/zh_CN/latest/module/relay/relay_4.html",
         "repoGroup": [
           {

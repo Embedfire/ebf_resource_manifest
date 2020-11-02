@@ -16,15 +16,15 @@
 
 
   <project remote="Embedfire-stm32f407-jiaoyang" revision="master" 
-    groups="stm32f407-jiaoyang"
+    groups="motor_tutorial_pdf"
     name="ebf_motor_tutorial_stm32f407_pdf" 
-    path="野火开源图书/[野火]《电机应用开发实战指南—基于STM32》/F407_拂晓/电机_pdf文档"/>
+    path="野火开源图书/[野火]《电机应用开发实战指南—基于STM32》/电机_pdf文档"/>
 
 
   <project remote="Embedfire-stm32f407-jiaoyang" revision="master" 
     groups="stm32f407-jiaoyang"
     name="ebf_motor_tutorial_code_stm32f407_jiaoyang" 
-    path="野火开源图书/[野火]《电机应用开发实战指南—基于STM32》/F407_拂晓/电机_配套代码"/>
+    path="野火开源图书/[野火]《电机应用开发实战指南—基于STM32》/F407_拂晓_电机配套代码"/>
 
 
   <project remote="Embedfire-stm32f407-jiaoyang" revision="master" 

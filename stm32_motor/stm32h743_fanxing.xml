@@ -21,7 +21,7 @@
   <project remote="Embedfire-stm32h743-fanxing" revision="master" 
     groups="stm32h743-fanxing"
     name="ebf_motor_tutorial_code_stm32h743_fanxing" 
-    path="野火开源图书/[野火]《电机应用开发实战指南—基于STM32》/H743_繁星/电机_配套代码"/>
+    path="野火开源图书/[野火]《电机应用开发实战指南—基于STM32》/H743_繁星_电机配套代码"/>
 
 
   <project remote="Embedfire-stm32h743-fanxing" revision="master" 

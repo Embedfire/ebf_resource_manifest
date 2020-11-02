@@ -22,7 +22,7 @@
   <project remote="Embedfire-stm32f103-fuxiao" revision="master" 
     groups="stm32f103-fuxiao"
     name="ebf_motor_tutorial_code_stm32f103_fuxiao" 
-    path="野火开源图书/[野火]《电机应用开发实战指南—基于STM32》/F103_拂晓/电机_配套代码"/>
+    path="野火开源图书/[野火]《电机应用开发实战指南—基于STM32》/F103_拂晓_电机配套代码"/>
 
 
   <project remote="Embedfire-stm32f103-fuxiao" revision="master" 
