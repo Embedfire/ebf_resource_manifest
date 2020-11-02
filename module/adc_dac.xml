@@ -4,23 +4,23 @@
 
   <!--ADC DAC-->
   <project remote="Embedfire-adc-dac" revision="master" groups="ebf_dac_ad5689" name="ebf_dac_ad5689_code" 
-  path="野火模块产品/ADC_DAC模块/ad5689/配套代码"/>
+  path="野火模块产品/ADC_DAC模块/dac_ad5689/配套代码"/>
   <project remote="Embedfire-adc-dac" revision="master" groups="ebf_dac_ad5689" name="ebf_dac_ad5689_hardware" 
-  path="野火模块产品/ADC_DAC模块/ad5689/硬件资料"/>
+  path="野火模块产品/ADC_DAC模块/dac_ad5689/硬件资料"/>
   <project remote="Embedfire-adc-dac" revision="master" groups="ebf_dac_ad5689" name="ebf_dac_ad5689_data" 
-  path="野火模块产品/ADC_DAC模块/ad5689/数据手册"/>
+  path="野火模块产品/ADC_DAC模块/dac_ad5689/数据手册"/>
   <project remote="Embedfire-adc-dac" revision="master" groups="ebf_dac_ad5689" name="ebf_dac_ad5689_pdf" 
-  path="野火模块产品/ADC_DAC模块/ad5689/用户手册"/>
+  path="野火模块产品/ADC_DAC模块/dac_ad5689/用户手册"/>
 
 
   <project remote="Embedfire-adc-dac" revision="master" groups="ebf_adc_ad7192" name="ebf_adc_ad7192_data" 
-  path="野火模块产品/ADC_DAC模块/ad5689/数据手册"/>
+  path="野火模块产品/ADC_DAC模块/adc_ad7192/数据手册"/>
   <project remote="Embedfire-adc-dac" revision="master" groups="ebf_adc_ad7192" name="ebf_adc_ad7192_hardware" 
-  path="野火模块产品/ADC_DAC模块/ad5689/硬件资料"/>
+  path="野火模块产品/ADC_DAC模块/adc_ad7192/硬件资料"/>
   <project remote="Embedfire-adc-dac" revision="master" groups="ebf_adc_ad7192" name="ebf_adc_ad7192_pdf" 
-  path="野火模块产品/ADC_DAC模块/ad5689/用户手册"/>
+  path="野火模块产品/ADC_DAC模块/adc_ad7192/用户手册"/>
   <project remote="Embedfire-adc-dac" revision="master" groups="ebf_adc_ad7192" name="ebf_adc_ad7192_code" 
-  path="野火模块产品/ADC_DAC模块/ad5689/配套代码"/>
+  path="野火模块产品/ADC_DAC模块/adc_ad7192/配套代码"/>
 
 
 
