@@ -8,7 +8,7 @@
           {
             "groupName":"基本资料（必看）",
             "group":"stm32f1_common,stm32f103-fuxiao,motor_tutorial_pdf",
-            "descript":"推荐先学习这部分的内容，包含硬件、库开发等"
+            "descript":"推荐先学习这部分的内容，包含硬件、HAL库开发、电机开发等"
           },
           {
             "groupName":"freertos系统（进阶学习）",
@@ -86,7 +86,7 @@
           {
             "groupName":"基本资料（必看）",
             "group":"stm32f407_common,stm32f407-jiaoyang,motor_tutorial_pdf",
-            "descript":"推荐先学习这部分的内容，包含硬件、库开发等"
+            "descript":"推荐先学习这部分的内容，包含硬件、HAL库开发、电机开发等"
           },
           {
             "groupName":"freertos系统（进阶学习）",
@@ -185,7 +185,7 @@
           {
             "groupName":"基本资料（必看）",
             "group":"stm32h7_common,stm32h743-fanxing,motor_tutorial_pdf",
-            "descript":"推荐先学习这部分的内容，包含硬件、库开发等"
+            "descript":"推荐先学习这部分的内容，包含硬件、HAL库开发、电机开发等"
           },
           {
             "groupName":"freertos系统（进阶学习）",
@@ -289,14 +289,9 @@
         "productLink": "https://ebf-products.readthedocs.io/zh_CN/latest/stm32_motor/ebf_motor_driver.html",
         "repoGroup": [
           {
-            "groupName":"步进电机驱动器",
-            "group":"motor_driver",
-            "descript":"步进电机驱动器"
-          },
-          {
-            "groupName":"L298N电机驱动",
-            "group":"l298n_driver",
-            "descript":"L298N电机驱动"
+            "groupName":"直流无刷电机驱动板",
+            "group":"brushless_motor_driver",
+            "descript":"直流无刷电机驱动板"
           },
           {
             "groupName":"直流有刷电机驱动板",
@@ -304,9 +299,14 @@
             "descript":"直流有刷电机驱动板"
           },
           {
-            "groupName":"直流无刷电机驱动板",
-            "group":"brushless_motor_driver",
-            "descript":"直流无刷电机驱动板"
+            "groupName":"L298N电机驱动",
+            "group":"l298n_driver",
+            "descript":"L298N电机驱动"
+          },
+          {
+            "groupName":"步进电机驱动器",
+            "group":"motor_driver",
+            "descript":"步进电机驱动器"
           },
           {
             "groupName":"舵机",
