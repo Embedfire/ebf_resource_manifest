@@ -29,15 +29,14 @@
             "groupName":"ucos系统（进阶学习）",
             "group":"ucos_base,ucos_stm32f103_fuxiao",
             "descript":"适用于本开发板的ucos资料"
-          },
-          {
-            "groupName":"显示屏（模块资料）",
-            "group":"lcd_8080,oled_spi,oled_i2c",
-            "descript":"8080接口（MCU）的液晶屏、OLED等"
           }
   
         ],
         "onlineDoc": [
+          {
+            "videoName":"更新中-《电机应用开发实战指南—基于STM32》",
+            "link":"https://www.bilibili.com/video/BV1AZ4y1V7wt"
+          },
           {
             "linkName":"《FreeRTOS 内核实现与应用开发实战—基于STM32》",
             "link": "https://ebf-freertos-tutorial.readthedocs.io"
@@ -67,12 +66,12 @@
         ],
         "cloudLink":[
           {
-            "linkName":"STM32F103_MINI开发板-资料盘",
-            "link":"https://pan.baidu.com/s/1UoRj_UxQLA7Fh-5AbTXR5w",
-            "code":"jx7t"
+            "linkName":"STM32F103_拂晓开发板-资料盘",
+            "link":"https://pan.baidu.com/s/1NwtmajvypH1Cq42MoMY8MA",
+            "code":"gn2z"
           },
           {
-            "linkName":"STM32F103_MINI开发板-视频盘",
+            "linkName":"STM32电机系列-视频盘",
             "link":"https://pan.baidu.com/s/1w643OR30sjEKTEtvHzPI7A",
             "code":"ytlt"
           }
@@ -149,6 +148,10 @@
         ],
         "onlineViedeo":[
           {
+            "videoName":"更新中-《电机应用开发实战指南—基于STM32》",
+            "link":"https://www.bilibili.com/video/BV1AZ4y1V7wt"
+          },
+          {
             "videoName":"42集-《FreeRTOS 内核实现与应用开发实战—基于STM32》",
             "link":"https://www.bilibili.com/video/av57449565"
           },
@@ -163,12 +166,12 @@
         ],
         "cloudLink":[
           {
-            "linkName":"STM32F103_MINI开发板-资料盘",
-            "link":"https://pan.baidu.com/s/1UoRj_UxQLA7Fh-5AbTXR5w",
-            "code":"jx7t"
+            "linkName":"STM32F407_骄阳开发板-资料盘",
+            "link":"https://pan.baidu.com/s/1rmOeopUXCwdqCvG9BUvI8g",
+            "code":"ayof"
           },
           {
-            "linkName":"STM32F103_MINI开发板-视频盘",
+            "linkName":"STM32电机系列-视频盘",
             "link":"https://pan.baidu.com/s/1w643OR30sjEKTEtvHzPI7A",
             "code":"ytlt"
           }
@@ -223,6 +226,10 @@
         ],
         "onlineDoc": [
           {
+            "videoName":"更新中-《电机应用开发实战指南—基于STM32》",
+            "link":"https://www.bilibili.com/video/BV1AZ4y1V7wt"
+          },
+          {
             "linkName":"《FreeRTOS 内核实现与应用开发实战—基于STM32》",
             "link": "https://ebf-freertos-tutorial.readthedocs.io"
           },
@@ -260,11 +267,11 @@
         "cloudLink":[
           {
             "linkName":"STM32F103_MINI开发板-资料盘",
-            "link":"https://pan.baidu.com/s/1UoRj_UxQLA7Fh-5AbTXR5w",
-            "code":"jx7t"
+            "link":"https://pan.baidu.com/s/1KvL8bCvss_lV4HcIbRn4jw",
+            "code":"xz27"
           },
           {
-            "linkName":"STM32F103_MINI开发板-视频盘",
+            "linkName":"STM32电机系列-视频盘",
             "link":"https://pan.baidu.com/s/1w643OR30sjEKTEtvHzPI7A",
             "code":"ytlt"
           }
