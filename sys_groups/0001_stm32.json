@@ -6,7 +6,7 @@
       "repoGroup": [
         {
           "groupName":"基本资料（必看）",
-          "group":"stm32f1_common,stm32f103_mini",
+          "group":"stm32f1_common,stm32f103_mini,stm32f1_common_ppt",
           "descript":"推荐先学习这部分的内容，包含硬件、库开发等"
         },
         {
@@ -153,7 +153,7 @@
       "repoGroup": [
         {
           "groupName":"基本资料",
-          "group":"stm32f1_common,stm32f103_zhinanzhe",
+          "group":"stm32f1_common,stm32f103_zhinanzhe，stm32f1_common_ppt",
           "descript":"推荐先学习这部分的内容，包含硬件、库开发等"
         },
         {
@@ -305,7 +305,7 @@
       "repoGroup": [
         {
           "groupName":"基本资料",
-          "group":"stm32f1_common,stm32f103_badao",
+          "group":"stm32f1_common,stm32f103_badao，stm32f1_common_ppt",
           "descript":"推荐先学习这部分的内容，包含硬件、库开发等"
         },
         {

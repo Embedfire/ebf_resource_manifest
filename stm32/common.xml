@@ -13,7 +13,7 @@
 
 
   <project remote="Embedfire-stm32f103-badao" revision="master" 
-    groups="stm32f1_common"
+    groups="stm32f1_common_ppt"
     name="ebf_stm32f103_std_tutorial_ppt" 
     path="野火开源图书/[野火]《STM32库开发实战指南》/PPT"/>
 
