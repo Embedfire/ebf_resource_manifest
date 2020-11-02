@@ -25,6 +25,10 @@
   <project remote="Embedfire-liteos" revision="master" groups="liteos,liteos_code,liteos_stm32h750_pro" name="ebf_liteos_tutorial_code_stm32h750_pro_v" path="野火开源图书/[野火]《物联网操作系统 LiteOS开发实战指南》/配套代码/H750_Pro_V版本芯片"/>
   <project remote="Embedfire-liteos" revision="master" groups="liteos,liteos_code,liteos_stm32h750_pro" name="ebf_liteos_tutorial_code_stm32h750_pro" path="野火开源图书/[野火]《物联网操作系统 LiteOS开发实战指南》/配套代码/H750_Pro"/>
 
+   <project remote="Embedfire-liteos" revision="master" groups="liteos,liteos_code,liteos_stm32f103_fuxiao" name="ebf_liteos_tutorial_code_stm32f103_fuxiao" path="野火开源图书/[野火]《物联网操作系统 LiteOS开发实战指南》/配套代码/F103_拂晓"/>
+    <project remote="Embedfire-liteos" revision="master" groups="liteos,liteos_code,liteos_stm32f407_jiaoyang" name="ebf_liteos_tutorial_code_stm32f407_jiaoyang" path="野火开源图书/[野火]《物联网操作系统 LiteOS开发实战指南》/配套代码F407_骄阳"/>
+   <project remote="Embedfire-liteos" revision="master" groups="liteos,liteos_code,liteos_stm32h743_fanxing" name="ebf_liteos_tutorial_code_stm32h743_fanxing" path="野火开源图书/[野火]《物联网操作系统 LiteOS开发实战指南》/配套代码/H743_繁星"/>
+
 
 
 

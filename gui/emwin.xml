@@ -22,6 +22,9 @@
   <project remote="Embedfire-emwin" revision="master" groups="emwin,emwin_tutorial_code,emwin_stm32h743_tiaozhanzhe" name="ebf_emwin_tutorial_code_stm32h743_tiaozhanzhe" path="野火开源图书/[野火]《emWin应用开发实战指南》/配套代码/H743_挑战者"/>
   <project remote="Embedfire-emwin" revision="master" groups="emwin,emwin_tutorial_code,emwin_stm32h750_pro" name="ebf_emwin_tutorial_code_stm32h750_pro" path="野火开源图书/[野火]《emWin应用开发实战指南》/配套代码/H750_Pro"/>
 
+  <project remote="Embedfire-emwin" revision="master" groups="emwin,emwin_tutorial_code,emwin_stm32f407_jiaoyang_4_3" name="ebf_emwin_tutorial_code_stm32f407_jiaoyang_4_3" path="野火开源图书/[野火]《emWin应用开发实战指南》/配套代码/F407_骄阳"/>
+  <project remote="Embedfire-emwin" revision="master" groups="emwin,emwin_tutorial_code,emwin_stm32h743_fanxing_4_3" name="ebf_emwin_tutorial_code_stm32h743_fanxing_4_3" path="野火开源图书/[野火]《emWin应用开发实战指南》/配套代码/H743_繁星"/>
+
       <!--综合例程，各个开发板-->
   <project remote="Embedfire-emwin" revision="master" groups="emwin,emwin_synthesize_code,emwin_stm32f103_mini" name="ebf_stm32f103_mini_emwin_demo" path="野火开源图书/[野火]《emWin应用开发实战指南》/综合例程/F103_MINI"/>
   <project remote="Embedfire-emwin" revision="master" groups="emwin,emwin_synthesize_code,emwin_stm32f103_zhinanzhe" name="ebf_stm32f103_zhinanzhe_emwin_demo" path="野火开源图书/[野火]《emWin应用开发实战指南》/综合例程/F103_指南者"/>

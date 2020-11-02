@@ -32,6 +32,10 @@
   <project remote="Embedfire-freertos" revision="master" groups="freertos,freertos_part2,freertos_stm32h750_pro" name="ebf_freertos_base_code_stm32h750_v_pro" path="野火开源图书/[野火]《FreeRTOS内核实现与应用开发实战》/配套代码/第二部分/H750_Pro_V版本芯片"/>
   <project remote="Embedfire-freertos" revision="master" groups="freertos,freertos_part2,freertos_rt1052" name="ebf_freertos_base_code_rt1052" path="野火开源图书/[野火]《FreeRTOS内核实现与应用开发实战》/配套代码/第二部分/RT1052"/>
 
+ <project remote="Embedfire-freertos" revision="master" groups="freertos,freertos_part2,freertos_stm32f103_fuxiao" name="ebf_freertos_base_code_stm32f103_fuxiao" path="野火开源图书/[野火]《FreeRTOS内核实现与应用开发实战》/配套代码/第二部分/F103_拂晓"/>
+ <project remote="Embedfire-freertos" revision="master" groups="freertos,freertos_part2,freertos_stm32f407_jiaoyang" name="ebf_freertos_base_code_stm32f407_jiaoyang" path="野火开源图书/[野火]《FreeRTOS内核实现与应用开发实战》/配套代码/第二部分/F407_骄阳"/>
+<project remote="Embedfire-freertos" revision="master" groups="freertos,freertos_part2,freertos_stm32h743_fanxing" name="ebf_freertos_base_code_stm32h743_fanxing" path="野火开源图书/[野火]《FreeRTOS内核实现与应用开发实战》/配套代码/第二部分/H743_繁星"/>
+
       <!--系统+外设代码，配套各个开发板-->
   <project remote="Embedfire-freertos" revision="master" groups="freertos,freertos_peripheral,freertos_stm32f103_mini" name="ebf_freertos_peripheral_code_stm32f103_mini" path="野火开源图书/[野火]《FreeRTOS内核实现与应用开发实战》/系统_外设代码/F103_MINI"/>
   <project remote="Embedfire-freertos" revision="master" groups="freertos,freertos_peripheral,freertos_stm32f103_zhinanzhe" name="ebf_freertos_peripheral_code_stm32f103_zhinanzhe" path="野火开源图书/[野火]《FreeRTOS内核实现与应用开发实战》/系统_外设代码/F103_指南者"/>
@@ -40,6 +44,9 @@
   <project remote="Embedfire-freertos" revision="master" groups="freertos,freertos_peripheral,freertos_stm32f429_tiaozhanzhe" name="ebf_freertos_peripheral_code_stm32f429_tiaozhanzhe" path="野火开源图书/[野火]《FreeRTOS内核实现与应用开发实战》/系统_外设代码/F429_挑战者"/>
   <project remote="Embedfire-freertos" revision="master" groups="freertos,freertos_peripheral,freertos_stm32f767_tiaozhanzhe" name="ebf_freertos_peripheral_code_stm32f767_tiaozhanzhe" path="野火开源图书/[野火]《FreeRTOS内核实现与应用开发实战》/系统_外设代码/F767_挑战者"/>
 
+  <project remote="Embedfire-freertos" revision="master" groups="freertos,freertos_peripheral,freertos_stm32f103_fuxiao" name="ebf_freertos_peripheral_code_stm32f103_fuxiao" path="野火开源图书/[野火]《FreeRTOS内核实现与应用开发实战》/系统_外设代码/F103_拂晓"/>
+   <project remote="Embedfire-freertos" revision="master" groups="freertos,freertos_peripheral,freertos_stm32f407_jiaoyang" name="ebf_freertos_peripheral_code_stm32f407_jiaoyang" path="野火开源图书/[野火]《FreeRTOS内核实现与应用开发实战》/系统_外设代码/F407_骄阳"/>
+    <project remote="Embedfire-freertos" revision="master" groups="freertos,freertos_peripheral,freertos_stm32h743_fanxing" name="ebf_freertos_peripheral_code_stm32h743_fanxing" path="野火开源图书/[野火]《FreeRTOS内核实现与应用开发实战》/系统_外设代码/H743_繁星"/>
 
 
 </manifest>

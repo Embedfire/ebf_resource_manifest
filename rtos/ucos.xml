@@ -28,5 +28,9 @@
   <project remote="Embedfire-ucos" revision="master" groups="ucos,ucos_part2,ucos_stm32h750_pro" name="ebf_ucos_tutorial_code_2_stm32h750_v_pro" path="野火开源图书/[野火]《uCOS-III 内核实现与应用开发实战》/配套代码/第二部分/H750_Pro_V版本芯片"/>
   <project remote="Embedfire-ucos" revision="master" groups="ucos,ucos_part2,ucos_rt1052" name="ebf_ucos_tutorial_code_2_rt1052" path="野火开源图书/[野火]《uCOS-III 内核实现与应用开发实战》/配套代码/第二部分/RT1052"/>
 
+ <project remote="Embedfire-ucos" revision="master" groups="ucos,ucos_part2,ucos_stm32f103_fuxiao" name="ebf_ucos_tutorial_code_2_stm32f103_fuxiao" path="野火开源图书/[野火]《uCOS-III 内核实现与应用开发实战》/配套代码/第二部分/F103_拂晓"/>
+ <project remote="Embedfire-ucos" revision="master" groups="ucos,ucos_part2,ucos_stm32f407_jiaoyang" name="ebf_ucos_tutorial_code_2_stm32f407_jiaoyang" path="野火开源图书/[野火]《uCOS-III 内核实现与应用开发实战》/配套代码/第二部分/F407_骄阳"/>
+ <project remote="Embedfire-ucos" revision="master" groups="ucos,ucos_part2,ucos_stm32h743_fanxing" name="ebf_ucos_tutorial_code_2_stm32h743_fanxing" path="野火开源图书/[野火]《uCOS-III 内核实现与应用开发实战》/配套代码/第二部分/H743_繁星"/>
+
 
 </manifest>

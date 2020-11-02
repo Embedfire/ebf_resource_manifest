@@ -3,7 +3,7 @@
 
       { 
         "productName": "STM32F103_拂晓开发板",
-        "productLink": "http://products.embedfire.com/zh_CN/latest/stm32/ebf_stm32f103_mini.html",
+        "productLink": "https://ebf-products.readthedocs.io/zh_CN/latest/stm32_motor/ebf_stm32f103_fuxiao.html",
         "repoGroup": [
           {
             "groupName":"基本资料（必看）",
@@ -12,22 +12,22 @@
           },
           {
             "groupName":"freertos系统（进阶学习）",
-            "group":"freertos_base",
+            "group":"freertos_base,freertos_stm32f103_fuxiao,",
             "descript":"适用于本开发板的freertos资料"
           },
           {
             "groupName":"liteos系统（进阶学习）",
-            "group":"liteos_base",
+            "group":"liteos_base,liteos_stm32f103_fuxiao",
             "descript":"适用于本开发板的liteos资料"
           },
           {
             "groupName":"rtthread系统（进阶学习）",
-            "group":"rtthread_base",
+            "group":"rtthread_base,rtthread_stm32f103_fuxiao",
             "descript":"适用于本开发板的rtthread资料"
           },
           {
             "groupName":"ucos系统（进阶学习）",
-            "group":"ucos_base",
+            "group":"ucos_base,ucos_stm32f103_fuxiao",
             "descript":"适用于本开发板的ucos资料"
           },
           {
@@ -38,14 +38,6 @@
   
         ],
         "onlineDoc": [
-          {
-            "linkName":"《STM32库开发实战指南——F103_MINI开发板》",
-            "link": "https://ebf-stm32f103-mini-std-tutorial.readthedocs.io"
-          },
-          {
-            "linkName":"《STM32 HAL库开发实战指南——F103_MINI开发板》",
-            "link": "https://ebf-stm32f103-mini-hal-tutorial.readthedocs.io"
-          },
           {
             "linkName":"《FreeRTOS 内核实现与应用开发实战—基于STM32》",
             "link": "https://ebf-freertos-tutorial.readthedocs.io"
@@ -61,21 +53,9 @@
           {
             "linkName":"《物联网操作系统 LiteOS开发实战指南—基于STM32》",
             "link": "https://ebf-liteos-tutorial.readthedocs.io"
-          },
-          {
-            "linkName":"《emXGUI应用开发实战指南》",
-            "link": "https://emxgui-tutorial-doc.readthedocs.io"
-          },
-          {
-            "linkName":"《emWin应用开发实战指南—基于STM32》",
-            "link": "https://ebf-emwin-tutorial.readthedocs.io"
           }
         ],
         "onlineViedeo":[
-          {
-            "videoName":"158集-《STM32库开发实战指南——F103_MINI开发板》",
-            "link":"https://space.bilibili.com/356820657/channel/detail?cid=84857"
-          },
           {
             "videoName":"42集-《FreeRTOS 内核实现与应用开发实战—基于STM32》",
             "link":"https://www.bilibili.com/video/av57449565"
@@ -83,10 +63,6 @@
           {
             "videoName":"50集-《uCOS-III 内核实现与应用开发实战—基于STM32》",
             "link":"https://www.bilibili.com/video/av62027241"
-          },
-          {
-            "videoName":"38集-《emWin应用开发实战指南—基于STM32》",
-            "link":"https://www.bilibili.com/video/BV16t4y117rN"
           }
         ],
         "cloudLink":[
@@ -115,40 +91,41 @@
           },
           {
             "groupName":"freertos系统（进阶学习）",
-            "group":"freertos_base",
+            "group":"freertos_base,freertos_stm32f407_jiaoyang",
             "descript":"适用于本开发板的freertos资料"
           },
           {
             "groupName":"liteos系统（进阶学习）",
-            "group":"liteos_base",
+            "group":"liteos_base,liteos_stm32f407_jiaoyang",
             "descript":"适用于本开发板的liteos资料"
           },
           {
             "groupName":"rtthread系统（进阶学习）",
-            "group":"rtthread_base",
+            "group":"rtthread_base,rtthread_stm32f407_jiaoyang",
             "descript":"适用于本开发板的rtthread资料"
           },
           {
             "groupName":"ucos系统（进阶学习）",
-            "group":"ucos_base",
+            "group":"ucos_base,ucos_stm32f407_jiaoyang",
             "descript":"适用于本开发板的ucos资料"
+          },       
+          {
+            "groupName":"LwIP网络协议栈",
+            "group":"lwip_base,lwip_stm32f407_jiaoyang",
+            "descript":"嵌入式网络协议栈LwIP教程，包含以太网、WiFi例程"
+          },
+          {
+            "groupName":"emWin图形界面",
+            "group":"emwin_base,emwin_stm32f407_jiaoyang_4_3",
+            "descript":"emWin图形库教程及代码"
           },
           {
             "groupName":"显示屏（模块资料）",
-            "group":"lcd_8080,oled_spi,oled_i2c",
-            "descript":"8080接口（MCU）的液晶屏、OLED等"
+            "group":"lcd_8080_nt35510",
+            "descript":"MCU 4.3寸屏幕"
           }
-  
         ],
         "onlineDoc": [
-          {
-            "linkName":"《STM32库开发实战指南——F103_MINI开发板》",
-            "link": "https://ebf-stm32f103-mini-std-tutorial.readthedocs.io"
-          },
-          {
-            "linkName":"《STM32 HAL库开发实战指南——F103_MINI开发板》",
-            "link": "https://ebf-stm32f103-mini-hal-tutorial.readthedocs.io"
-          },
           {
             "linkName":"《FreeRTOS 内核实现与应用开发实战—基于STM32》",
             "link": "https://ebf-freertos-tutorial.readthedocs.io"
@@ -166,19 +143,11 @@
             "link": "https://ebf-liteos-tutorial.readthedocs.io"
           },
           {
-            "linkName":"《emXGUI应用开发实战指南》",
-            "link": "https://emxgui-tutorial-doc.readthedocs.io"
-          },
-          {
             "linkName":"《emWin应用开发实战指南—基于STM32》",
             "link": "https://ebf-emwin-tutorial.readthedocs.io"
           }
         ],
         "onlineViedeo":[
-          {
-            "videoName":"158集-《STM32库开发实战指南——F103_MINI开发板》",
-            "link":"https://space.bilibili.com/356820657/channel/detail?cid=84857"
-          },
           {
             "videoName":"42集-《FreeRTOS 内核实现与应用开发实战—基于STM32》",
             "link":"https://www.bilibili.com/video/av57449565"
@@ -217,40 +186,42 @@
           },
           {
             "groupName":"freertos系统（进阶学习）",
-            "group":"freertos_base",
+            "group":"freertos_base,freertos_stm32h743_fanxing",
             "descript":"适用于本开发板的freertos资料"
           },
           {
             "groupName":"liteos系统（进阶学习）",
-            "group":"liteos_base",
+            "group":"liteos_base,liteos_stm32h743_fanxing",
             "descript":"适用于本开发板的liteos资料"
           },
           {
             "groupName":"rtthread系统（进阶学习）",
-            "group":"rtthread_base",
+            "group":"rtthread_base,rtthread_stm32h743_fanxing",
             "descript":"适用于本开发板的rtthread资料"
           },
           {
             "groupName":"ucos系统（进阶学习）",
-            "group":"ucos_base",
+            "group":"ucos_base，ucos_stm32h743_fanxing",
             "descript":"适用于本开发板的ucos资料"
           },
           {
+            "groupName":"LwIP网络协议栈",
+            "group":"lwip_base,lwip_stm32h743_fanxing",
+            "descript":"嵌入式网络协议栈LwIP教程，包含以太网、WiFi例程"
+          },
+          {
+            "groupName":"emWin图形界面",
+            "group":"emwin_base,emwin_stm32h743_fanxing_4_3",
+            "descript":"emWin图形库教程及代码"
+          },
+          {
             "groupName":"显示屏（模块资料）",
-            "group":"lcd_8080,oled_spi,oled_i2c",
-            "descript":"8080接口（MCU）的液晶屏、OLED等"
+            "group":"lcd_rgb_gt5688",
+            "descript":"RGB 4.3寸屏幕"
           }
   
         ],
         "onlineDoc": [
-          {
-            "linkName":"《STM32库开发实战指南——F103_MINI开发板》",
-            "link": "https://ebf-stm32f103-mini-std-tutorial.readthedocs.io"
-          },
-          {
-            "linkName":"《STM32 HAL库开发实战指南——F103_MINI开发板》",
-            "link": "https://ebf-stm32f103-mini-hal-tutorial.readthedocs.io"
-          },
           {
             "linkName":"《FreeRTOS 内核实现与应用开发实战—基于STM32》",
             "link": "https://ebf-freertos-tutorial.readthedocs.io"
@@ -268,19 +239,11 @@
             "link": "https://ebf-liteos-tutorial.readthedocs.io"
           },
           {
-            "linkName":"《emXGUI应用开发实战指南》",
-            "link": "https://emxgui-tutorial-doc.readthedocs.io"
-          },
-          {
             "linkName":"《emWin应用开发实战指南—基于STM32》",
             "link": "https://ebf-emwin-tutorial.readthedocs.io"
           }
         ],
         "onlineViedeo":[
-          {
-            "videoName":"158集-《STM32库开发实战指南——F103_MINI开发板》",
-            "link":"https://space.bilibili.com/356820657/channel/detail?cid=84857"
-          },
           {
             "videoName":"42集-《FreeRTOS 内核实现与应用开发实战—基于STM32》",
             "link":"https://www.bilibili.com/video/av57449565"
@@ -316,7 +279,7 @@
 
       { 
         "productName": "驱动器板_电机舵机_硬件",
-        "productLink": "http://products.embedfire.com/zh_CN/latest/module/motor/msd4805.html",
+        "productLink": "https://ebf-products.readthedocs.io/zh_CN/latest/stm32_motor/ebf_motor_driver.html",
         "repoGroup": [
           {
             "groupName":"步进电机驱动器",
@@ -357,12 +320,11 @@
 
        { 
         "productName": "普通系列开发板电机例程",
-        "productLink": "http://products.embedfire.com/zh_CN/latest/module/relay/relay_4.html",
         "repoGroup": [
           {
-            "groupName":"非电机系列开发板配套例程",
+            "groupName":"普通系列开发板电机例程",
             "group":"motor_tutorial_code",
-            "descript":"非电机系列开发板配套例程"
+            "descript":"普通系列开发板电机例程"
           }
         ]
        }

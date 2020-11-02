@@ -21,5 +21,8 @@
   <project remote="Embedfire-lwip" revision="master" groups="lwip,lwip_code,lwip_stm32h750_pro" name="ebf_lwip_tutorial_code_stm32h750_pro_y" path="野火开源图书/[野火]《LwIP应用开发实战指南》/配套代码/H750_Pro_Y版本芯片"/>
   <project remote="Embedfire-lwip" revision="master" groups="lwip,lwip_code,lwip_rt1052" name="ebf_lwip_tutorial_code_rt1052" path="野火开源图书/[野火]《LwIP应用开发实战指南》/配套代码/RT1052"/>
 
+  <project remote="Embedfire-lwip" revision="master" groups="lwip,lwip_code,lwip_stm32f407_jiaoyang" name="ebf_lwip_tutorial_code_stm32f407_jiaoyang" path="野火开源图书/[野火]《LwIP应用开发实战指南》/配套代码/F407_骄阳"/>
+  <project remote="Embedfire-lwip" revision="master" groups="lwip,lwip_code,lwip_stm32h743_fanxing" name="ebf_lwip_tutorial_code_stm32h743_fanxing" path="野火开源图书/[野火]《LwIP应用开发实战指南》/配套代码/H743_繁星"/>
+
 
 </manifest>
