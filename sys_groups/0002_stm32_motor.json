@@ -34,10 +34,6 @@
         ],
         "onlineDoc": [
           {
-            "videoName":"更新中-《电机应用开发实战指南—基于STM32》",
-            "link":"https://www.bilibili.com/video/BV1AZ4y1V7wt"
-          },
-          {
             "linkName":"《FreeRTOS 内核实现与应用开发实战—基于STM32》",
             "link": "https://ebf-freertos-tutorial.readthedocs.io"
           },
@@ -55,6 +51,10 @@
           }
         ],
         "onlineViedeo":[
+          {
+            "videoName":"更新中-《电机应用开发实战指南—基于STM32》",
+            "link":"https://www.bilibili.com/video/BV1AZ4y1V7wt"
+          },
           {
             "videoName":"42集-《FreeRTOS 内核实现与应用开发实战—基于STM32》",
             "link":"https://www.bilibili.com/video/av57449565"
@@ -226,10 +226,6 @@
         ],
         "onlineDoc": [
           {
-            "videoName":"更新中-《电机应用开发实战指南—基于STM32》",
-            "link":"https://www.bilibili.com/video/BV1AZ4y1V7wt"
-          },
-          {
             "linkName":"《FreeRTOS 内核实现与应用开发实战—基于STM32》",
             "link": "https://ebf-freertos-tutorial.readthedocs.io"
           },
@@ -251,6 +247,10 @@
           }
         ],
         "onlineViedeo":[
+          {
+            "videoName":"更新中-《电机应用开发实战指南—基于STM32》",
+            "link":"https://www.bilibili.com/video/BV1AZ4y1V7wt"
+          },
           {
             "videoName":"42集-《FreeRTOS 内核实现与应用开发实战—基于STM32》",
             "link":"https://www.bilibili.com/video/av57449565"
