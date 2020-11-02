@@ -6,8 +6,7 @@
   path="野火模块产品/电机/步进电机驱动模块msd4805/配套资料"/>
 
 
- <project remote="Embedfire-motor" revision="master" groups="motor,l298n_driver" name="ebf_l298n_driver_code" 
- path="野火模块产品/电机/L298N电机驱动/配套例程"/>
+
  <project remote="Embedfire-motor" revision="master" groups="motor,l298n_driver" name="ebf_l298n_driver_hardware" 
  path="野火模块产品/电机/L298N电机驱动/硬件资料"/>
  <project remote="Embedfire-motor" revision="master" groups="motor,l298n_driver" name="ebf_l298n_driver_data" 
@@ -31,9 +30,6 @@
 
  <project remote="Embedfire-motor" revision="master" groups="motor,steering_motor" name="ebf_steering_motor_rst" 
  path="野火模块产品/电机/舵机/rst格式文档"/>
- <project remote="Embedfire-motor" revision="master" groups="motor,steering_motor" name="ebf_steering_motor_code" 
- path="野火模块产品/电机/舵机/配套例程"/>
-
 
 
  <project remote="Embedfire-motor" revision="master" groups="motor_tutorial_code" name="ebf_motor_tutorial_code_stm32f103_mini" 

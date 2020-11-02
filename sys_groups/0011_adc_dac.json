@@ -1,0 +1,27 @@
+{
+    "ADC_DAC模块": [
+        { 
+            "productName": "AD5689_DAC模块",
+            "productLink": "http://products.embedfire.com/zh_CN/latest/module/relay/relay_4.html",
+            "repoGroup": [
+              {
+                "groupName":"AD5689_DAC模块",
+                "group":"ebf_dac_ad5689",
+                "descript":"AD5689_DAC模块"
+              }
+            ]
+           },
+           { 
+            "productName": "AD7192_ADC模块",
+            "productLink": "http://products.embedfire.com/zh_CN/latest/module/relay/relay_4.html",
+            "repoGroup": [
+              {
+                "groupName":"AD5689_DAC模块",
+                "group":"ebf_adc_ad7192",
+                "descript":"AD5689_DAC模块"
+              }
+            ]
+           }
+
+    ]
+}

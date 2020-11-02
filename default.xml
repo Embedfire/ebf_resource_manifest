@@ -35,7 +35,7 @@
   <include name="module/misc.xml" />
   <include name="module/sensor.xml" />
   <include name="module/wireless.xml" />
-
+ <include name="module/adc_dac.xml" />
 
   <include name="network/lwip.xml" />
   <include name="network/wifi_ap.xml" />
