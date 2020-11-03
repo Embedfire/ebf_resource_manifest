@@ -84,7 +84,7 @@
   <remote fetch="https://gitee.com/embedfire-stm32f407-jiaoyang" name="Embedfire-stm32f407-jiaoyang"/>
   <remote fetch="https://gitee.com/embedfire-stm32h743-fanxing" name="Embedfire-stm32h743-fanxing"/>
 
-  <remote fetch="https://gitee.com/organizations/Embedfire-motor" name="Embedfire-motor"/>
+  <remote fetch="https://gitee.com/Embedfire-motor" name="Embedfire-motor"/>
   
 
 
