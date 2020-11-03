@@ -54,8 +54,7 @@
 
 
 
-  <!--motor -->
-  <remote fetch="https://gitee.com/Embedfire-motor" name="Embedfire-motor"/>
+ 
 
   <!--network-->
   <remote fetch="https://gitee.com/Embedfire-lwip" name="Embedfire-lwip"/>
