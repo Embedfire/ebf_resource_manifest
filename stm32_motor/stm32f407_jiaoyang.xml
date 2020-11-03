@@ -15,7 +15,7 @@
 
 
 
-  <project remote="Embedfire-stm32f407-jiaoyang" revision="master" 
+  <project remote="Embedfire-motor" revision="master" 
     groups="motor_tutorial_pdf"
     name="ebf_motor_tutorial_stm32f407_pdf" 
     path="野火开源图书/[野火]《电机应用开发实战指南—基于STM32》/电机_pdf文档"/>
