@@ -23,7 +23,7 @@
 
   <project remote="Embedfire-motor" revision="master" 
     groups="stm32f407-jiaoyang,stm32f407-jiaoyang_motor_tutorial_code"
-    name="ebf_motor_tutorial_code_stm32f407" 
+    name="ebf_motor_tutorial_code_stm32f407_jiaoyang"
     path="野火开源图书/[野火]《电机应用开发实战指南—基于STM32》/F407_骄阳_电机配套代码"/>
 
 
