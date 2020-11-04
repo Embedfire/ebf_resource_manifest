@@ -1,6 +1,78 @@
 {
   "开源图书及视频": [
     { 
+      "productName": "《STM32库开发实战指南》（标准库）",
+      "productLink": "https://yehuosm.tmall.com/category-1478985236.htm?spm=a1z10.5-b.w4010-22026361156.76.74ab441dlYdQfT&search=y&catName=%C5%E4%CC%D7%CA%E9%BC%AE-%D2%B0%BB%F0%B1%E0%D0%B4#bd",
+      "repoGroup": [
+        {
+          "groupName":"STM32F103_MINI开发板",
+          "group":"stm32f103_mini_std_tutorial",
+          "descript":"仅书籍和代码，开发板硬件资料请在开发板对应分类下查找"
+        },
+        {
+          "groupName":"STM32F103_指南者开发板",
+          "group":"stm32f103_zhinanzhe_std_tutorial",
+          "descript":"仅书籍和代码，开发板硬件资料请在开发板对应分类下查找"
+        },
+        {
+          "groupName":"STM32F103_霸道开发板",
+          "group":"stm32f103_badao_std_tutorial",
+          "descript":"仅书籍和代码，开发板硬件资料请在开发板对应分类下查找"
+        },
+        {
+          "groupName":"STM32F407_霸天虎开发板",
+          "group":"stm32f407_batianhu_std_tutorial",
+          "descript":"仅书籍和代码，开发板硬件资料请在开发板对应分类下查找"
+        },
+        {
+          "groupName":"STM32F429_挑战者开发板",
+          "group":"stm32f429_tiaozhanzhe_std_tutorial",
+          "descript":"仅书籍和代码，开发板硬件资料请在开发板对应分类下查找"
+        }
+      ],
+      "onlineDoc": [
+       {
+         "linkName":"《STM32库开发实战指南——基于STM32F103_MINI开发板》",
+         "link": "https://ebf-stm32f103-mini-std-tutorial.readthedocs.io"
+       },
+       {
+         "linkName":"《STM32库开发实战指南——基于STM32F103_指南者开发板》",
+         "link": "https://ebf-stm32f103-zhinanzhe-std-tutorial.readthedocs.io"
+       },
+       {
+         "linkName":"《STM32库开发实战指南——基于STM32F103_霸道开发板》",
+         "link": "https://ebf-stm32f103-badao-std-tutorial.readthedocs.io"
+       },
+       {
+         "linkName":"《STM32 库开发实战指南——基于野火F407霸天虎开发板》",
+         "link": "https://ebf-stm32f407-batianhu-std-tutorial.readthedocs.io"
+       },
+       {
+         "linkName":"《STM32库开发实战指南——基于野火F429挑战者V2开发板》",
+         "link": "https://ebf-stm32f429-tiaozhanzhe-std-tutorial.readthedocs.io"
+       }
+     ],
+     "onlineViedeo":[
+       {
+         "videoName":"158集-《STM32库开发实战指南——F103_MINI开发板》",
+         "link":"https://space.bilibili.com/356820657/channel/detail?cid=84857"
+       },
+       {
+         "videoName":"158集-《STM32库开发实战指南——F103_霸道/指南者开发板》",
+         "link":"https://space.bilibili.com/356820657/channel/detail?cid=48780"
+       },
+       {
+         "videoName":"158集-《STM32库开发实战指南——F407_霸天虎开发板》",
+         "link":"https://space.bilibili.com/356820657/channel/detail?cid=82914"
+       },
+       {
+         "videoName":"158集-《STM32库开发实战指南——F429_挑战者开发板》",
+         "link":"https://space.bilibili.com/356820657/channel/detail?cid=82915"
+       }
+     ]
+    },
+
+    { 
      "productName": "《STM32 HAL库开发实战指南》（HAL库）",
      "productLink": "https://yehuosm.tmall.com/category-1478985236.htm?spm=a1z10.5-b.w4010-22026361156.76.74ab441dlYdQfT&search=y&catName=%C5%E4%CC%D7%CA%E9%BC%AE-%D2%B0%BB%F0%B1%E0%D0%B4#bd",
      "repoGroup": [
@@ -48,7 +120,22 @@
          "groupName":"STM32H750_Pro开发板",
          "group":"stm32h750_pro_hal_tutorial",
          "descript":"仅书籍和代码，开发板硬件资料请在开发板对应分类下查找"
-       }
+       },
+       {
+        "groupName":"STM32F103_拂晓开发板",
+        "group":"stm32f103-fuxiao_hal_tutorial",
+        "descript":"仅书籍和代码，开发板硬件资料请在开发板对应分类下查找"
+      },
+      {
+        "groupName":"STM32F407_骄阳开发板",
+        "group":"stm32f407-jiaoyango_hal_tutorial",
+        "descript":"仅书籍和代码，开发板硬件资料请在开发板对应分类下查找"
+      },
+      {
+        "groupName":"STM32H743_繁星开发板",
+        "group":"stm32h743-fanxing_hal_tutorial",
+        "descript":"仅书籍和代码，开发板硬件资料请在开发板对应分类下查找"
+      }
      ],
      "onlineDoc": [
       {
@@ -92,127 +179,70 @@
    },
 
 
-    { 
-     "productName": "《STM32库开发实战指南》（标准库）",
-     "productLink": "https://yehuosm.tmall.com/category-1478985236.htm?spm=a1z10.5-b.w4010-22026361156.76.74ab441dlYdQfT&search=y&catName=%C5%E4%CC%D7%CA%E9%BC%AE-%D2%B0%BB%F0%B1%E0%D0%B4#bd",
-     "repoGroup": [
-       {
-         "groupName":"STM32F103_MINI开发板",
-         "group":"stm32f103_mini_std_tutorial",
-         "descript":"仅书籍和代码，开发板硬件资料请在开发板对应分类下查找"
-       },
-       {
-         "groupName":"STM32F103_指南者开发板",
-         "group":"stm32f103_zhinanzhe_std_tutorial",
-         "descript":"仅书籍和代码，开发板硬件资料请在开发板对应分类下查找"
-       },
-       {
-         "groupName":"STM32F103_霸道开发板",
-         "group":"stm32f103_badao_std_tutorial",
-         "descript":"仅书籍和代码，开发板硬件资料请在开发板对应分类下查找"
-       },
-       {
-         "groupName":"STM32F407_霸天虎开发板",
-         "group":"stm32f407_batianhu_std_tutorial",
-         "descript":"仅书籍和代码，开发板硬件资料请在开发板对应分类下查找"
-       },
-       {
-         "groupName":"STM32F429_挑战者开发板",
-         "group":"stm32f429_tiaozhanzhe_std_tutorial",
-         "descript":"仅书籍和代码，开发板硬件资料请在开发板对应分类下查找"
-       }
-     ],
-     "onlineDoc": [
+   { 
+    "productName": "《电机应用开发实战指南—基于STM32》（HAL库）",
+    "productLink": "https://yehuosm.tmall.com/category-1478985236.htm?spm=a1z10.5-b.w4010-22026361156.76.74ab441dlYdQfT&search=y&catName=%C5%E4%CC%D7%CA%E9%BC%AE-%D2%B0%BB%F0%B1%E0%D0%B4#bd",
+    "repoGroup": [
       {
-        "linkName":"《STM32库开发实战指南——基于STM32F103_MINI开发板》",
-        "link": "https://ebf-stm32f103-mini-std-tutorial.readthedocs.io"
+        "groupName":"电机应用开发实战指南—基于STM32_PDF",
+        "group":"motor_tutorial_pdf",
+        "descript":"仅书籍和代码，开发板硬件资料请在开发板对应分类下查找"
       },
       {
-        "linkName":"《STM32库开发实战指南——基于STM32F103_指南者开发板》",
-        "link": "https://ebf-stm32f103-zhinanzhe-std-tutorial.readthedocs.io"
+        "groupName":"STM32F103_拂晓开发板",
+        "group":"stm32f103-fuxiao_motor_tutorial_code",
+        "descript":"仅书籍和代码，开发板硬件资料请在开发板对应分类下查找"
       },
       {
-        "linkName":"《STM32库开发实战指南——基于STM32F103_霸道开发板》",
-        "link": "https://ebf-stm32f103-badao-std-tutorial.readthedocs.io"
+        "groupName":"STM32F407_骄阳开发板",
+        "group":"stm32f407-jiaoyang_motor_tutorial_code",
+        "descript":"仅书籍和代码，开发板硬件资料请在开发板对应分类下查找"
       },
+
       {
-        "linkName":"《STM32 库开发实战指南——基于野火F407霸天虎开发板》",
-        "link": "https://ebf-stm32f407-batianhu-std-tutorial.readthedocs.io"
-      },
-      {
-        "linkName":"《STM32库开发实战指南——基于野火F429挑战者V2开发板》",
-        "link": "https://ebf-stm32f429-tiaozhanzhe-std-tutorial.readthedocs.io"
+        "groupName":"STM32H743_繁星开发板",
+        "group":"stm32h743-fanxing_motor_tutorial_code",
+        "descript":"仅书籍和代码，开发板硬件资料请在开发板对应分类下查找"
       }
-    ],
-    "onlineViedeo":[
-      {
-        "videoName":"158集-《STM32库开发实战指南——F103_MINI开发板》",
-        "link":"https://space.bilibili.com/356820657/channel/detail?cid=84857"
-      },
-      {
-        "videoName":"158集-《STM32库开发实战指南——F103_霸道/指南者开发板》",
-        "link":"https://space.bilibili.com/356820657/channel/detail?cid=48780"
-      },
-      {
-        "videoName":"158集-《STM32库开发实战指南——F407_霸天虎开发板》",
-        "link":"https://space.bilibili.com/356820657/channel/detail?cid=82914"
-      },
-      {
-        "videoName":"158集-《STM32库开发实战指南——F429_挑战者开发板》",
-        "link":"https://space.bilibili.com/356820657/channel/detail?cid=82915"
-      }
-    ]
+      ]
 
-   },
-
-
+    },
 
     { 
-     "productName": "《LwIP应用开发实战指南》",
-     "productLink": "http://products.embedfire.com/zh_CN/latest/tutorial/ebf_freertos_tutorial.html",
-     "repoGroup": [
-       {
-         "groupName":"基本资料",
-         "group":"lwip_base",
-         "descript":"适配不同开发板的共同资料"
-       },
-       {
-         "groupName":"教程配套代码",
-         "group":"lwip_code",
-         "descript":"教程中针对不同开发板的配套代码(以太网)"
-       },
-       {
-         "groupName":"lwip配套wifi代码",
-         "group":"lwip_ap6181",
-         "descript":"适配wifi模块(AP6181)的lwip代码"
-       }
-     ],
-     "onlineDoc": [
-      {
-        "linkName":"《LwIP应用开发实战指南—基于STM32》",
-        "link": "https://ebf-lwip-tutorial.readthedocs.io"
-      },
-      {
-        "linkName":"《LwIP应用开发实战指南—基于RT1052》",
-        "link": "https://ebf-lwip-tutorial-rt1052.readthedocs.io"
-      }
-    ],
+      "productName": "《FPGA Verilog开发实战指南》",
+      "productLink": "https://detail.tmall.com/item.htm?spm=a1z10.5-b.w4011-22026361158.56.1a5f4829MGsGCa&id=620690339345&rn=9f646393ef761a378f44453d07596df1&abbucket=18",
+      "repoGroup": [
+        {
+          "groupName":"基本资料",
+          "group":"ep4ce10_tutorial",
+          "descript":"包含代码和在线文档、硬件原理图"
+    },
+    {
+      "groupName":"基本资料",
+      "group":"ep4ce10_tutorial",
+      "descript":"包含代码和在线文档、硬件原理图"
+    }
+
+      ],
+      "cloudLink":[
+        {
+          "linkName":"EP4CE10开发板【资料盘】-百度云（更新滞后于git仓库）",
+          "link":"https://pan.baidu.com/s/1ILCmt09vW6oIv8KokJjSLg",
+          "code":"gvx2"
+        },
+        {
+          "linkName":"EP4CE10开发板【视频盘】-百度云",
+          "link":"https://pan.baidu.com/s/1TQa9JR74-q6mpsPExg01DA",
+          "code":"2zpv"
+        }
+      ],
     "onlineViedeo":[
       {
-        "videoName":"62集-《LwIP应用开发实战指南—基于STM32》",
-        "link":"https://www.bilibili.com/video/av59550450"
-      }
-    ],
-    "cloudLink":[
-      {
-        "linkName":"百度云-[野火]《LwIP应用开发实战指南》",
-        "link":"https://pan.baidu.com/s/1O3EKcZ5JFGKYdFGMOpJGNQ",
-        "code":"b92p"
+        "videoName":"视频教程-《FPGA Verilog开发实战指南》",
+        "link":"https://www.bilibili.com/video/BV17z411i7er"
       }
     ]
-   },
-
-
+    },
 
     { 
      "productName": "《FreeRTOS内核实现与应用开发实战》",
@@ -372,7 +402,6 @@
     ]
     },
 
-
     { 
       "productName": "《emWin应用开发实战指南》",
       "productLink": "http://products.embedfire.com/zh_CN/latest/tutorial/ebf_liteos_tutorial.html",
@@ -413,6 +442,52 @@
       }
     ]
     },
+
+    { 
+     "productName": "《LwIP应用开发实战指南》",
+     "productLink": "http://products.embedfire.com/zh_CN/latest/tutorial/ebf_freertos_tutorial.html",
+     "repoGroup": [
+       {
+         "groupName":"基本资料",
+         "group":"lwip_base",
+         "descript":"适配不同开发板的共同资料"
+       },
+       {
+         "groupName":"教程配套代码",
+         "group":"lwip_code",
+         "descript":"教程中针对不同开发板的配套代码(以太网)"
+       },
+       {
+         "groupName":"lwip配套wifi代码",
+         "group":"lwip_ap6181",
+         "descript":"适配wifi模块(AP6181)的lwip代码"
+       }
+     ],
+     "onlineDoc": [
+      {
+        "linkName":"《LwIP应用开发实战指南—基于STM32》",
+        "link": "https://ebf-lwip-tutorial.readthedocs.io"
+      },
+      {
+        "linkName":"《LwIP应用开发实战指南—基于RT1052》",
+        "link": "https://ebf-lwip-tutorial-rt1052.readthedocs.io"
+      }
+    ],
+    "onlineViedeo":[
+      {
+        "videoName":"62集-《LwIP应用开发实战指南—基于STM32》",
+        "link":"https://www.bilibili.com/video/av59550450"
+      }
+    ],
+    "cloudLink":[
+      {
+        "linkName":"百度云-[野火]《LwIP应用开发实战指南》",
+        "link":"https://pan.baidu.com/s/1O3EKcZ5JFGKYdFGMOpJGNQ",
+        "code":"b92p"
+      }
+    ]
+   },
+
 
 
     { 
@@ -476,38 +551,10 @@
         "link":"https://www.bilibili.com/video/BV1JK4y1t7io"
       }
     ]
-    },
+    }
 
 
-    { 
-      "productName": "《FPGA Verilog开发实战指南》",
-      "productLink": "https://detail.tmall.com/item.htm?spm=a1z10.5-b.w4011-22026361158.56.1a5f4829MGsGCa&id=620690339345&rn=9f646393ef761a378f44453d07596df1&abbucket=18",
-      "repoGroup": [
-        {
-          "groupName":"基本资料",
-          "group":"ep4ce10_tutorial",
-          "descript":"包含代码和在线文档、硬件原理图"
-    }
-      ],
-      "cloudLink":[
-        {
-          "linkName":"EP4CE10开发板【资料盘】-百度云（更新滞后于git仓库）",
-          "link":"https://pan.baidu.com/s/1ILCmt09vW6oIv8KokJjSLg",
-          "code":"gvx2"
-        },
-        {
-          "linkName":"EP4CE10开发板【视频盘】-百度云",
-          "link":"https://pan.baidu.com/s/1TQa9JR74-q6mpsPExg01DA",
-          "code":"2zpv"
-        }
-      ],
-    "onlineViedeo":[
-      {
-        "videoName":"视频教程-《FPGA Verilog开发实战指南》",
-        "link":"https://www.bilibili.com/video/BV17z411i7er"
-      }
-    ]
-    }
+
 
  ]
 }

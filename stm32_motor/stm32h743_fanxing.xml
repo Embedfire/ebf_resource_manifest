@@ -4,12 +4,12 @@
   <!--STM32FH743 繁星-->
 
   <project remote="Embedfire-stm32h743-fanxing" revision="master" 
-    groups="stm32h743-fanxing"
+    groups="stm32h743-fanxing,stm32h743-fanxing_hal_tutorial"
     name="ebf_stm32h743_fanxing_hal_tutorial_pdf" 
     path="野火开源图书/[野火]《STM32 HAL库开发实战指南》/H743_繁星/HAL_pdf文档"/>
 
    <project remote="Embedfire-motor" revision="master" 
-    groups="stm32h743-fanxing"
+    groups="stm32h743-fanxing,stm32h743-fanxing_hal_tutorial"
     name="ebf_stm32h743_fanxing_hal_code" 
     path="野火开源图书/[野火]《STM32 HAL库开发实战指南》/H743_繁星/HAL_配套代码"/>
 
@@ -19,7 +19,7 @@
 
 
   <project remote="Embedfire-motor" revision="master" 
-    groups="stm32h743-fanxing"
+    groups="stm32h743-fanxing,stm32h743-fanxing_motor_tutorial_code"
     name="ebf_motor_tutorial_code_stm32h743_fanxing" 
     path="野火开源图书/[野火]《电机应用开发实战指南—基于STM32》/H743_繁星_电机配套代码"/>
 
