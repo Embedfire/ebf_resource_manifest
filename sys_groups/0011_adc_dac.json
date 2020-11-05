@@ -21,6 +21,17 @@
                 "descript":"AD5689_DAC模块"
               }
             ]
+           },
+           { 
+            "productName": "AD9280_9708模块_FPGA",
+            "productLink": "http://products.embedfire.com/zh_CN/latest/module/relay/relay_4.html",
+            "repoGroup": [
+              {
+                "groupName":"AD9280_9708模块_FPGA",
+                "group":"ebf_ad9280_9708",
+                "descript":"AD9280_9708模块_FPGA开发板专用"
+              }
+            ]
            }
 
     ]

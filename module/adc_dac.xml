@@ -23,12 +23,8 @@
   path="野火模块产品/ADC_DAC模块/adc_ad7192/配套代码"/>
 
 
-
-
-
-
-
-
+  <project remote="Embedfire-altera" revision="master" groups="ebf_ad9280_9708" name="ebf_AD9280_9708_code_altera_ep4ce10" 
+  path="野火模块产品/ADC_DAC模块/ad9280_9708_FPGA/"/>
 
 
 

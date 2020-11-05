@@ -32,12 +32,6 @@
 
 
   <project remote="Embedfire-altera" revision="master" 
-    groups="ebf_AD9280_9708"
-    name="ebf_AD9280_9708_code_altera_ep4ce10" 
-    path="野火FPGA开发板/EP4CE10/ebf_AD9280_9708模块"/>
-
-
-  <project remote="Embedfire-altera" revision="master" 
     groups="ebf_ep4ce10_ppt"
     name="ebf_ep4ce10_ppt" 
     path="野火FPGA开发板/EP4CE10/视频PPT"/>
