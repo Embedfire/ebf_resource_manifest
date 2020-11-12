@@ -28,8 +28,6 @@
 
 
 
- <project remote="Embedfire-motor" revision="master" groups="motor,steering_motor" name="ebf_steering_motor_rst" 
- path="野火模块产品/电机/舵机/rst格式文档"/>
  <project remote="Embedfire-motor" revision="master" groups="motor,steering_motor" name="ebf_steering_motor_code" 
  path="野火模块产品/电机/普通系列开发板配套例程/舵机"/>
 
