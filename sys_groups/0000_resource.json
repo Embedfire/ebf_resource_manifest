@@ -19,15 +19,15 @@
       "onlineDoc": [
         {
           "linkName":"野火产品简介",
-          "link": "https://products.embedfire.com"
+          "link": "http://products.embedfire.com"
         },
         {
           "linkName":"[野火]sphinx文档规范与模版",
-          "link": "https://contribute.doc.embedfire.com"
+          "link": "http://contribute.doc.embedfire.com"
         },
         {
           "linkName":"提交bug、issue到开源项目",
-          "link": "https://contribute.doc.embedfire.com"
+          "link": "http://contribute.doc.embedfire.com"
         }
       ]
     }
