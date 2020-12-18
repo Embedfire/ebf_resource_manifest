@@ -2,7 +2,7 @@
   "STM32系列开发板": [
     { 
       "productName": "STM32F103_MINI开发板",
-      "productLink": "http://products.embedfire.com/zh_CN/latest/stm32/ebf_stm32f103_mini.html",
+      "productLink": "https://item.taobao.com/item.htm?id=613077857784&spm=2014.21600712.0.0",
       "repoGroup": [
         {
           "groupName":"基本资料（必看）",
@@ -136,8 +136,8 @@
       "cloudLink":[
         {
           "linkName":"STM32F103_MINI开发板-资料盘",
-          "link":"https://pan.baidu.com/s/1UoRj_UxQLA7Fh-5AbTXR5w",
-          "code":"jx7t"
+          "link":"https://pan.baidu.com/s/1ci3HmDMNdzSOAneJWHPo5g",
+          "code":"1r2z"
         },
         {
           "linkName":"STM32F103_MINI开发板-视频盘",
@@ -149,7 +149,7 @@
 
      { 
       "productName": "STM32F103_指南者开发板",
-      "productLink": "http://products.embedfire.com/zh_CN/latest/stm32/ebf_stm32f103_zhinanzhe.html",
+      "productLink": "https://item.taobao.com/item.htm?id=600742299018&spm=2014.21600712.0.0",
       "repoGroup": [
         {
           "groupName":"基本资料",
@@ -288,8 +288,8 @@
       "cloudLink":[
         {
           "linkName":"STM32F103指南者-资料盘",
-          "link":"https://pan.baidu.com/s/1xhMiCKbrXnpegVNEaH20qQ",
-          "code":"bvk2"
+          "link":"https://pan.baidu.com/s/13bnrB-S8Y6JDRdXBbzzbjA",
+          "code":"pmf1"
         },
         {
           "linkName":"STM32F103指南者/霸道-视频盘",
@@ -301,7 +301,7 @@
 
     { 
       "productName": "STM32F103_霸道开发板",
-      "productLink": "https://ebf-products.readthedocs.io/zh_CN/latest/stm32/ebf_stm32f103_badao_v1_v2.html",
+      "productLink": "https://item.taobao.com/item.htm?id=600354493045&spm=2014.21600712.0.0",
       "repoGroup": [
         {
           "groupName":"基本资料",
@@ -444,8 +444,8 @@
       "cloudLink":[
         {
           "linkName":"STM32F103霸道-资料盘",
-          "link":"https://pan.baidu.com/s/1YiCmqaEIWk_pH7XkrWDtWQ",
-          "code":"lugv"
+          "link":"https://pan.baidu.com/s/1a57mQHzcDEUKuNMKbS1aBA",
+          "code":"vryl"
         },
         {
           "linkName":"STM32F103指南者/霸道-视频盘",
@@ -457,7 +457,7 @@
 
     { 
       "productName": "STM32F407_霸天虎开发板",
-      "productLink": "https://ebf-products.readthedocs.io/zh_CN/latest/stm32/ebf_stm32f407_batianhu_v1_v2.html",
+      "productLink": "https://item.taobao.com/item.htm?id=600742167230&spm=2014.21600712.0.0",
       "repoGroup": [
         {
           "groupName":"基本资料",
@@ -623,7 +623,7 @@
 
     { 
       "productName": "STM32F429_挑战者开发板",
-      "productLink": "https://ebf-products.readthedocs.io/zh_CN/latest/stm32/ebf_stm32f429_tiaozhanzhe_v1_v2.html#",
+      "productLink": "https://item.taobao.com/item.htm?id=600121332138&spm=2014.21600712.0.0",
       "repoGroup": [
         {
           "groupName":"基本资料",
@@ -796,7 +796,7 @@
 
     { 
       "productName": "STM32F767_挑战者开发板",
-      "productLink": "http://products.embedfire.com/zh_CN/latest/stm32/ebf_stm32f767_tiaozhanzhe_v2.html",
+      "productLink": "https://item.taobao.com/item.htm?id=600742035403&spm=2014.21600712.0.0",
       "repoGroup": [
         {
           "groupName":"基本资料",
@@ -949,7 +949,7 @@
 
     { 
       "productName": "STM32H743_挑战者开发板",
-      "productLink": "http://products.embedfire.com/zh_CN/latest/stm32/ebf_stm32h743_tiaozhanzhe_v2.html",
+      "productLink": "https://item.taobao.com/item.htm?id=600741759755&spm=2014.21600712.0.0",
       "repoGroup": [
         {
           "groupName":"基本资料",
@@ -1102,7 +1102,7 @@
 
     { 
       "productName": "STM32H743_Pro开发板",
-      "productLink": "http://products.embedfire.com/zh_CN/latest/stm32/ebf_stm32h743_pro.html",
+      "productLink": "https://item.taobao.com/item.htm?id=600354257295&spm=2014.21600712.0.0",
       "repoGroup": [
         {
           "groupName":"基本资料",
@@ -1255,7 +1255,7 @@
 
     { 
       "productName": "STM32H750_Pro开发板",
-      "productLink": "http://products.embedfire.com/zh_CN/latest/stm32/ebf_stm32h750_pro.html",
+      "productLink": "https://item.taobao.com/item.htm?id=600354257295&spm=2014.21600712.0.0",
       "repoGroup": [
         {
           "groupName":"基本资料",
@@ -1412,7 +1412,7 @@
 
     { 
       "productName": "STM32F103C8T6_核心板",
-      "productLink": "http://products.embedfire.com/zh_CN/latest/stm32/ebf_stm32f103c8t6_core.html",
+      "productLink": "https://item.taobao.com/item.htm?id=600554838297&spm=2014.21600712.0.0",
       "repoGroup": [
         {
           "groupName":"基本资料",
@@ -1442,7 +1442,7 @@
 
      { 
       "productName": "STM32F103ZET6_核心板",
-      "productLink": "http://products.embedfire.com/zh_CN/latest/stm32/ebf_stm32f103zet6_core.html",
+      "productLink": "https://item.taobao.com/item.htm?id=600554970147&spm=2014.21600712.0.0",
       "repoGroup": [
         {
           "groupName":"基本资料",

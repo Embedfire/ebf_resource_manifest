@@ -2,7 +2,7 @@
   "Linux系列开发板": [
     { 
      "productName": "i.MX 6ull开发板",
-     "productLink": "http://products.embedfire.com/zh_CN/latest/linux/ebf_i.mx6ull.html",
+     "productLink": "https://detail.tmall.com/item.htm?id=603861416510&spm=2014.21600712.0.0",
      "repoGroup": [
        {
          "groupName":"基本资料",
@@ -66,7 +66,7 @@
      "onlineDoc": [
       {
         "linkName":"《i.MX Linux开发实战指南》",
-        "link": "https://tutorial.linux.doc.embedfire.com"
+        "link": "http://doc.embedfire.com/linux/imx6/base/zh/latest/index.html"
       },
       {
         "linkName":"《EBF6ULL 硬件资料》",
