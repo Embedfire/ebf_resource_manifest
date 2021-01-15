@@ -34,6 +34,14 @@
         ],
         "onlineDoc": [
           {
+            "linkName":"《STM32 HAL库开发实战指南——基于野火F103 拂晓开发板》",
+            "link": "https://doc.embedfire.com/motor/f103fuxiao/zh/latest/index.html"
+          },
+          {
+            "linkName":"《电机应用开发实战指南-基于STM32》",
+            "link": "https://doc.embedfire.com/motor/motor_tutorial/zh/latest/index.html"
+          },
+          {
             "linkName":"《FreeRTOS 内核实现与应用开发实战—基于STM32》",
             "link": "https://ebf-freertos-tutorial.readthedocs.io"
           },
@@ -125,6 +133,14 @@
           }
         ],
         "onlineDoc": [
+          {
+            "linkName":"《STM32 HAL库开发实战指南——基于野火407 骄阳开发板》",
+            "link": "https://doc.embedfire.com/motor/f407jiaoyang/zh/latest/index.html"
+          },
+          {
+            "linkName":"《电机应用开发实战指南-基于STM32》",
+            "link": "https://doc.embedfire.com/motor/motor_tutorial/zh/latest/index.html"
+          },
           {
             "linkName":"《FreeRTOS 内核实现与应用开发实战—基于STM32》",
             "link": "https://ebf-freertos-tutorial.readthedocs.io"
@@ -225,6 +241,14 @@
   
         ],
         "onlineDoc": [
+          {
+            "linkName":"《STM32 HAL库开发实战指南——基于野火H743 繁星开发板》",
+            "link": "https://doc.embedfire.com/motor/h743fanxing/zh/latest/index.html"
+          },
+          {
+            "linkName":"《电机应用开发实战指南-基于STM32》",
+            "link": "https://doc.embedfire.com/motor/motor_tutorial/zh/latest/index.html"
+          },
           {
             "linkName":"《FreeRTOS 内核实现与应用开发实战—基于STM32》",
             "link": "https://ebf-freertos-tutorial.readthedocs.io"
