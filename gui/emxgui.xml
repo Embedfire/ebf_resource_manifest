@@ -5,8 +5,7 @@
   <!--开源图书-->
     <!--操作系统-->
 
-  <project remote="Embedfire-emxgui" revision="master" groups="emxgui,emxgui_base" name="emXGUI_tutorial" path="野火开源图书/[野火]《emXGUI应用开发实战指南》/rst格式文档"/>
-
+  
   <project remote="Embedfire-emxgui" revision="master" groups="emxgui,emxgui_base" name="emXGUI_API_manal" path="野火开源图书/[野火]《emXGUI应用开发实战指南》/emXGUI_API手册_rst格式"/>
   <project remote="Embedfire-emxgui" revision="master" groups="emxgui,emxgui_base" name="emXGUI_tutorial_pdf" path="野火开源图书/[野火]《emXGUI应用开发实战指南》/pdf文档"/>
 

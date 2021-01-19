@@ -7,7 +7,7 @@
   <!--开源图书-->
     <!--操作系统-->
 
-  <project remote="Embedfire-liteos" revision="master" groups="liteos,liteos_base" name="ebf_liteos_tutorial" path="野火开源图书/[野火]《物联网操作系统 LiteOS开发实战指南》/rst格式文档"/>
+ 
 
   <project remote="Embedfire-liteos" revision="master" groups="liteos,liteos_base" name="ebf_liteos_tutorial_pdf" path="野火开源图书/[野火]《物联网操作系统 LiteOS开发实战指南》/pdf文档"/>
   <project remote="Embedfire-liteos" revision="master" groups="liteos,liteos_base" name="ebf_liteos_data" path="野火开源图书/[野火]《物联网操作系统 LiteOS开发实战指南》/参考资料"/>

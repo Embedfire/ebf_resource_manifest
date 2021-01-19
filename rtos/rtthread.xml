@@ -6,8 +6,8 @@
   <!--开源图书-->
     <!--操作系统-->
 
-  <project remote="Embedfire-rtthread" revision="master" groups="rtthread,rtthread_base" name="ebf_rtthread_tutorial" path="野火开源图书/[野火]《RT-Thread 内核实现与应用开发实战》/rst格式文档"/>
-  <project remote="Embedfire-rtthread" revision="master" groups="rtthread,rtthread_base" name="ebf_rtthread_tutorial_rt1052" path="野火开源图书/[野火]《RT-Thread 内核实现与应用开发实战》/rt1052_rst格式文档"/>
+ 
+
 
   <project remote="Embedfire-rtthread" revision="master" groups="rtthread,rtthread_base" name="ebf_rtthread_tutorial_pdf" path="野火开源图书/[野火]《RT-Thread 内核实现与应用开发实战》/pdf文档"/>
   <project remote="Embedfire-rtthread" revision="master" groups="rtthread,rtthread_base" name="ebf_rtthread_data" path="野火开源图书/[野火]《RT-Thread 内核实现与应用开发实战》/参考资料"/>

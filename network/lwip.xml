@@ -5,9 +5,6 @@
   <!--开源图书-->
     <!--lwip-->
 
-  <project remote="Embedfire-lwip" revision="master" groups="lwip,lwip_base" name="ebf_lwip_tutorial" path="野火开源图书/[野火]《LwIP应用开发实战指南》/rst格式文档(STM32)"/>
-  <project remote="Embedfire-lwip" revision="master" groups="lwip,lwip_base" name="ebf_lwip_tutorial_rt1052" path="野火开源图书/[野火]《LwIP应用开发实战指南》/rst格式文档(iMXRT)"/>
-
   <project remote="Embedfire-lwip" revision="master" groups="lwip,lwip_base" name="ebf_lwip_tutorial_pdf" path="野火开源图书/[野火]《LwIP应用开发实战指南》/pdf文档"/>
   <project remote="Embedfire-lwip" revision="master" groups="lwip,lwip_base" name="ebf_lwip_data" path="野火开源图书/[野火]《LwIP应用开发实战指南》/参考资料"/>
 

@@ -19,10 +19,7 @@
     name="ebf_stm32f407_batianhu_hal_tutorial_pdf" 
     path="野火开源图书/[野火]《STM32 HAL库开发实战指南》/F407_霸天虎/HAL_pdf文档"/>
 
-  <project remote="Embedfire-stm32f407-batianhu" revision="master" 
-    groups="stm32f407_batianhu_hal_tutorial_rst"
-    name="ebf_stm32f407_batianhu_hal_tutorial" 
-    path="野火开源图书/[野火]《STM32 HAL库开发实战指南》/F407_霸天虎/HAL_rst格式文档"/>
+
 
   <project remote="Embedfire-stm32f407-batianhu" revision="master" 
     groups="stm32,stm32f407_batianhu,stm32f407_batianhu_hal_tutorial"
@@ -32,10 +29,7 @@
 
   <!-- 标准库 -->
 
-  <project remote="Embedfire-stm32f407-batianhu" revision="master" 
-    groups="stm32f407_batianhu_std_tutorial_rst"
-    name="ebf_stm32f407_batianhu_std_tutorial"
-    path="野火开源图书/[野火]《STM32库开发实战指南》/F407_霸天虎/标准库_rst格式文档"/>
+
 
 
   <project remote="Embedfire-stm32f407-batianhu" revision="master" 

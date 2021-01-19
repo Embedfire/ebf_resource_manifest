@@ -5,7 +5,7 @@
   <!--开源图书-->
     <!--操作系统-->
 
-  <project remote="Embedfire-emwin" revision="master" groups="emwin,emwin_base" name="ebf_emwin_tutorial" path="野火开源图书/[野火]《emWin应用开发实战指南》/rst格式文档"/>
+ 
 
   <project remote="Embedfire-emwin" revision="master" groups="emwin,emwin_base" name="ebf_emwin_tutorial_pdf" path="野火开源图书/[野火]《emWin应用开发实战指南》/pdf文档"/>
   <project remote="Embedfire-emwin" revision="master" groups="emwin,emwin_base" name="ebf_emwin_data" path="野火开源图书/[野火]《emWin应用开发实战指南》/参考资料"/>
