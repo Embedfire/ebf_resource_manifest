@@ -13,11 +13,11 @@
       "onlineDoc": [
         {
           "linkName":"STM32F429_挑战者_标准库《DCMI—OV5640摄像头》",
-          "link": "https://ebf-stm32f429-tiaozhanzhe-std-tutorial.readthedocs.io/zh_CN/latest/book/DCMI_OV5640.html"
+          "link": "https://doc.embedfire.com/mcu/stm32/f429tiaozhanzhe/std/zh/latest/book/DCMI_OV5640.html"
         },
         {
           "linkName":"STM32F429_挑战者《QR-Decoder-OV5640二维码识别》",
-          "link":"https://ebf-stm32f429-tiaozhanzhe-std-tutorial.readthedocs.io/zh_CN/latest/book/QR.html"
+          "link":"https://doc.embedfire.com/mcu/stm32/f429tiaozhanzhe/std/zh/latest/book/QR.html"
         }
       ],
       "onlineViedeo":[
@@ -49,7 +49,7 @@
       "onlineDoc": [
         {
           "linkName":"STM32F429_挑战者_标准库《DCMI—OV2640摄像头》",
-          "link": "https://ebf-stm32f429-tiaozhanzhe-std-tutorial.readthedocs.io/zh_CN/latest/book/DCMI_OV2640.html"
+          "link": "https://doc.embedfire.com/mcu/stm32/f429tiaozhanzhe/std/zh/latest/book/DCMI_OV2640.html"
         }
       ],
       "onlineViedeo":[
@@ -81,11 +81,11 @@
       "onlineDoc": [
         {
           "linkName":"STM32F103_霸道_标准库《 OV7725摄像头驱动》",
-          "link": "https://ebf-stm32f103-badao-std-tutorial.readthedocs.io/zh_CN/latest/book/OV7725.html"
+          "link": "https://doc.embedfire.com/mcu/stm32/f103badao/std/zh/latest/book/OV7725.html"
         },
         {
           "linkName":"STM32F103_霸道_HAL库《 OV7725摄像头驱动》",
-          "link": "https://ebf-stm32f103-badao-hal-tutorial.readthedocs.io/zh_CN/latest/doc/chapter45/chapter45.html"
+          "link": "https://doc.embedfire.com/mcu/stm32/f103badao/hal/zh/latest/doc/chapter45/chapter45.html"
         }
       ],
       "onlineViedeo":[

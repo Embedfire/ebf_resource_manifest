@@ -33,23 +33,23 @@
       "onlineDoc": [
        {
          "linkName":"《STM32库开发实战指南——基于STM32F103_MINI开发板》",
-         "link": "https://ebf-stm32f103-mini-std-tutorial.readthedocs.io"
+         "link": "https://doc.embedfire.com/mcu/stm32/f103mini/std/zh/latest/index.html"
        },
        {
          "linkName":"《STM32库开发实战指南——基于STM32F103_指南者开发板》",
-         "link": "https://ebf-stm32f103-zhinanzhe-std-tutorial.readthedocs.io"
+         "link": "https://doc.embedfire.com/mcu/stm32/f103zhinanzhe/std/zh/latest/index.html"
        },
        {
          "linkName":"《STM32库开发实战指南——基于STM32F103_霸道开发板》",
-         "link": "https://ebf-stm32f103-badao-std-tutorial.readthedocs.io"
+         "link": "http://doc.embedfire.com/products/link/zh/latest/stm32/ebf_stm32f103_badao_v1_v2.html"
        },
        {
          "linkName":"《STM32 库开发实战指南——基于野火F407霸天虎开发板》",
-         "link": "https://ebf-stm32f407-batianhu-std-tutorial.readthedocs.io"
+         "link": "https://doc.embedfire.com/mcu/stm32/f407batianhu/std/zh/latest/index.html"
        },
        {
          "linkName":"《STM32库开发实战指南——基于野火F429挑战者V2开发板》",
-         "link": "https://ebf-stm32f429-tiaozhanzhe-std-tutorial.readthedocs.io"
+         "link": "https://doc.embedfire.com/mcu/stm32/f429tiaozhanzhe/std/zh/latest/index.html"
        }
      ],
      "onlineViedeo":[
@@ -140,39 +140,39 @@
      "onlineDoc": [
       {
         "linkName":"《STM32 HAL库开发实战指南——基于STM32F103_MINI开发板》",
-        "link": "https://ebf-stm32f103-mini-hal-tutorial.readthedocs.io"
+        "link": "https://doc.embedfire.com/mcu/stm32/f103mini/hal/zh/latest/index.html"
       },
       {
         "linkName":"《STM32 HAL库开发实战指南——F103_指南者开发板》",
-        "link": "https://ebf-stm32f103-zhinanzhe-hal-tutorial.readthedocs.io/"
+        "link": "https://doc.embedfire.com/mcu/stm32/f103zhinanzhe/hal/zh/latest/index.html"
       },
       {
         "linkName":"《STM32 HAL库开发实战指南——基于STM32F103_霸道开发板》",
-        "link": "https://ebf-stm32f103-badao-hal-tutorial.readthedocs.io"
+        "link": "https://doc.embedfire.com/mcu/stm32/f103badao/hal/zh/latest/index.html"
       },
       {
         "linkName":"《STM32 HAL库开发实战指南——基于STM32F407_霸天虎开发板》",
-        "link": "https://ebf-stm32f407-batianhu-hal-tutorial.readthedocs.io"
+        "link": "https://doc.embedfire.com/mcu/stm32/f407batianhu/hal/zh/latest/index.html"
       },
       {
         "linkName":"《STM32 HAL库开发实战指南——基于STM32F429_挑战者开发板》",
-        "link": "https://ebf-stm32f429-tiaozhanzhe-hal-tutorial.readthedocs.io"
+        "link": "https://doc.embedfire.com/mcu/stm32/f429tiaozhanzhe/hal/zh/latest/index.html"
       },
       {
         "linkName":"《STM32 HAL库开发实战指南——基于STM32F767_挑战者开发板》",
-        "link": "https://ebf-stm32f767-tiaozhanzhe-hal-tutorial.readthedocs.io"
+        "link": "https://doc.embedfire.com/mcu/stm32/f767tiaozhanzhe/hal/zh/latest/index.html"
       },
       {
         "linkName":"《STM32 HAL库开发实战指南——基于野火H743挑战者V2开发板》",
-        "link": "https://ebf-stm32h743-tiaozhanzhe-hal-tutorial.readthedocs.io"
+        "link": "https://doc.embedfire.com/mcu/stm32/h743tiaozhanzhe/hal/zh/latest/index.html"
       },
       {
         "linkName":"《STM32 HAL库开发实战指南——基于野火H743 Pro开发板》",
-        "link": "https://ebf-stm32h743-pro-v-hal-tutorial.readthedocs.io"
+        "link": "https://doc.embedfire.com/mcu/stm32/h743prov/hal/zh/latest/index.html"
       },
       {
         "linkName":"《STM32 HAL库开发实战指南——基于野火H743 Pro开发板》",
-        "link": "https://ebf-stm32h743-pro-v-hal-tutorial.readthedocs.io"
+        "link": "https://doc.embedfire.com/mcu/stm32/h750prov/hal/zh/latest/index.html"
       }
     ]
 
@@ -252,7 +252,7 @@
 
     { 
      "productName": "《FreeRTOS内核实现与应用开发实战》",
-     "productLink": "http://products.embedfire.com/zh_CN/latest/tutorial/ebf_freertos_tutorial.html",
+     "productLink": "http://doc.embedfire.com/products/link/zh/latest/tutorial/ebf_freertos_tutorial.html",
      "repoGroup": [
        {
          "groupName":"基本资料",
@@ -273,11 +273,11 @@
      "onlineDoc": [
       {
         "linkName":"《FreeRTOS 内核实现与应用开发实战—基于STM32》",
-        "link": "https://ebf-freertos-tutorial.readthedocs.io"
+        "link": "https://doc.embedfire.com/rtos/freertos/zh/latest/index.html"
       },
       {
         "linkName":"《FreeRTOS 内核实现与应用开发实战—基于RT1052》",
-        "link": "https://ebf-freertos-tutorial-rt1052.readthedocs.io"
+        "link": "https://doc.embedfire.com/rtos/freertos/i.mx_rt1052/zh/latest/index.html"
       }
     ],
     "onlineViedeo":[
@@ -298,7 +298,7 @@
 
     { 
      "productName": "《Rt-thread 内核实现与应用开发实战》",
-     "productLink": "http://products.embedfire.com/zh_CN/latest/tutorial/ebf_rtthread_tutorial.html",
+     "productLink": "http://doc.embedfire.com/products/link/zh/latest/tutorial/ebf_rtthread_tutorial.html",
      "repoGroup": [
        {
          "groupName":"基本资料",
@@ -319,11 +319,11 @@
      "onlineDoc": [
       {
         "linkName":"《Rt-thread 内核实现与应用开发实战—基于STM32》",
-        "link": "https://ebf-rtthread-tutorial.readthedocs.io"
+        "link": "https://doc.embedfire.com/rtos/rtthread/stm32/zh/latest/index.html"
       },
       {
         "linkName":"《RT-Thread 内核实现与应用开发实战—基于RT1052》",
-        "link": "https://ebf-rtthread-tutorial-rt1052.readthedocs.io"
+        "link": "https://doc.embedfire.com/rtos/rtthread/i.mx_rt1052/zh/latest/index.html"
       }
      ],
      "cloudLink":[
@@ -338,7 +338,7 @@
 
     { 
       "productName": "《uCOS-III内核实现与应用开发实战》",
-      "productLink": "http://products.embedfire.com/zh_CN/latest/tutorial/ebf_ucos_tutorial.html",
+      "productLink": "http://doc.embedfire.com/products/link/zh/latest/tutorial/ebf_ucos_tutorial.html",
       "repoGroup": [
         {
           "groupName":"基本资料",
@@ -354,11 +354,11 @@
       "onlineDoc": [
       {
         "linkName":"《uCOS-III 内核实现与应用开发实战—基于STM32》",
-        "link": "https://ebf-ucos-tutorial.readthedocs.io"
+        "link": "https://doc.embedfire.com/rtos/ucos/stm32/zh/latest/index.html"
       },
       {
         "linkName":"《uCOS-III 内核实现与应用开发实战—基于RT1052》",
-        "link": "https://ebf-ucos-tutorial-rt1052.readthedocs.io"
+        "link": "https://doc.embedfire.com/rtos/ucos/i.mx_rt1052/zh/latest/index.html"
       }
     ],
     "onlineViedeo":[
@@ -380,7 +380,7 @@
 
     { 
       "productName": "《物联网操作系统 LiteOS开发实战指南》",
-      "productLink": "http://products.embedfire.com/zh_CN/latest/tutorial/ebf_liteos_tutorial.html",
+      "productLink": "http://doc.embedfire.com/products/link/zh/latest/tutorial/ebf_liteos_tutorial.html",
       "repoGroup": [
         {
           "groupName":"基本资料",
@@ -396,7 +396,7 @@
       "onlineDoc": [
       {
         "linkName":"《物联网操作系统 LiteOS开发实战指南—基于STM32》",
-        "link": "https://ebf-liteos-tutorial.readthedocs.io"
+        "link": "https://doc.embedfire.com/rtos/liteos/zh/latest/index.html"
       }
     ],
     "cloudLink":[
@@ -410,7 +410,7 @@
 
     { 
       "productName": "《emWin应用开发实战指南》",
-      "productLink": "http://products.embedfire.com/zh_CN/latest/tutorial/ebf_liteos_tutorial.html",
+      "productLink": "http://doc.embedfire.com/products/link/zh/latest/tutorial/ebf_emwin_tutorial.html",
       "repoGroup": [
         {
           "groupName":"基本资料",
@@ -431,7 +431,7 @@
       "onlineDoc": [
       {
         "linkName":"《emWin应用开发实战指南——基于STM32》",
-        "link": "https://ebf-emwin-tutorial.readthedocs.io"
+        "link": "https://doc.embedfire.com/stemwin/emwin/zh/latest/index.html"
       }
     ],
     "onlineViedeo":[
@@ -451,7 +451,7 @@
 
     { 
      "productName": "《LwIP应用开发实战指南》",
-     "productLink": "http://products.embedfire.com/zh_CN/latest/tutorial/ebf_freertos_tutorial.html",
+     "productLink": "http://doc.embedfire.com/products/link/zh/latest/tutorial/ebf_lwip_tutorial.html",
      "repoGroup": [
        {
          "groupName":"基本资料",
@@ -472,11 +472,11 @@
      "onlineDoc": [
       {
         "linkName":"《LwIP应用开发实战指南—基于STM32》",
-        "link": "https://ebf-lwip-tutorial.readthedocs.io"
+        "link": "https://doc.embedfire.com/net/lwip/stm32/zh/latest/index.html"
       },
       {
         "linkName":"《LwIP应用开发实战指南—基于RT1052》",
-        "link": "https://ebf-lwip-tutorial-rt1052.readthedocs.io"
+        "link": "https://doc.embedfire.com/net/lwip/i.mx_rt1052/zh/latest/index.html"
       }
     ],
     "onlineViedeo":[
@@ -498,7 +498,7 @@
 
     { 
       "productName": "《emXGUI应用开发实战指南》",
-      "productLink": "http://products.embedfire.com/zh_CN/latest/tutorial/ebf_liteos_tutorial.html",
+      "productLink": "http://doc.embedfire.com/products/link/zh/latest/tutorial/ebf_emxgui_tutorial.html",
       "repoGroup": [
         {
           "groupName":"基本资料",
@@ -514,7 +514,7 @@
       "onlineDoc": [
       {
         "linkName":"《emXGUI应用开发实战指南——基于STM32》",
-        "link": "https://emxgui-tutorial-doc.readthedocs.io"
+        "link": "https://doc.embedfire.com/gui/emXGUI/zh/latest/index.html"
       },
       {
         "linkName":"《emXGUI API 手册》",

@@ -1,35 +1,56 @@
 {
     "ADC_DAC模块": [
+      { 
+        "productName": "AD7192_ADC模块",
+        "productLink": "http://doc.embedfire.com/products/link/zh/latest/module/adc_dac/adc_ad7192.html",
+        "repoGroup": [
+          {
+            "groupName":"AD7192_ADC模块",
+            "group":"ebf_adc_ad7192",
+            "descript":"AD7192_ADC模块"
+          }
+        ],
+        "cloudLink":[
+          {
+            "linkName":"百度云-野火ADC_AD7192模块",
+            "link":"https://pan.baidu.com/s/1b4qMvyNZepVtkWfD-B6iNw",
+            "code":"8gnz"
+          }
+        ]
+       },
         { 
             "productName": "AD5689_DAC模块",
-            "productLink": "http://products.embedfire.com/zh_CN/latest/module/relay/relay_4.html",
+            "productLink": "http://doc.embedfire.com/products/link/zh/latest/module/adc_dac/dac_ad5689.html",
             "repoGroup": [
               {
                 "groupName":"AD5689_DAC模块",
                 "group":"ebf_dac_ad5689",
                 "descript":"AD5689_DAC模块"
               }
-            ]
-           },
-           { 
-            "productName": "AD7192_ADC模块",
-            "productLink": "http://products.embedfire.com/zh_CN/latest/module/relay/relay_4.html",
-            "repoGroup": [
+            ],
+            "cloudLink":[
               {
-                "groupName":"AD5689_DAC模块",
-                "group":"ebf_adc_ad7192",
-                "descript":"AD5689_DAC模块"
+                "linkName":"百度云-野火DAC_AD5689模块",
+                "link":"https://pan.baidu.com/s/15QLa2uyYmu2Hnad5JVi8YA",
+                "code":"bxsr"
               }
             ]
            },
            { 
             "productName": "AD9280_9708模块_FPGA",
-            "productLink": "http://products.embedfire.com/zh_CN/latest/module/relay/relay_4.html",
+            "productLink": "http://doc.embedfire.com/products/link/zh/latest/module/adc_dac/ad9280_ad9708.html",
             "repoGroup": [
               {
                 "groupName":"AD9280_9708模块_FPGA",
                 "group":"ebf_ad9280_9708",
                 "descript":"AD9280_9708模块_FPGA开发板专用"
+              }
+            ],
+            "cloudLink":[
+              {
+                "linkName":"百度云-野火AD9280_AD9708模块-FPGA开发板专用",
+                "link":"https://pan.baidu.com/s/12yJAPSWmtqLzGr3OylPeXQ",
+                "code":"pwqw"
               }
             ]
            }

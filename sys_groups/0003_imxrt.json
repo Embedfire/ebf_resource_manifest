@@ -2,7 +2,7 @@
    "i.MX RT系列开发板": [
      { 
       "productName": "i.MX RT1021开发板",
-      "productLink": "http://products.embedfire.com/zh_CN/latest/i.mx-rt/ebf_i.mx-rt1021.html",
+      "productLink": "http://doc.embedfire.com/products/link/zh/latest/i.mx-rt/ebf_i.mx-rt1021.html",
       "repoGroup": [
         {
           "groupName":"基本资料",
@@ -22,7 +22,7 @@
 
     {
       "productName": "i.MX RT1052开发板",
-      "productLink": "http://products.embedfire.com/zh_CN/latest/i.mx-rt/ebf_i.mx-rt1052.html",
+      "productLink": "http://doc.embedfire.com/products/link/zh/latest/i.mx-rt/ebf_i.mx-rt1052.html",
       "repoGroup": [
         {
           "groupName":"基本资料",
@@ -107,19 +107,19 @@
         },
         {
           "linkName":"《RT-Thread 内核实现与应用开发实战—基于RT1052》",
-          "link": "https://ebf-rtthread-tutorial-rt1052.readthedocs.io"
+          "link": "https://doc.embedfire.com/rtos/rtthread/i.mx_rt1052/zh/latest/index.html"
         },
         {
           "linkName":"《uCOS-III 内核实现与应用开发实战—基于RT1052》",
-          "link": "https://ebf-ucos-tutorial-rt1052.readthedocs.io"
+          "link": "https://doc.embedfire.com/rtos/ucos/i.mx_rt1052/zh/latest/index.html"
         },
         {
           "linkName":"《FreeRTOS 内核实现与应用开发实战—基于RT1052》",
-          "link": "https://ebf-freertos-tutorial-rt1052.readthedocs.io"
+          "link": "https://doc.embedfire.com/rtos/freertos/i.mx_rt1052/zh/latest/index.html"
         },
         {
           "linkName":"《LwIP应用开发实战指南—基于RT1052》",
-          "link": "https://ebf-lwip-tutorial-rt1052.readthedocs.io"
+          "link": "https://doc.embedfire.com/net/lwip/i.mx_rt1052/zh/latest/index.html"
         }
       ],
       "cloudLink":[

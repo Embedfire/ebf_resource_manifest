@@ -2,7 +2,7 @@
   "未分类模块": [
     { 
       "productName": "以太网_W5500",
-      "productLink": "http://products.embedfire.com/zh_CN/latest/module/enternet/w5500.html",
+      "productLink": "http://doc.embedfire.com/products/link/zh/latest/module/enternet/w5500.html",
       "repoGroup": [
         {
           "groupName":"基本资料",
@@ -22,7 +22,7 @@
 
     { 
       "productName": "MP3_VS1053",
-      "productLink": "http://products.embedfire.com/zh_CN/latest/module/audio/mp3_vs1053.html",
+      "productLink": "http://doc.embedfire.com/products/link/zh/latest/module/audio/mp3_vs1053.html",
       "repoGroup": [
         {
           "groupName":"基本资料",
@@ -41,7 +41,7 @@
 
      { 
        "productName": "继电器_四路",
-       "productLink": "http://products.embedfire.com/zh_CN/latest/module/relay/relay_4.html",
+       "productLink": "http://doc.embedfire.com/products/link/zh/latest/module/relay/relay_4.html",
        "repoGroup": [
          {
            "groupName":"基本资料",

@@ -2,12 +2,12 @@
   "旧产品": [
     { 
       "productName": "【旧】野火F103初初初初代开发板",
-      "productLink": "http://products.embedfire.com/zh_CN/latest/old_products/ebf_f103_first.html"
+      "productLink": "http://doc.embedfire.com/products/link/zh/latest/old_products/ebf_f103_first.html"
      },
 
      { 
       "productName": "【旧】野火F429第一代开发板(至尊版)",
-      "productLink": "http://products.embedfire.com/zh_CN/latest/old_products/ebf_f429_first.html",
+      "productLink": "http://doc.embedfire.com/products/link/zh/latest/old_products/ebf_f429_first.html",
       "cloudLink":[
         {
           "linkName":"百度云-【旧】野火F429第一代开发板(至尊版)",
@@ -19,7 +19,7 @@
 
      { 
       "productName": "【旧】野火ISO-V1开发板资料",
-      "productLink": "http://products.embedfire.com/zh_CN/latest/old_products/ebf_iso_v1.html",
+      "productLink": "http://doc.embedfire.com/products/link/zh/latest/old_products/ebf_iso_v1.html",
       "cloudLink":[
         {
           "linkName":"百度云-【旧】野火ISO-V1开发板资料",
@@ -31,7 +31,7 @@
 
     { 
       "productName": "【旧】野火ISO-V2开发板资料",
-      "productLink": "http://products.embedfire.com/zh_CN/latest/old_products/ebf_iso_v2.html",
+      "productLink": "http://doc.embedfire.com/products/link/zh/latest/old_products/ebf_iso_v2.html",
       "cloudLink":[
         {
           "linkName":"百度云-【旧】野火ISO-V2开发板资料",
@@ -43,7 +43,7 @@
 
      { 
       "productName": "【旧】野火M3开发板",
-      "productLink": "http://products.embedfire.com/zh_CN/latest/old_products/ebf_m3.html",
+      "productLink": "http://doc.embedfire.com/products/link/zh/latest/old_products/ebf_m3.html",
       "cloudLink":[
         {
           "linkName":"百度云-【旧】野火M3开发板",
@@ -56,7 +56,7 @@
 
      { 
       "productName": "【旧】野火MINI-V1开发板资料",
-      "productLink": "http://products.embedfire.com/zh_CN/latest/old_products/ebf_mini_v1.html",
+      "productLink": "http://doc.embedfire.com/products/link/zh/latest/old_products/ebf_mini_v1.html",
       "cloudLink":[
         {
           "linkName":"百度云-【旧】野火M3开发板",
@@ -68,7 +68,7 @@
 
      { 
       "productName": "【旧】野火MINI-V2开发板",
-      "productLink": "http://products.embedfire.com/zh_CN/latest/old_products/ebf_mini_v2.html#",
+      "productLink": "http://doc.embedfire.com/products/link/zh/latest/old_products/ebf_mini_v2.html",
       "cloudLink":[
         {
           "linkName":"百度云-【旧】野火M3开发板",
@@ -81,7 +81,7 @@
 
      { 
       "productName": "【旧】野火Zigbee开发板",
-      "productLink": "http://products.embedfire.com/zh_CN/latest/old_products/ebf_zigbee.html",
+      "productLink": "http://doc.embedfire.com/products/link/zh/latest/old_products/ebf_zigbee.html",
       "cloudLink":[
         {
           "linkName":"百度云-【旧】野火Zigbee开发板",

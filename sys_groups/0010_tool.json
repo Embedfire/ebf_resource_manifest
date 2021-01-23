@@ -2,7 +2,7 @@
   "开发工具": [
     { 
       "productName": "DAP下载器",
-      "productLink": "http://products.embedfire.com/zh_CN/latest/stm32/ebf_stm32f103_mini.html",
+      "productLink": "http://doc.embedfire.com/products/link/zh/latest/tool/dap/dap.html",
       "cloudLink":[
         {
           "linkName":"百度云-野火【DAP下载器】",
@@ -15,12 +15,6 @@
      { 
       "productName": "T12智能焊台",
       "productLink": "https://detail.tmall.com/item.htm?spm=a1z10.5-b.w4011-22026361158.33.1b2eabeaaKscfk&id=601827073283&rn=2255a81ae5cd571a37f339f2331846e6&abbucket=18",
-      "onlineDoc": [
-        {
-          "linkName":"《STM32库开发实战指南——F103_MINI开发板》",
-          "link": "http://products.embedfire.com/zh_CN/latest/tool/solder/solder.html"
-        }
-      ],
       "onlineViedeo":[
         {
           "videoName":"T1X焊台升温演示 与 如何安装 发热芯",

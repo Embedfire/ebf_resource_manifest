@@ -13,7 +13,7 @@
       "onlineDoc": [
         {
           "linkName":"STM32F103_指南者《MPU6050传感器—姿态检测》",
-          "link": "https://ebf-stm32f103-zhinanzhe-std-tutorial.readthedocs.io/zh_CN/latest/book/MPU6050.html"
+          "link": "https://doc.embedfire.com/mcu/stm32/f103badao/std/zh/latest/book/MPU6050.html"
         }
       ],
       "onlineViedeo":[

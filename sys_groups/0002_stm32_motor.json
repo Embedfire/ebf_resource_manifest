@@ -43,19 +43,19 @@
           },
           {
             "linkName":"《FreeRTOS 内核实现与应用开发实战—基于STM32》",
-            "link": "https://ebf-freertos-tutorial.readthedocs.io"
+            "link": "https://doc.embedfire.com/rtos/freertos/zh/latest/index.html"
           },
           {
             "linkName":"《Rt-thread 内核实现与应用开发实战—基于STM32》",
-            "link": "https://ebf-rtthread-tutorial.readthedocs.io"
+            "link": "https://doc.embedfire.com/rtos/rtthread/zh/latest/index.html"
           },
           {
             "linkName":"《uCOS-III 内核实现与应用开发实战—基于STM32》",
-            "link": "https://ebf-ucos-tutorial.readthedocs.io"
+            "link": "https://doc.embedfire.com/rtos/ucos/zh/latest/index.html"
           },
           {
             "linkName":"《物联网操作系统 LiteOS开发实战指南—基于STM32》",
-            "link": "https://ebf-liteos-tutorial.readthedocs.io"
+            "link": "https://doc.embedfire.com/rtos/liteos/zh/latest/index.html"
           }
         ],
         "onlineViedeo":[
@@ -143,23 +143,23 @@
           },
           {
             "linkName":"《FreeRTOS 内核实现与应用开发实战—基于STM32》",
-            "link": "https://ebf-freertos-tutorial.readthedocs.io"
+            "link": "https://doc.embedfire.com/rtos/freertos/zh/latest/index.html"
           },
           {
             "linkName":"《Rt-thread 内核实现与应用开发实战—基于STM32》",
-            "link": "https://ebf-rtthread-tutorial.readthedocs.io"
+            "link": "https://doc.embedfire.com/rtos/rtthread/zh/latest/index.html"
           },
           {
             "linkName":"《uCOS-III 内核实现与应用开发实战—基于STM32》",
-            "link": "https://ebf-ucos-tutorial.readthedocs.io"
+            "link": "https://doc.embedfire.com/rtos/ucos/zh/latest/index.html"
           },
           {
             "linkName":"《物联网操作系统 LiteOS开发实战指南—基于STM32》",
-            "link": "https://ebf-liteos-tutorial.readthedocs.io"
+            "link": "https://doc.embedfire.com/rtos/liteos/zh/latest/index.html"
           },
           {
             "linkName":"《emWin应用开发实战指南—基于STM32》",
-            "link": "https://ebf-emwin-tutorial.readthedocs.io"
+            "link": "https://doc.embedfire.com/stemwin/emwin/zh/latest/index.html"
           }
         ],
         "onlineViedeo":[
@@ -251,23 +251,23 @@
           },
           {
             "linkName":"《FreeRTOS 内核实现与应用开发实战—基于STM32》",
-            "link": "https://ebf-freertos-tutorial.readthedocs.io"
+            "link": "https://doc.embedfire.com/rtos/freertos/zh/latest/index.html"
           },
           {
             "linkName":"《Rt-thread 内核实现与应用开发实战—基于STM32》",
-            "link": "https://ebf-rtthread-tutorial.readthedocs.io"
+            "link": "https://doc.embedfire.com/rtos/rtthread/zh/latest/index.html"
           },
           {
             "linkName":"《uCOS-III 内核实现与应用开发实战—基于STM32》",
-            "link": "https://ebf-ucos-tutorial.readthedocs.io"
+            "link": "https://doc.embedfire.com/rtos/ucos/zh/latest/index.html"
           },
           {
             "linkName":"《物联网操作系统 LiteOS开发实战指南—基于STM32》",
-            "link": "https://ebf-liteos-tutorial.readthedocs.io"
+            "link": "https://doc.embedfire.com/rtos/liteos/zh/latest/index.html"
           },
           {
             "linkName":"《emWin应用开发实战指南—基于STM32》",
-            "link": "https://ebf-emwin-tutorial.readthedocs.io"
+            "link": "https://doc.embedfire.com/stemwin/emwin/zh/latest/index.html"
           }
         ],
         "onlineViedeo":[
