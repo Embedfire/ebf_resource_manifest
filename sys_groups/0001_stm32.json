@@ -1471,12 +1471,7 @@
      },
      { 
       "productName": "STM32开发板选择介绍",
-      "onlineDoc": [
-        {
-          "linkName":"STM32开发板选择介绍",
-          "link": "http://doc.embedfire.com/products/link/zh/latest/stm32/product_selection/product_selection.html"
-        }
-      ]
+      "productLink": "http://doc.embedfire.com/products/link/zh/latest/stm32/product_selection/product_selection.html"
      }
 
    ]
