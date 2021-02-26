@@ -365,8 +365,16 @@
           }
         ]
 
+       },
+       { 
+        "productName": "STM32电机产品选择介绍",
+        "onlineDoc": [
+          {
+            "linkName":"STM32电机产品选择介绍",
+            "link": "http://doc.embedfire.com/products/link/zh/latest/stm32_motor/product_selection/product_selection.html"
+          }
+        ]
        }
   
-
      ]
   }

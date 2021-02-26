@@ -1,0 +1,14 @@
+{
+    "其他组件参考例程": [
+        { 
+         "productName": "Modbus参考例程",
+         "productLink": "http://doc.embedfire.com/products/link/zh/latest/package/modbus.html"
+        },
+        { 
+          "productName": "CANOpen参考例程",
+          "productLink": "http://doc.embedfire.com/products/link/zh/latest/package/canopen.html"
+         }
+  
+ 
+   ]
+ }
