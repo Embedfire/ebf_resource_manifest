@@ -64,7 +64,7 @@
    "repoGroup": [
      {
        "groupName":"基本资料",
-       "group":"ebf_artix7_tutorial_pdf，ebf_artix7_hardware",
+       "group":"ebf_artix7_tutorial_pdf,ebf_artix7_hardware",
        "descript":"开发板手册，硬件资料，源码阅读PDF文件夹必读说明，源码阅读PDF文件夹必读说明，源码阅读PDF文件夹必读说明"
      }
    ],
