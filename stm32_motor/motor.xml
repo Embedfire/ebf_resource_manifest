@@ -2,6 +2,19 @@
 <manifest>
 
 
+
+
+
+
+  <project remote="Embedfire-motor" revision="master" groups="motor,motor-data" name="motor-data" 
+  path="野火模块产品/电机/电机资料必读说明"/>
+
+
+  <project remote="Embedfire-motor" revision="master" groups="motor,must_read" name="must_read" 
+  path="野火模块产品/电机/电机参数相关"/>
+
+
+
   <project remote="Embedfire-motor" revision="master" groups="motor,motor_driver" name="ebf_motor_driver_msd4805" 
   path="野火模块产品/电机/步进电机驱动模块msd4805/配套资料"/>
 

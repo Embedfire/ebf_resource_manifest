@@ -21,7 +21,16 @@
 
 
 
+  <project remote="Embedfire-xilinx" revision="master" 
+    groups="ebf_artix7_hardware"
+    name="ebf_artix7_hardware" 
+    path="野火FPGA开发板/ARTIX7/硬件资料与必读说明"/>
 
+
+  <project remote="Embedfire-xilinx" revision="master" 
+    groups="ebf_artix7_tutorial_pdf"
+    name="ebf_artix7_tutorial_pdf" 
+    path="野火开源图书/[野火]《FPGA Verilog开发实战指南》/artix7/pdf文档"/>
 
 
 </manifest>

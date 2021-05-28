@@ -1,5 +1,53 @@
 {
     "STM32电机系列开发板": [
+      
+      { 
+        "productName": "电机_驱动板硬件资料",
+        "productLink": "https://yehuosm.tmall.com/category-1564239223.htm?spm=a220o.1000855.w5002-23268010637.6.24ed30c5VFbyJe",
+        "repoGroup": [
+ 
+
+          {
+            "groupName":"电机参数相关",
+            "group":"motor-data",
+            "descript":"店铺售卖电机参数"
+          },
+
+          {
+            "groupName":"直流无刷电机驱动板",
+            "group":"brushless_motor_driver",
+            "descript":"直流无刷电机驱动板"
+          },
+          {
+            "groupName":"直流有刷电机驱动板",
+            "group":"brushed_motor_driver",
+            "descript":"直流有刷电机驱动板"
+          },
+          {
+            "groupName":"L298N电机驱动",
+            "group":"l298n_driver",
+            "descript":"L298N电机驱动"
+          },
+          {
+            "groupName":"步进电机驱动器",
+            "group":"motor_driver",
+            "descript":"步进电机驱动器"
+          },
+          {
+            "groupName":"舵机",
+            "group":"steering_motor",
+            "descript":"舵机"
+          }
+  
+        ],
+        "cloudLink":[
+          {
+            "linkName":"百度云-野火电机驱动板硬件资料",
+            "link":"https://pan.baidu.com/s/1c4bkNVmvHWeK6yBxJanT8Q",
+            "code":"mv4y"
+          }
+        ]
+       },
 
       { 
         "productName": "STM32F103_拂晓开发板",
@@ -298,52 +346,6 @@
             "linkName":"STM32电机系列-视频盘-更新中",
             "link":"https://pan.baidu.com/s/1NWb0bkPxGGJnAafdv_D9-A",
             "code":"2g5a"
-          }
-        ]
-       },
-
-
-
-
-
-
-
-      { 
-        "productName": "电机_驱动板硬件资料",
-        "productLink": "https://yehuosm.tmall.com/category-1564239223.htm?spm=a220o.1000855.w5002-23268010637.6.24ed30c5VFbyJe",
-        "repoGroup": [
-          {
-            "groupName":"直流无刷电机驱动板",
-            "group":"brushless_motor_driver",
-            "descript":"直流无刷电机驱动板"
-          },
-          {
-            "groupName":"直流有刷电机驱动板",
-            "group":"brushed_motor_driver",
-            "descript":"直流有刷电机驱动板"
-          },
-          {
-            "groupName":"L298N电机驱动",
-            "group":"l298n_driver",
-            "descript":"L298N电机驱动"
-          },
-          {
-            "groupName":"步进电机驱动器",
-            "group":"motor_driver",
-            "descript":"步进电机驱动器"
-          },
-          {
-            "groupName":"舵机",
-            "group":"steering_motor",
-            "descript":"舵机"
-          }
-  
-        ],
-        "cloudLink":[
-          {
-            "linkName":"百度云-野火电机驱动板硬件资料",
-            "link":"https://pan.baidu.com/s/1c4bkNVmvHWeK6yBxJanT8Q",
-            "code":"mv4y"
           }
         ]
        },

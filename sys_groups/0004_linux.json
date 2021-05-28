@@ -7,29 +7,13 @@
        {
          "groupName":"基本资料",
          "group":"imx6_base",
-         "descript":"包含基础教程，开发板硬件资料"
+         "descript":"下载must read部分了解资料与源码相关，hardware包含原理图、封装库、尺寸图等"
        },
-       {
-         "groupName":"buildroot相关",
-         "group":"imx6_buildroot",
-         "descript":"buildroot开发方式使用的内核，uboot等，内核源码请在Linux下克隆，Win下会出错",
-         "warning":"Linux内核源码及uboot请在Linux系统下克隆，Windows下检出会出错"
-       },
-       {
-         "groupName":"debian镜像源码",
-         "group":"arm_debian",
-         "descript":"适配于开发板的debian镜像制作工具和源码，内核源码请在linux下克隆，Win下会出错",
-         "warning":"Linux内核源码及uboot请在Linux系统下克隆，Windows下检出会出错"
-       },
+       
        {
         "groupName":"系统工具源码",
         "group":"linux_tool_src",
         "descript":"包含系统工具的源码,如fire-config等"
-       },
-       {
-         "groupName":"qt程序相关",
-         "group":"qt_app",
-         "descript":"包含示例qt的源码等内容"
        },
        {
           "groupName":"python IO控制库",
@@ -66,7 +50,7 @@
      "onlineDoc": [
       {
         "linkName":"《i.MX Linux开发实战指南》",
-        "link": "http://doc.embedfire.com/linux/imx6/base/zh/latest/index.html"
+        "link": "http://doc.embedfire.com/products/link/zh/latest/linux/ebf_i.mx6ull_LubanCat.html"
       },
       {
         "linkName":"《EBF6ULL 硬件资料》",
