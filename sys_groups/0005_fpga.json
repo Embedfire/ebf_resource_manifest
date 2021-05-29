@@ -29,7 +29,7 @@
     ],
     "onlineViedeo":[
       {
-        "videoName":"视频教程-《FPGA Verilog开发实战指南》",
+        "videoName":"视频教程-《FPGA Verilog开发实战指南 —— Altera_EP4CE10 》",
         "link":"https://www.bilibili.com/video/BV17z411i7er"
       }
 
@@ -71,8 +71,13 @@
   "cloudLink":[
     {
       "linkName":"Artix7开发板【资料盘】-百度云",
-      "link":"https://pan.baidu.com/s/1CleYNCYtVR_E2eIRyg8vLw",
-      "code":"2pvu"
+      "link":"https://pan.baidu.com/s/14mMNMvaAcoqI7uRv-TYJ2A",
+      "code":"bof5"
+    },
+    {
+      "linkName":"Artix7开发板【视频盘】-百度云",
+      "link":"https://pan.baidu.com/s/194SqYaCQ53J64w1re0vV3g",
+      "code":"lae7"
     }
     
   ],

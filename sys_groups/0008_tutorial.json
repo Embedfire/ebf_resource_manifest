@@ -221,7 +221,13 @@
       "groupName":"基于Xilinx XC6SLX16",
       "group":"xc6slx16_base",
       "descript":"包含代码和PDF、硬件原理图"
+    },
+    {
+      "groupName":"基于Xilinx Artix7",
+      "group":"ebf_artix7_tutorial_pdf,ebf_artix7_hardware",
+      "descript":"包含PDF、硬件原理图，代码看PDF文件夹必读说明"
     }
+    
 
       ],
       "cloudLink":[
@@ -239,13 +245,27 @@
           "linkName":"XC6SLX16开发板【资料盘】-百度云",
           "link":"https://pan.baidu.com/s/1NV6lcZbRn2kAqK4PXDGCUw",
           "code":"2wun"
+        },
+        {
+          "linkName":"Artix7开发板【资料盘】-百度云",
+          "link":"https://pan.baidu.com/s/14mMNMvaAcoqI7uRv-TYJ2A",
+          "code":"bof5"
+        },
+        {
+          "linkName":"Artix7开发板【视频盘】-百度云",
+          "link":"https://pan.baidu.com/s/194SqYaCQ53J64w1re0vV3g",
+          "code":"lae7"
         }
 
       ],
     "onlineViedeo":[
       {
-        "videoName":"视频教程-《FPGA Verilog开发实战指南》",
+        "videoName":"视频教程-《FPGA Verilog开发实战指南 —— Altera_EP4CE10 》",
         "link":"https://www.bilibili.com/video/BV17z411i7er"
+      },
+      {
+        "videoName":"视频教程-《FPGA Verilog开发实战指南 —— Xilinx Artix7 》",
+        "link":"https://www.bilibili.com/video/BV1nQ4y1Z7zN"
       }
     ]
     },
