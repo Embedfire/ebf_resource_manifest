@@ -67,9 +67,6 @@
   <remote fetch="https://gitee.com/Embedfire-rtthread" name="Embedfire-rtthread"/>
   <remote fetch="https://gitee.com/Embedfire-liteos" name="Embedfire-liteos"/>
 
-
-
-
   <!--stm32开发板 -->
   <remote fetch="https://gitee.com/Embedfire-stm32f103-mini" name="Embedfire-stm32f103-mini"/>
   <remote fetch="https://gitee.com/Embedfire-stm32f103-zhinanzhe" name="Embedfire-stm32f103-zhinanzhe"/>
@@ -79,8 +76,6 @@
   <remote fetch="https://gitee.com/Embedfire-stm32f767-tiaozhanzhe" name="Embedfire-stm32f767-tiaozhanzhe"/>
   <remote fetch="https://gitee.com/Embedfire-stm32h743-tiaozhanzhe" name="Embedfire-stm32h743-tiaozhanzhe"/>
   <remote fetch="https://gitee.com/Embedfire-stm32h7-pro" name="Embedfire-stm32h7-pro"/>
-
-
 
 
 

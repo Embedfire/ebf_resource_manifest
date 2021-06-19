@@ -6,41 +6,16 @@
 
 
 
-
-  <!--F1 HAL PDF -->
-  <project remote="Embedfire-stm32f103-zhinanzhe" revision="master" 
-    groups="stm32,f1_hal_tutorial"
-    name="ebf_stm32f103_hal_tutorial_general_pdf" 
-    path="野火开源图书/[野火]《STM32 HAL库开发实战指南》/F103_HAL_pdf文档"/>
-
-  <!-- F4 HAL PDF -->
-  <project remote="Embedfire-stm32f429-tiaozhanzhe" revision="master" 
-    groups="stm32,f4_hal_tutorial"
-    name="ebf_stm32f4_hal_tutorial_general_pdf" 
-    path="野火开源图书/[野火]《STM32 HAL库开发实战指南》/F407_F429_HAL_pdf文档"/>
-
-
-  <!-- HAL PDF
-  <project remote="Embedfire-stm32f103-badao" revision="master" 
-    groups="stm32,stm32f103_badao,stm32f103_badao_hal_tutorial"
-    name="ebf_stm32f103_badao_hal_tutorial_pdf" 
-    path="野火开源图书/[野火]《STM32 HAL库开发实战指南》/F767_H743_H750_HAL_pdf文档"/> -->
-
-
-
-
-
-
-
  <!--F1通用资料-->
   <project remote="Embedfire-stm32f103-zhinanzhe" revision="master" 
     groups="stm32f1_common" name="ebf_stm32f1_official_data" 
     path="野火STM32开发板/STM32F1官方资料"/>
 
 
-  <project remote="Embedfire-stm32f103-zhinanzhe" revision="master" 
-    groups="stm32f1_common" name="ebf_stm32f1_official_data" 
-    path="野火STM32开发板/STM32F1官方资料"/>
+  <project remote="Embedfire-stm32f103-badao" revision="master" 
+    groups="stm32f1_common_ppt"
+    name="ebf_stm32f103_std_tutorial_ppt" 
+    path="野火开源图书/[野火]《STM32库开发实战指南》/PPT"/>
 
 
 
