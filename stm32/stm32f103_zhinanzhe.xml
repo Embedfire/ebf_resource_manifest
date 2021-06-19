@@ -15,12 +15,7 @@
   path="野火STM32开发板/F103_指南者/开发板用前必读"/>
 
 
-  <!-- HAL库 -->
 
-  <project remote="Embedfire-stm32f103-zhinanzhe" revision="master" 
-    groups="stm32,stm32f103_zhinanzhe,stm32f103_zhinanzhe_hal_tutorial"
-    name="ebf_stm32f103_zhinanzhe_hal_tutorial_pdf" 
-    path="野火开源图书/[野火]《STM32 HAL库开发实战指南》/F103_指南者/HAL_pdf文档"/>
 
 
 
