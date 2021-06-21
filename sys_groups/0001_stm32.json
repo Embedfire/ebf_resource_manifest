@@ -6,7 +6,7 @@
       "repoGroup": [
         {
           "groupName":"基本资料（必看）",
-          "group":"stm32f1_common,stm32f103_mini,stm32f1_common_ppt",
+          "group":"stm32f1_common,stm32f103_mini,stm32f1_common_ppt,f1_hal_tutorial",
           "descript":"推荐先学习这部分的内容，包含硬件、库开发等"
         },
         {
@@ -87,8 +87,8 @@
           "link": "https://doc.embedfire.com/mcu/stm32/f103mini/std/zh/latest/index.html"
         },
         {
-          "linkName":"《STM32 HAL库开发实战指南——F103_MINI开发板》",
-          "link": "https://doc.embedfire.com/mcu/stm32/f103mini/hal/zh/latest/index.html"
+          "linkName":"《STM32 HAL库开发实战指南——基于F103系列开发板》",
+          "link": "https://doc.embedfire.com/mcu/stm32/f103/hal_general/zh/latest/index.html"
         },
         {
           "linkName":"《FreeRTOS 内核实现与应用开发实战—基于STM32》",
@@ -153,7 +153,7 @@
       "repoGroup": [
         {
           "groupName":"基本资料",
-          "group":"stm32f1_common,stm32f103_zhinanzhe,tm32f1_common_ppt",
+          "group":"stm32f1_common,stm32f103_zhinanzhe,tm32f1_common_ppt,f1_hal_tutorial",
           "descript":"推荐先学习这部分的内容，包含硬件、库开发等"
         },
         {
@@ -239,8 +239,8 @@
           "link": "https://doc.embedfire.com/mcu/stm32/f103zhinanzhe/std/zh/latest/index.html"
         },
         {
-          "linkName":"《STM32 HAL库开发实战指南——F103_指南者开发板》",
-          "link": "https://doc.embedfire.com/mcu/stm32/f103zhinanzhe/hal/zh/latest/index.html"
+          "linkName":"《STM32 HAL库开发实战指南——基于F103系列开发板》",
+          "link": "https://doc.embedfire.com/mcu/stm32/f103/hal_general/zh/latest/index.html"
         },
         {
           "linkName":"《FreeRTOS 内核实现与应用开发实战—基于STM32》",
