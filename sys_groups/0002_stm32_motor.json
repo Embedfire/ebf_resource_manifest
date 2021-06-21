@@ -141,7 +141,7 @@
         "repoGroup": [
           {
             "groupName":"基本资料（必看）",
-            "group":"stm32f407_common,motor_tutorial_pdf,stm32f407-jiaoyang",
+            "group":"stm32f407_common,motor_tutorial_pdf,stm32f407-jiaoyang,f4_hal_tutorial",
             "descript":"推荐先学习这部分的内容，包含硬件、HAL库开发、电机开发等"
           },
           {
@@ -182,8 +182,8 @@
         ],
         "onlineDoc": [
           {
-            "linkName":"《STM32 HAL库开发实战指南——基于野火407 骄阳开发板》",
-            "link": "https://doc.embedfire.com/motor/f407jiaoyang/zh/latest/index.html"
+            "linkName":"《STM32 HAL库开发实战指南——基于野火F4系列开发板》",
+            "link": "https://doc.embedfire.com/mcu/stm32/f4/hal_general/zh/latest/index.html"
           },
           {
             "linkName":"《电机应用开发实战指南-基于STM32》",

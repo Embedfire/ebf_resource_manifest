@@ -26,9 +26,6 @@
 
 
 
-
-
-
  <!--F1通用资料-->
   <project remote="Embedfire-stm32f103-zhinanzhe" revision="master" 
     groups="stm32f1_common" name="ebf_stm32f1_official_data" 
