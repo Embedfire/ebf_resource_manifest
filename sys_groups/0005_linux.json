@@ -53,7 +53,7 @@
         "link": "http://doc.embedfire.com/products/link/zh/latest/linux/ebf_i.mx6ull_doc.html"
       },
       {
-        "linkName":"《EBF6ULL 硬件资料》",
+        "linkName":"EBF6ULL 硬件资料",
         "link": "https://doc.embedfire.com/linux/imx6/hardware/zh/latest/index.html"
       }
     ],
@@ -77,12 +77,7 @@
         "linkName":"imx6ul Debian镜像百度云链接",
         "link":"https://pan.baidu.com/s/1pqVHVIdY97VApz-rVVa8pQ",
         "code":"uge1"
-      },
-      {
-        "linkName":"imx6ul Debian镜像Sourceforge链接",
-        "link":"https://sourceforge.net/projects/ebf-debian-firmware/",
-        "code":"直接下载即可"
-      }     
+      }    
     ],
     "onlineViedeo":[
       {
@@ -108,7 +103,31 @@
 
     ]
 
-   }
+   },
+
+   { 
+    "productName": "STM32 MP157开发板",
+    "productLink": "https://detail.tmall.com/item.htm?id=651362344137&spm=a8919.3000000002019401.0.1",
+  
+    "onlineDoc": [
+     {
+       "linkName":"《i.MX Linux开发实战指南-MP157》",
+       "link": "http://doc.embedfire.com/products/link/zh/latest/linux/ebf_stm32mp157_doc.html"
+     },
+     {
+       "linkName":"MP157 硬件资料",
+       "link": "https://doc.embedfire.com/st-mp1/hardware/ebf_mp157_hardware/zh/latest/index.html"
+     }
+   ],
+   "cloudLink":[
+     {
+       "linkName":"MP157开发板资料盘-百度云",
+       "link":"https://pan.baidu.com/s/1ygYd2wR4a8ZS1g1_wRJp8w",
+       "code":"g7ui"
+     }   
+   ]
+
+  }
 
 
  ]
